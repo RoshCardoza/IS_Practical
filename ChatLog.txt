@@ -1,0 +1,981 @@
+Started Log at 17:19:32
+Started Log at 17:23:00
+05:23:09 nachm. [Unity]: hllo
+Started Log at 17:24:14
+Started Log at 22:16:46
+Started Log at 22:17:49
+Started Log at 16:07:41
+04:08:03 nachm. [Unity]: Hallo!
+04:08:09 nachm. [Unity]: so hallo
+04:08:16 nachm. [Unity]: das ist jetzt nicht optimal aber es funktioniert ein bisschen
+Started Log at 16:52:25
+Started Log at 16:52:25
+04:53:58 nachm. [Arzt]: Hallo!
+04:53:59 nachm. [Arzt]: Hmm... Das klingt unpraktisch.
+04:54:26 nachm. [Arzt]: papi wei?t du kommission geht ?ber windows l?uft
+04:54:35 nachm. [Arzt]: ihr habt mal ein paar probleme aber in der theorie ist sie da
+04:54:49 nachm. [Arzt]: Hallo!
+Started Log at 02:41:12
+Started Log at 23:53:27
+11:54:03 nachm. [Arzt]: efswefes
+Started Log at 00:00:09
+Started Log at 14:30:11
+Started Log at 02:31:11
+02:31:20 vorm. [gtjzgj]: awdawdawdawdwdwd
+Started Log at 02:31:53
+02:31:59 vorm. [gtjzgj]: tswefsefsefe
+Started Log at 03:07:02
+Started Log at 03:07:17
+03:07:23 vorm. [gtjzgj]: wdawdw
+03:07:25 vorm. [gtjzgj]: Wie gehts?
+03:07:25 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+03:07:25 vorm. [gtjzgj]: Haben sie schon Kopfschmerztabletten genommen?
+Started Log at 03:16:11
+Started Log at 13:21:55
+Started Log at 13:22:08
+Started Log at 17:16:52
+Started Log at 17:20:37
+Started Log at 17:27:49
+05:27:58 nachm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+05:28:02 nachm. [gtjzgj]:  awdawdaw
+Started Log at 22:47:35
+Started Log at 22:47:56
+Started Log at 22:51:36
+Started Log at 22:54:23
+Started Log at 22:58:43
+Started Log at 23:03:29
+Started Log at 23:07:26
+Started Log at 23:10:52
+Started Log at 23:57:15
+Started Log at 02:51:38
+Started Log at 02:51:38
+Started Log at 02:51:38
+02:55:28 vorm. [Spieler 2]: Hallo!
+02:55:28 vorm. [Spieler 2]: Wie gehts?
+03:00:03 vorm. [Spieler 1]: Gut, Danke
+Started Log at 13:12:01
+Started Log at 23:29:27
+Started Log at 23:34:29
+Started Log at 23:34:43
+Started Log at 23:36:23
+Started Log at 23:42:40
+11:42:45 nachm. [gtjzgj]: Hallo!
+11:42:46 nachm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+11:42:46 nachm. [gtjzgj]: Haben sie schon Kopfschmerztabletten genommen?
+11:42:47 nachm. [gtjzgj]: Wie gro? sind Sie in Meter?
+11:42:47 nachm. [gtjzgj]: Treiben Sie regelm??ig Sport? Wenn Ja, nennen Sie die Sportart(en) bitte.
+11:42:48 nachm. [gtjzgj]: Nehmen Sie Medikamente ein?
+11:42:50 nachm. [gtjzgj]: Welche der folgenden Medikamente nehmen Sie ein?
+11:42:55 nachm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+Started Log at 23:44:09
+11:44:13 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:13 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:13 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:14 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:14 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:14 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:14 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:14 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:14 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:15 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:15 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:15 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:15 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:44:15 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+Started Log at 23:50:47
+11:50:50 nachm. [gtjzgj]: Hallo!
+11:50:51 nachm. [gtjzgj]: Wie gehts?
+11:50:52 nachm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+11:50:58 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:50:58 nachm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+11:50:58 nachm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+11:50:59 nachm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+11:50:59 nachm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+11:50:59 nachm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+11:51:00 nachm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+11:51:00 nachm. [gtjzgj]: Wann sind Sie geboren?
+11:51:00 nachm. [gtjzgj]: Nehmen Sie Medikamente ein?
+11:51:01 nachm. [gtjzgj]: Nehmen Sie Medikamente ein?
+11:51:02 nachm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+11:51:43 nachm. [gtjzgj]: Wann sind Sie geboren?
+11:51:55 nachm. [gtjzgj]: Wann sind Sie geboren?
+Started Log at 23:54:45
+11:54:49 nachm. [gtjzgj]: Hallo!
+11:54:49 nachm. [gtjzgj]: Wie gehts?
+11:54:50 nachm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+11:54:50 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:54:50 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:54:50 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:54:51 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:54:51 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:54:51 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:54:51 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:54:51 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:54:51 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:54:52 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:54:52 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+Started Log at 23:55:46
+11:55:56 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:55:57 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:55:57 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:55:57 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:55:57 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:55:57 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:55:58 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:55:58 nachm. [gtjzgj]: Guten Tag, Herr M?ller.
+11:56:01 nachm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+11:56:01 nachm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+11:58:26 nachm. [gtjzgj]: Welche der folgenden Medikamente nehmen Sie ein?
+Started Log at 00:04:53
+12:04:57 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:04:58 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:04:58 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:04:58 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:04:59 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:04:59 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:04:59 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:04:59 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:04:59 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:05:00 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:05:00 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:05:33 vorm. [gtjzgj]: Wann sind Sie geboren?
+12:05:34 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:05:34 vorm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+Started Log at 00:15:56
+12:16:00 vorm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+12:16:01 vorm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+12:16:01 vorm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+12:16:01 vorm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+12:16:02 vorm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+12:16:02 vorm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+12:16:02 vorm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+12:16:03 vorm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+12:16:03 vorm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+12:16:03 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:16:03 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:16:04 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:16:04 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:16:04 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:16:05 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:16:05 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:16:05 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:16:05 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:16:05 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:16:06 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:07 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+12:16:07 vorm. [gtjzgj]: Wann sind Sie geboren?
+12:16:07 vorm. [gtjzgj]: Treiben Sie regelm??ig Sport? Wenn Ja, nennen Sie die Sportart(en) bitte.
+12:16:08 vorm. [gtjzgj]: Treiben Sie regelm??ig Sport? Wenn Ja, nennen Sie die Sportart(en) bitte.
+12:16:08 vorm. [gtjzgj]: Treiben Sie regelm??ig Sport? Wenn Ja, nennen Sie die Sportart(en) bitte.
+12:16:08 vorm. [gtjzgj]: Treiben Sie regelm??ig Sport? Wenn Ja, nennen Sie die Sportart(en) bitte.
+12:16:08 vorm. [gtjzgj]: Treiben Sie regelm??ig Sport? Wenn Ja, nennen Sie die Sportart(en) bitte.
+12:16:09 vorm. [gtjzgj]: Wie gro? sind Sie in Meter?
+12:16:10 vorm. [gtjzgj]: Wie gro? sind Sie in Meter?
+12:16:10 vorm. [gtjzgj]: Nehmen Sie Medikamente ein?
+12:16:10 vorm. [gtjzgj]: Nehmen Sie Medikamente ein?
+12:16:11 vorm. [gtjzgj]: Nehmen Sie Medikamente ein?
+12:16:11 vorm. [gtjzgj]: Nehmen Sie Medikamente ein?
+12:16:11 vorm. [gtjzgj]: Nehmen Sie Medikamente ein?
+12:16:11 vorm. [gtjzgj]: Nehmen Sie Medikamente ein?
+12:16:11 vorm. [gtjzgj]: Nehmen Sie Medikamente ein?
+12:16:12 vorm. [gtjzgj]: Nehmen Sie Medikamente ein?
+12:16:12 vorm. [gtjzgj]: Nehmen Sie Medikamente ein?
+12:16:12 vorm. [gtjzgj]: Nehmen Sie Medikamente ein?
+12:16:12 vorm. [gtjzgj]: Nehmen Sie Medikamente ein?
+12:16:12 vorm. [gtjzgj]: Wie gro? sind Sie in Meter?
+12:16:13 vorm. [gtjzgj]: Wie gro? sind Sie in Meter?
+12:16:13 vorm. [gtjzgj]: Wie gro? sind Sie in Meter?
+12:16:13 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:13 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:14 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:16:14 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:16:14 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:16:15 vorm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+12:16:15 vorm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+12:16:16 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:16:17 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:17 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:18 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:18 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:18 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:18 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:18 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:19 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:19 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:19 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:19 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:19 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:19 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:19 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:16:20 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+Started Log at 00:17:39
+12:17:42 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:17:43 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:17:43 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:17:53 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+12:17:54 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+12:17:54 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+12:17:54 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+12:17:54 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+12:17:54 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+12:17:55 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+Started Log at 00:22:42
+12:22:44 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:22:44 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:22:44 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:22:45 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:22:45 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:22:45 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:22:45 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:22:46 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:22:46 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:22:50 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:22:51 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:22:51 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:22:51 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:22:51 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:22:51 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+Started Log at 00:50:47
+12:50:51 vorm. [gtjzgj]: Hallo!
+12:50:54 vorm. [gtjzgj]: Hallo!
+12:50:54 vorm. [gtjzgj]: Hallo!
+12:50:54 vorm. [gtjzgj]: Hallo!
+12:50:54 vorm. [gtjzgj]: Hallo!
+12:50:54 vorm. [gtjzgj]: Hallo!
+12:50:54 vorm. [gtjzgj]: Hallo!
+12:50:55 vorm. [gtjzgj]: Hallo!
+12:50:55 vorm. [gtjzgj]: Hallo!
+12:50:56 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:50:57 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+12:50:58 vorm. [gtjzgj]: Haben sie schon Kopfschmerztabletten genommen?
+12:50:59 vorm. [gtjzgj]: Haben sie schon Kopfschmerztabletten genommen?
+12:50:59 vorm. [gtjzgj]: Haben sie schon Kopfschmerztabletten genommen?
+12:50:59 vorm. [gtjzgj]: Haben sie schon Kopfschmerztabletten genommen?
+12:51:00 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:51:01 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:51:01 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:51:01 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:51:01 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:51:01 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:51:02 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:51:02 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:51:02 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:51:02 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:51:02 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:51:02 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+Started Log at 00:52:56
+12:53:01 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:53:02 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:53:03 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:53:04 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:53:04 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:53:04 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:53:04 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:53:11 vorm. [gtjzgj]: Wann sind Sie geboren?
+Started Log at 00:54:14
+12:54:19 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+Started Log at 00:56:00
+12:56:03 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:56:15 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+12:56:16 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+12:56:16 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+Started Log at 00:57:09
+12:57:13 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:57:21 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:57:21 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:57:22 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:57:22 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:57:22 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:57:22 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+12:57:37 vorm. [gtjzgj]: mmmmmmmmmmmmmmmmmmmmmmmmmmmm
+12:57:47 vorm. [gtjzgj]: mmmmmmmmmmmmmmm
+12:57:51 vorm. [gtjzgj]: mmmmmmmmmmm
+12:57:57 vorm. [gtjzgj]: mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+Started Log at 00:58:37
+12:58:41 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+Started Log at 00:59:07
+12:59:10 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+12:59:10 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+12:59:11 vorm. [gtjzgj]: Wann sind Sie geboren?
+12:59:11 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+Started Log at 00:59:40
+12:59:43 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+12:59:44 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+12:59:45 vorm. [gtjzgj]: Ich bin VADIAN, der digitale Asssistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+Started Log at 01:00:27
+01:00:30 vorm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+01:00:31 vorm. [gtjzgj]: Welche der folgenden Beschwerden plagen Sie: Kopfschmerzen, Gliederschmerzen oder Fieber?
+01:00:31 vorm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+01:00:31 vorm. [gtjzgj]: Guten Tag, Herr M?ller.
+01:00:32 vorm. [gtjzgj]: Haben sie schon Kopfschmerztabletten genommen?
+01:00:32 vorm. [gtjzgj]: Haben sie schon Kopfschmerztabletten genommen?
+01:00:33 vorm. [gtjzgj]: Hmm... Das klingt unpraktisch.
+Started Log at 01:07:07
+01:07:12 vorm. [Spieler 3]: Guten Tag, Herr M?ller.
+01:07:12 vorm. [Spieler 3]: Sind Sie mit der Vorgehensweise einverstanden?
+01:07:12 vorm. [Spieler 3]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+01:07:13 vorm. [Spieler 3]: Guten Tag, Herr M?ller.
+01:07:14 vorm. [Spieler 3]: Tja, da kann ich ihnen auch nicht helfen
+01:07:14 vorm. [Spieler 3]: Wie gehts?
+01:07:14 vorm. [Spieler 3]: Wie gehts?
+01:07:15 vorm. [Spieler 3]: Wie gehts?
+01:07:15 vorm. [Spieler 3]: Wie gehts?
+01:07:20 vorm. [Spieler 3]: awdawdw
+01:07:23 vorm. [Spieler 3]: dwwadwd
+Started Log at 01:55:03
+Started Log at 15:24:15
+03:24:19 nachm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+03:24:19 nachm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+03:24:19 nachm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+03:24:20 nachm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+03:24:20 nachm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+03:24:20 nachm. [gtjzgj]: Das tut mir leid zu h?ren. Bitte verlassen Sie die Kabine wieder, ich werde medizinisches Fachpersonal informieren.
+Started Log at 17:50:05
+05:50:09 nachm. [gtjzgj]: Wie gehts?
+05:50:09 nachm. [gtjzgj]: Tja, da kann ich ihnen auch nicht helfen
+05:50:09 nachm. [gtjzgj]: Sind Sie mit der Vorgehensweise einverstanden?
+05:50:10 nachm. [gtjzgj]: Wann sind Sie geboren?
+Started Log at 21:54:38
+Started Log at 21:54:38
+09:55:18 nachm. [Patient]: hallo
+09:55:25 nachm. [Patient]: wundersch?ne voicerecognition
+09:55:29 nachm. [Patient]: hallo ja
+09:55:31 nachm. [Patient]: hey
+09:56:14 nachm. [Arzt]: hallo
+09:56:18 nachm. [Arzt]: Hallo!
+09:56:18 nachm. [Arzt]: Wie gehts?
+09:56:24 nachm. [Arzt]: Sind Sie mit der Vorgehensweise einverstanden?
+Started Log at 15:49:50
+Started Log at 16:36:45
+Started Log at 16:37:45
+Started Log at 16:39:58
+Started Log at 16:46:02
+Started Log at 16:46:37
+Started Log at 16:48:30
+Started Log at 16:50:18
+Started Log at 16:52:09
+Started Log at 16:53:57
+Started Log at 16:57:58
+Started Log at 16:59:47
+Started Log at 17:01:44
+Started Log at 17:09:59
+Started Log at 17:11:28
+Started Log at 17:12:42
+Started Log at 17:14:28
+Started Log at 17:16:14
+Started Log at 17:17:53
+Started Log at 17:20:29
+Started Log at 17:22:29
+Started Log at 17:26:20
+Started Log at 17:28:13
+Started Log at 17:34:33
+Started Log at 17:36:26
+Started Log at 17:39:57
+Started Log at 17:41:38
+Started Log at 17:57:51
+Started Log at 18:00:30
+Started Log at 18:02:22
+06:02:27 nachm. [Arzt]: 
+						Guten Tag.
+					
+Started Log at 18:03:07
+06:03:11 nachm. [Arzt]: Guten Tag.
+06:03:12 nachm. [Arzt]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+06:03:15 nachm. [Arzt]: Sind Sie mit der Vorgehensweise einverstanden?
+06:03:20 nachm. [Arzt]: Ich stelle Ihnen nun ein paar grundlegende Fragen.
+06:03:22 nachm. [Arzt]: Was ist Ihr biologisches Geschlecht?
+06:03:23 nachm. [Arzt]: Wann sind Sie geboren?
+06:03:24 nachm. [Arzt]: Wie viel wiegen Sie in Kilogramm?
+06:03:25 nachm. [Arzt]: Wie gro? sind Sie in Metern?
+Started Log at 18:54:26
+06:54:33 nachm. [Arzt]: Guten Tag.
+Started Log at 18:59:30
+Started Log at 19:01:22
+07:01:31 nachm. [Arzt]: Guten Tag.
+07:01:33 nachm. [Arzt]: Guten Tag.
+07:01:33 nachm. [Arzt]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+Started Log at 19:03:00
+Started Log at 19:03:25
+Started Log at 19:07:15
+07:07:20 nachm. [Arzt]: ztdktzdfkl
+Started Log at 19:38:27
+Started Log at 23:23:59
+11:24:41 nachm. [Arzt]: Besteht eine k?rperliche 
+Beeintr?chtigung (z.B. 
+Behinderung, angeborene 
+Fehlbildung)?
+Started Log at 15:19:20
+03:19:32 nachm. [Arzt]: Das Personal wirkte gestresst.
+03:19:35 nachm. [Arzt]: Ich habe die gleichen Fragen an 
+mehreren Stationen beantworten 
+m?ssen.
+03:19:38 nachm. [Arzt]: Es folgen nun Fragen zu Ihrer 
+Haut
+Started Log at 15:53:22
+Started Log at 16:08:05
+Started Log at 16:08:05
+04:08:26 nachm. [Arzt]: Guten Tag.
+Started Log at 16:16:07
+Started Log at 16:16:07
+04:16:23 nachm. [Arzt]: Guten Tag.
+04:16:27 nachm. [Arzt]: Guten Tag.
+04:16:29 nachm. [Arzt]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+04:16:31 nachm. [Arzt]: Brauchen Sie Hilfe beim Essen, 
+Anziehen, Waschen oder 
+Benutzen der Toilette?
+04:16:32 nachm. [Arzt]: Waren Sie bei Ihren Hobbys oder 
+anderen Freizeitbesch?ftigungen 
+eingeschr?nkt?
+04:16:32 nachm. [Arzt]: Hatten Sie schmerzen?
+04:16:44 nachm. [Patient]: Sehr
+04:16:46 nachm. [Patient]: Sehr
+04:16:46 nachm. [Patient]: Sehr
+04:16:46 nachm. [Patient]: Sehr
+Started Log at 16:20:17
+Started Log at 16:20:17
+04:20:24 nachm. [Arzt]: Guten Tag.
+04:20:25 nachm. [Arzt]: Guten Tag.
+04:20:26 nachm. [Arzt]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+04:20:28 nachm. [Arzt]: Sind Sie mit der Vorgehensweise einverstanden?
+Started Log at 16:25:22
+Started Log at 16:25:22
+04:25:27 nachm. [Arzt]: Guten Tag.
+04:25:28 nachm. [Arzt]: Guten Tag.
+04:25:29 nachm. [Arzt]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+04:25:33 nachm. [Arzt]: Ich stelle Ihnen nun ein paar grundlegende Fragen.
+04:25:34 nachm. [Arzt]: Was ist Ihr biologisches Geschlecht?
+04:25:38 nachm. [Arzt]: Wann sind Sie geboren?
+04:25:39 nachm. [Arzt]: Wie viel wiegen Sie in Kilogramm?
+04:25:40 nachm. [Arzt]: Wie gro? sind Sie in Metern?
+04:25:42 nachm. [Arzt]: Stuhlkontrolle
+04:25:43 nachm. [Arzt]: Urinkontrolle
+04:25:43 nachm. [Arzt]: Toilettenbenutzung
+Started Log at 16:29:12
+Started Log at 16:30:40
+Started Log at 16:30:40
+04:30:57 nachm. [Arzt]: Bestehen akute/chronische 
+Schmerzen?
+04:31:02 nachm. [Arzt]: Welcher Art sind die Schmerzen?
+04:31:02 nachm. [Arzt]: Wie oft treten die Schmerzen auf?
+04:31:03 nachm. [Arzt]: Gibt es ?u?ere Einfl?sse, welche 
+den Schmerz ausl?sen oder 
+verst?rken?
+04:31:05 nachm. [Arzt]: Essen
+04:31:05 nachm. [Arzt]: Baden
+04:31:06 nachm. [Arzt]: Waschen(Rasieren, K?mmen, 
+Z?hneputzen)
+Started Log at 16:39:24
+Started Log at 16:45:42
+04:45:50 nachm. [Patient]: Hallo
+04:45:51 nachm. [Patient]: Hallo
+04:45:53 nachm. [Patient]: Hallo
+04:46:01 nachm. [Patient]: Hallo
+04:46:08 nachm. [Patient]: Hallo
+04:46:08 nachm. [Patient]: Hallo
+04:46:09 nachm. [Patient]: Hallo
+04:46:18 nachm. [Patient]: Hallo
+04:46:28 nachm. [Patient]: Hallo
+Started Log at 16:47:16
+04:47:17 nachm. [Patient]: Hallo
+04:47:20 nachm. [Patient]: Hallo
+04:47:21 nachm. [Patient]: Hallo
+04:47:22 nachm. [Patient]: Hallo
+04:47:44 nachm. [Patient]: Hallo
+04:47:50 nachm. [Patient]: Hallo
+Started Log at 16:51:53
+04:51:56 nachm. [Patient]: Hallo
+04:52:00 nachm. [Patient]: Hallo
+04:52:04 nachm. [Patient]: 1
+04:52:06 nachm. [Patient]: 3
+04:52:07 nachm. [Patient]: 4
+04:52:07 nachm. [Patient]: Hallo
+04:52:11 nachm. [Patient]: Hallo
+04:52:13 nachm. [Patient]: Hallo
+Started Log at 16:53:40
+04:53:41 nachm. [Patient]: Hallo
+04:53:46 nachm. [Patient]: Hallo
+04:53:53 nachm. [Patient]: Hallo
+04:53:56 nachm. [Patient]: Hallo
+04:53:56 nachm. [Patient]: Hallo
+04:53:59 nachm. [Patient]: Hallo
+04:54:12 nachm. [Patient]: Hallo
+04:54:12 nachm. [Patient]: Hallo
+04:54:17 nachm. [Patient]: Hallo
+04:54:34 nachm. [Patient]: 2
+04:54:34 nachm. [Patient]: 3
+04:54:35 nachm. [Patient]: Hallo
+Started Log at 16:55:47
+04:55:51 nachm. [Patient]: Hallo
+04:55:51 nachm. [Patient]: Hallo
+04:55:51 nachm. [Patient]: Hallo
+04:55:59 nachm. [Patient]: Hallo
+04:56:03 nachm. [Patient]: Hallo
+04:56:05 nachm. [Patient]: Hallo
+04:56:06 nachm. [Patient]: Hallo
+04:56:10 nachm. [Patient]: Hallo
+04:56:15 nachm. [Patient]: 1
+04:56:15 nachm. [Patient]: Hallo
+04:56:15 nachm. [Patient]: 2
+04:56:16 nachm. [Patient]: 3
+04:56:16 nachm. [Patient]: 4
+04:56:17 nachm. [Patient]: 4
+04:56:17 nachm. [Patient]: 4
+Started Log at 17:04:49
+05:04:57 nachm. [Patient]: Hallo
+05:05:00 nachm. [Patient]: Hallo
+05:05:02 nachm. [Patient]: Hallo
+05:05:02 nachm. [Patient]: Hallo
+Started Log at 17:07:12
+Started Log at 17:07:12
+05:07:25 nachm. [Arzt]: Guten Tag.
+05:07:32 nachm. [Arzt]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+05:07:33 nachm. [Arzt]: Sind Sie mit der Vorgehensweise einverstanden?
+05:07:41 nachm. [Patient]: 
+								Ja
+							
+05:07:49 nachm. [Arzt]: Fahren wir nun mit einigen Fragen bez?glich Ihrer pers?nlichen Lebensumst?nden fort
+05:07:50 nachm. [Arzt]: Verstehen Sie deutsch in Wort und Schrift?
+05:07:51 nachm. [Arzt]: Welchen Beruf ?ben sie aus
+05:07:52 nachm. [Arzt]: Treiben sie regelm??ig Sport? Wenn Ja nennen Sie die Sportart(en) bitte im Folgenden
+05:07:53 nachm. [Arzt]: Trinken Sie mehrmals pro Woche Alkohol (z.B. Bier, Wein, hochprozentige Alkoholika)?
+05:07:53 nachm. [Arzt]: Welche Arten Alkohol trinken 
+mehrmals w?chentlich?
+05:07:54 nachm. [Arzt]: Welche Arten Alkohol trinken 
+mehrmals w?chentlich?
+05:07:56 nachm. [Arzt]: Wie oft trinken Sie Alkohol pro 
+Woche?
+05:07:56 nachm. [Arzt]: Rauchen Sie?
+05:07:57 nachm. [Arzt]: Wie oft Rauchen Sie?
+05:08:05 nachm. [Arzt]: Meine Erwartung an den 
+Aufnahmeprozess wurde: 
+?bertroffen ? erf?llt ? entt?uscht
+05:08:06 nachm. [Arzt]: Ich habe die gleichen Fragen an 
+mehreren Stationen beantworten 
+m?ssen.
+05:08:06 nachm. [Arzt]: Einige meiner Aussagen wurden 
+vom Arzt/von der ?rztin ignoriert.
+05:08:06 nachm. [Arzt]: Alle Informationen wurden 
+sorgf?ltig dokumentiert.
+05:08:08 nachm. [Arzt]: Alle Informationen wurden 
+sorgf?ltig dokumentiert.
+05:08:08 nachm. [Arzt]: Das Personal wirkte gestresst.
+05:08:10 nachm. [Arzt]: Alle Informationen wurden 
+sorgf?ltig dokumentiert.
+05:08:10 nachm. [Arzt]: Einige meiner Aussagen wurden 
+vom Arzt/von der ?rztin ignoriert.
+05:08:11 nachm. [Arzt]: Ich habe die gleichen Fragen an 
+mehreren Stationen beantworten 
+m?ssen.
+05:08:13 nachm. [Arzt]: Welche Vorsorgeregelungen 
+haben Sie getroffen?
+05:08:15 nachm. [Arzt]: Haben Sie Vorsorgeregelungen 
+getroffen?
+05:08:15 nachm. [Arzt]: Liegen fr?here Befunde/
+R?ntgenbilder vor?
+05:08:16 nachm. [Arzt]: Welche Unterlagen liegen vor?
+Started Log at 00:14:37
+Started Log at 16:46:09
+Started Log at 16:46:09
+04:47:36 nachm. [Arzt]: Guten Tag.
+04:47:41 nachm. [Arzt]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+04:47:42 nachm. [Arzt]: Sind Sie mit der Vorgehensweise einverstanden?
+04:47:56 nachm. [Patient]: 
+								Nein
+							
+Started Log at 19:29:29
+07:29:33 nachm. [Patient]: Guten Tag.
+07:29:37 nachm. [Patient]: hallo
+Started Log at 19:33:27
+07:33:32 nachm. [Patient]: Guten Tag.
+07:33:40 nachm. [Patient]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+07:33:49 nachm. [Patient]: Sind Sie mit der Vorgehensweise einverstanden?
+Started Log at 19:51:11
+07:51:16 nachm. [Patient]: hallo
+Started Log at 19:55:01
+07:55:06 nachm. [Patient]: Guten Tag.
+07:55:07 nachm. [Patient]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+07:55:15 nachm. [Patient]: Sind Sie mit der Vorgehensweise einverstanden?
+07:55:21 nachm. [Patient]: Fahren wir nun mit einigen Fragen bez?glich Ihrer pers?nlichen Lebensumst?nden fort
+07:55:26 nachm. [Patient]: Verstehen Sie deutsch in Wort und Schrift?
+07:55:29 nachm. [Patient]: Welchen Beruf ?ben sie aus
+07:55:32 nachm. [Patient]: Treiben sie regelm??ig Sport? Wenn Ja nennen Sie die Sportart(en) bitte im Folgenden
+Started Log at 19:57:51
+Started Log at 19:57:51
+07:57:58 nachm. [Arzt]: Guten Tag.
+07:58:08 nachm. [Patient]: 
+								Guten Tag.
+							
+07:58:46 nachm. [Arzt]: Guten Tag.
+Started Log at 20:09:52
+Started Log at 20:09:52
+08:10:31 nachm. [Arzt]: Guten Tag.
+08:10:34 nachm. [Arzt]: Guten Tag.
+08:10:40 nachm. [Arzt]: Guten Tag.
+08:10:51 nachm. [David2]: 
+								Guten Tag.
+							
+08:10:54 nachm. [Arzt]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+08:10:58 nachm. [Arzt]: Sind Sie mit der Vorgehensweise einverstanden?
+08:11:05 nachm. [David2]: 
+								Nein
+							
+08:11:21 nachm. [Arzt]: Ich stelle Ihnen nun ein paar grundlegende Fragen.
+08:11:23 nachm. [Arzt]: Was ist Ihr biologisches Geschlecht?
+08:11:27 nachm. [David2]: 
+								1. m?nnlich
+							
+08:11:30 nachm. [Arzt]: Wann sind Sie geboren?
+08:11:32 nachm. [David2]: 
+								ich bin 37 Jahre alt
+							
+08:11:35 nachm. [Arzt]: Wie viel wiegen Sie in Kilogramm?
+08:11:38 nachm. [David2]: 
+								72Kilogramm
+							
+08:11:44 nachm. [Arzt]: Wie gro? sind Sie in Metern?
+08:11:47 nachm. [David2]: 
+								1 Meter 80
+							
+08:11:51 nachm. [Arzt]: Fahren wir nun mit einigen Fragen bez?glich Ihrer pers?nlichen Lebensumst?nden fort
+Started Log at 22:05:54
+Started Log at 22:11:42
+Started Log at 22:11:43
+10:11:57 nachm. [Patient]: awdawdwad
+10:12:04 nachm. [Arzt]: Guten Tag.
+Started Log at 22:36:15
+Started Log at 22:36:15
+Started Log at 02:28:37
+Started Log at 15:52:14
+Started Log at 16:23:47
+Started Log at 17:45:06
+Started Log at 21:22:02
+Started Log at 00:22:29
+Started Log at 00:27:41
+Started Log at 00:31:28
+Started Log at 00:32:10
+Started Log at 02:18:34
+Started Log at 02:30:16
+Started Log at 02:49:50
+Started Log at 02:51:28
+Started Log at 03:05:46
+Started Log at 03:05:46
+Started Log at 03:25:51
+Started Log at 17:07:27
+Started Log at 17:10:33
+Started Log at 17:12:18
+Started Log at 17:23:36
+05:25:30 nachm. [Arzt]: Guten Tag.
+05:25:41 nachm. [Arzt]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+05:25:44 nachm. [Arzt]: Sind Sie mit der Vorgehensweise einverstanden?
+Started Log at 07:42:03
+Started Log at 22:49:36
+Started Log at 23:20:28
+Started Log at 14:56:50
+Started Log at 15:01:53
+Started Log at 15:10:14
+Started Log at 15:21:55
+Started Log at 15:30:40
+Started Log at 15:31:35
+03:31:49 nachm. []: Guten Tag.
+03:31:50 nachm. []: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+03:31:50 nachm. []: Sind Sie mit der Vorgehensweise einverstanden?
+03:31:51 nachm. []: Sind Sie mit der Vorgehensweise einverstanden?
+Started Log at 15:32:35
+03:32:38 nachm. [Patient]: Guten Tag.
+Started Log at 14:06:56
+02:07:03 nachm. []: Guten Tag.
+Started Log at 14:07:56
+02:07:59 nachm. [Patient]: Guten Tag.
+Started Log at 14:21:13
+Started Log at 14:48:59
+02:49:36 nachm. []: Guten Tag.
+02:49:39 nachm. []: Guten Tag.
+Started Log at 15:04:57
+03:05:20 nachm. [Patient]: Guten Tag.
+03:05:29 nachm. [Patient]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+03:05:30 nachm. [Patient]: Sind Sie mit der Vorgehensweise einverstanden?
+Started Log at 13:04:42
+01:04:48 nachm. [Patient]: Guten Tag.
+01:04:48 nachm. [Patient]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+01:04:49 nachm. [Patient]: Sind Sie mit der Vorgehensweise einverstanden?
+Started Log at 13:42:19
+Started Log at 13:48:03
+Started Log at 13:56:31
+Started Log at 14:00:20
+Started Log at 14:06:20
+Started Log at 14:07:22
+Started Log at 14:13:14
+Started Log at 14:14:02
+Started Log at 14:18:05
+Started Log at 14:24:35
+Started Log at 14:25:22
+Started Log at 14:26:12
+Started Log at 14:33:38
+Started Log at 14:36:12
+Started Log at 14:37:19
+Started Log at 15:55:40
+Started Log at 15:56:28
+Started Log at 15:58:41
+Started Log at 16:27:44
+Started Log at 16:28:33
+Started Log at 16:36:11
+Started Log at 10:25:55
+Started Log at 10:27:01
+Started Log at 10:51:49
+Started Log at 11:03:54
+Started Log at 11:04:32
+Started Log at 11:08:39
+Started Log at 11:09:33
+Started Log at 11:10:21
+Started Log at 11:19:19
+Started Log at 11:40:35
+Started Log at 11:41:04
+Started Log at 12:04:36
+Started Log at 12:15:47
+Started Log at 12:19:19
+Started Log at 12:21:36
+Started Log at 12:23:31
+Started Log at 12:24:40
+Started Log at 12:25:49
+Started Log at 12:30:02
+Started Log at 12:30:17
+Started Log at 12:31:19
+Started Log at 12:35:23
+Started Log at 12:39:54
+Started Log at 12:41:36
+Started Log at 12:42:02
+Started Log at 12:43:55
+Started Log at 12:48:24
+Started Log at 12:51:11
+Started Log at 12:56:15
+Started Log at 12:58:20
+Started Log at 13:09:01
+Started Log at 13:15:04
+Started Log at 13:16:54
+Started Log at 13:19:37
+Started Log at 13:21:02
+Started Log at 13:22:13
+Started Log at 13:26:02
+Started Log at 13:29:19
+Started Log at 13:44:04
+Started Log at 13:45:37
+Started Log at 21:06:56
+Started Log at 21:06:56
+Started Log at 21:18:13
+Started Log at 21:18:13
+Started Log at 21:25:01
+Started Log at 21:25:01
+Started Log at 21:30:17
+Started Log at 21:30:17
+Started Log at 21:37:43
+Started Log at 21:37:43
+Started Log at 21:40:45
+Started Log at 21:43:47
+Started Log at 21:43:47
+Started Log at 21:47:27
+Started Log at 21:47:27
+Started Log at 21:51:10
+Started Log at 21:51:10
+Started Log at 21:53:46
+Started Log at 21:53:47
+Started Log at 21:55:03
+Started Log at 21:55:03
+Started Log at 22:00:03
+Started Log at 22:00:03
+Started Log at 22:04:29
+Started Log at 22:04:29
+Started Log at 22:10:02
+Started Log at 22:10:02
+Started Log at 22:14:06
+Started Log at 22:14:06
+Started Log at 22:18:57
+Started Log at 22:20:30
+Started Log at 22:25:27
+Started Log at 22:25:27
+Started Log at 22:28:26
+Started Log at 22:31:11
+Started Log at 22:31:11
+Started Log at 22:37:35
+Started Log at 22:37:35
+Started Log at 22:44:23
+Started Log at 22:44:23
+Started Log at 22:57:59
+Started Log at 22:57:59
+Started Log at 17:13:04
+Started Log at 17:13:04
+Started Log at 17:18:03
+Started Log at 17:19:38
+Started Log at 17:19:38
+Started Log at 17:22:05
+Started Log at 17:22:05
+Started Log at 17:27:02
+Started Log at 17:27:02
+Started Log at 17:31:28
+Started Log at 17:31:28
+Started Log at 17:35:46
+Started Log at 17:35:46
+Started Log at 17:37:32
+Started Log at 17:37:32
+Started Log at 17:39:50
+Started Log at 17:39:50
+Started Log at 17:41:12
+Started Log at 17:41:12
+Started Log at 17:43:29
+Started Log at 17:43:29
+Started Log at 17:46:09
+Started Log at 17:46:09
+Started Log at 17:51:04
+Started Log at 17:51:27
+Started Log at 17:51:27
+Started Log at 17:58:08
+Started Log at 17:58:08
+Started Log at 18:01:54
+Started Log at 18:01:54
+Started Log at 22:18:47
+Started Log at 22:18:47
+Started Log at 22:31:05
+Started Log at 22:31:05
+Started Log at 22:35:25
+Started Log at 22:44:01
+Started Log at 22:44:01
+Started Log at 22:48:25
+Started Log at 22:48:25
+Started Log at 22:52:45
+Started Log at 22:52:45
+Started Log at 14:51:27
+Started Log at 15:17:04
+Started Log at 16:10:25
+Started Log at 16:13:53
+Started Log at 17:04:00
+Started Log at 17:44:00
+Started Log at 17:46:19
+Started Log at 18:07:21
+Started Log at 18:23:29
+Started Log at 18:23:29
+Started Log at 18:48:11
+Started Log at 18:48:11
+Started Log at 18:18:14
+Started Log at 23:41:24
+Started Log at 23:54:51
+Started Log at 23:55:57
+Started Log at 23:57:10
+11:57:31 nachm. [Patient]: test
+Started Log at 17:17:18
+05:17:24 nachm. [Patient]: Guten Tag.
+Started Log at 17:35:30
+05:35:33 nachm. [Patient]: Guten Tag.
+Started Log at 17:37:27
+05:37:31 nachm. [Patient]: Guten Tag.
+Started Log at 17:40:41
+05:40:44 nachm. [Patient]: Guten Tag.
+Started Log at 17:48:02
+05:48:06 nachm. [Patient]: Guten Tag.
+Started Log at 17:50:07
+05:50:12 nachm. [Patient]: Guten Tag.
+Started Log at 17:52:47
+05:52:52 nachm. [Patient]: Guten Tag.
+Started Log at 17:54:09
+05:54:12 nachm. [Patient]: Guten Tag.
+Started Log at 16:54:21
+04:54:30 nachm. [Name]: Guten Tag.
+04:54:34 nachm. [Name]: hallo
+04:54:40 nachm. [Name]: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+04:54:53 nachm. [Name]: hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Started Log at 16:56:59
+04:57:05 nachm. [Name]: Guten Tag.
+04:57:07 nachm. [Name]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+04:57:09 nachm. [Name]: Sind Sie mit der Vorgehensweise einverstanden?
+04:57:18 nachm. [Name]: Waren Sie bei Ihren Hobbys oder 
+anderen Freizeitbesch?ftigungen 
+eingeschr?nkt?
+04:57:19 nachm. [Name]: Waren Sie bei Ihren Hobbys oder 
+anderen Freizeitbesch?ftigungen 
+eingeschr?nkt?
+04:57:19 nachm. [Name]: Waren Sie bei Ihren Hobbys oder 
+anderen Freizeitbesch?ftigungen 
+eingeschr?nkt?
+04:57:21 nachm. [Name]: Waren Sie bei Ihrer Arbeit oder 
+bei anderen tagt?glichen 
+Besch?ftigungen eingeschr?nkt?
+04:57:22 nachm. [Name]: Waren Sie bei Ihrer Arbeit oder 
+bei anderen tagt?glichen 
+Besch?ftigungen eingeschr?nkt?
+04:57:25 nachm. [Name]: Ich m?chte Ihnen nun einige 
+weitere Fragen Stellen.
+04:57:43 nachm. [Name]: Waren Sie kurzatmig?
+Started Log at 17:01:49
+05:01:56 nachm. [Name]: Ich stelle Ihnen nun ein paar grundlegende Fragen.
+05:01:58 nachm. [Name]: Ich stelle Ihnen nun ein paar grundlegende Fragen.
+05:01:59 nachm. [Name]: Ich stelle Ihnen nun ein paar grundlegende Fragen.
+05:01:59 nachm. [Name]: Ich stelle Ihnen nun ein paar grundlegende Fragen.
+Started Log at 17:03:28
+05:03:40 nachm. [Name]: Guten Tag.
+05:03:43 nachm. [Name]: Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchf?hren wird.
+05:03:45 nachm. [Name]: Sind Sie mit der Vorgehensweise einverstanden?
+05:03:48 nachm. [Name]: Ich m?chte Ihnen nun einige 
+weitere Fragen Stellen.
+05:03:50 nachm. [Name]: Bereitet es Ihnen Schwierigkeiten 
+sich k?rperlich anzustrengen? (z.B 
+eine schwere Einkaufstasche oder 
+einen Koffer zu tragen?)
+05:03:58 nachm. [Name]: Bereitet es Ihnen Schwierigkeiten, 
+einen l?ngeren Spaziergang zu 
+machen?
+05:04:01 nachm. [Name]: Waren Sie kurzatmig?
+Started Log at 17:11:26
+05:11:32 nachm. [Name]: Fahren wir nun mit einigen Fragen bez?glich Ihrer pers?nlichen Lebensumst?nden fort
+Started Log at 17:11:49
+05:11:58 nachm. [Name]: Hallo
+Started Log at 17:38:44
+05:38:53 nachm. [Name]: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+Started Log at 17:40:03
+05:40:10 nachm. [Name]: hallo
+Started Log at 17:48:05
+05:48:12 nachm. [Name]: Hallo
+Started Log at 03:32:29
+Started Log at 03:35:24
+03:35:35 vorm. [Name]: test
+03:35:42 vorm. [Name]: hallo
+Started Log at 03:43:42
+Started Log at 03:59:53
+04:00:07 vorm. [Name]: test
+Started Log at 02:32:21
+Started Log at 02:36:30
+Started Log at 02:38:43
+02:38:50 vorm. [Patient]: Ich stelle Ihnen nun ein paar grundlegende Fragen.
+Started Log at 02:39:49
+02:39:55 vorm. [Patient]: Guten Tag.
+Started Log at 02:41:26
+02:41:30 vorm. [Patient]: Guten Tag.
+Started Log at 02:57:09
+02:57:20 vorm. [Patient]: Guten Tag.
+Started Log at 02:22:06
+02:22:12 vorm. [Patient]: Guten Tag.
+Started Log at 02:22:33
+Started Log at 04:09:52
+Started Log at 04:13:48
+Started Log at 05:07:20
+Started Log at 05:10:35
+Started Log at 05:13:21
+Started Log at 05:20:43
+Started Log at 07:45:58
+Started Log at 01:38:06
+Started Log at 09:02:21
+Started Log at 09:07:24
+09:07:41 vorm. [Patient]: Guten Tag.
+Started Log at 09:08:29
+Started Log at 09:11:15
+Started Log at 09:13:03
+Started Log at 09:15:19
+Started Log at 09:24:53
+09:25:02 vorm. [Patient]: test
+Started Log at 09:25:23
+Started Log at 09:26:16
+Started Log at 15:56:39
+Started Log at 18:49:23
+Started Log at 18:55:31
+Started Log at 02:29:10
+02:29:31 AM [Pascal]: hello
+Started Log at 19:00:36
+Started Log at 19:00:36
+07:01:38 PM [nilesh]: hello

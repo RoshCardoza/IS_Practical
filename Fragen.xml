@@ -1,0 +1,5478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dialog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Themen>
+    <Thema>
+      <Titel>Einleitung</Titel>
+      <Fragen>
+        <Frage>
+          <ID>0</ID>
+          <Text>
+						Guten Tag.
+					</Text>
+          <Optional>true</Optional>
+          <Next>
+						1
+					</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>
+								Guten Tag.
+							</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>1</ID>
+          <Text>
+						Ich bin VADIAN, der digitale Assistent, der mit Ihnen den Routineteil der Anamnese durchführen wird.
+					</Text>
+          <Optional>true</Optional>
+          <Next>
+						2
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>
+						Sind Sie mit der Vorgehensweise einverstanden?
+					</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>
+								Ja
+							</AntwortText>
+              <Next>Primäre Körpermerkmale/0</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>
+								Nein
+							</AntwortText>
+              <Next>Abbruch</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Primäre Körpermerkmale</Titel>
+      <Fragen>
+        <Frage>
+          <ID>0</ID>
+          <Text>
+						Ich stelle Ihnen nun ein paar grundlegende Fragen.
+					</Text>
+          <Optional>true</Optional>
+          <Next>
+						1
+					</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>1</ID>
+          <Text>
+						Was ist Ihr biologisches Geschlecht?
+					</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>
+								1. männlich
+							</AntwortText>
+              <Next>3</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>
+								2. weiblich
+							</AntwortText>
+              <Next>3</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>
+								3. intersexuell
+							</AntwortText>
+              <Next>3</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>3</ID>
+          <Text>
+						Wann sind Sie geboren?
+					</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>
+								ich bin 37 Jahre alt
+							</AntwortText>
+              <Next>4</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>4</ID>
+          <Text>
+						Wie viel wiegen Sie in Kilogramm?
+					</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>
+								72Kilogramm
+							</AntwortText>
+              <Next>5</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>
+						Wie groß sind Sie in Metern?
+					</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>
+								1 Meter 80
+							</AntwortText>
+              <Next>Persönliche Lebensumstände/0</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Persönliche Lebensumstände</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Fahren wir nun mit einigen Fragen bezüglich Ihrer persönlichen Lebensumständen fort</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Verstehen Sie deutsch in Wort und Schrift?</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>3</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next />
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>3</ID>
+          <Text>Welchen Beruf üben sie aus</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Lastwagenfahrer</AntwortText>
+              <Next>4</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>4</ID>
+          <Text>Treiben sie regelmäßig Sport? Wenn Ja nennen Sie die Sportart(en) bitte im Folgenden</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Fußball</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>7</ID>
+          <Text>Trinken Sie mehrmals pro Woche Alkohol (z.B. Bier, Wein, hochprozentige Alkoholika)?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>10</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>37</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>37</ID>
+          <Text>Welche Arten Alkohol trinken 
+mehrmals wöchentlich?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Bier</AntwortText>
+              <Next>37</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wodka</AntwortText>
+              <Next>37</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Schnaps</AntwortText>
+              <Next>37</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Likör</AntwortText>
+              <Next>37</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sekt</AntwortText>
+              <Next>37</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonst nichts anderes</AntwortText>
+              <Next>20</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>20</ID>
+          <Text>Wie oft trinken Sie Alkohol pro 
+Woche?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. einmal</AntwortText>
+              <Next>10</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. zweimal</AntwortText>
+              <Next>10</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. mehrmals pro Woche</AntwortText>
+              <Next>10</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. jeden Tag</AntwortText>
+              <Next>10</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>10</ID>
+          <Text>Rauchen Sie?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>25</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>25</ID>
+          <Text>Wie oft Rauchen Sie?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. einmal pro Tag
+</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. zweimal pro Tag</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. mehrmals pro Tag</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. einmal pro Woche</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. mehrmals pro Woche</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. jeden Tag</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>13</ID>
+          <Text>Nehmen Sie Drogen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>14</ID>
+          <Text>Wie oft nehmen sie Drogen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. einmal pro Tag</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. zweimal pro Tag</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. mehrmals pro Tag
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. einmal pro Woche</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. mehrmals pro Woche
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>EORTC QLQ-C30</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Ich möchte Ihnen nun einige 
+weitere Fragen Stellen.</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Bereitet es Ihnen Schwierigkeiten 
+sich körperlich anzustrengen? (z.B 
+eine schwere Einkaufstasche oder 
+einen Koffer zu tragen?)
+</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht
+</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig
+</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>7</ID>
+          <Text>Bereitet es Ihnen Schwierigkeiten, 
+einen längeren Spaziergang zu 
+machen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht</AntwortText>
+              <Next>8</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig
+</AntwortText>
+              <Next>8</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig</AntwortText>
+              <Next>8</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+              <Next>8</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>8</ID>
+          <Text>Bereitet es Ihnen Schwierigkeiten, 
+eine kurze Strecke außer Haus zu 
+gehen?
+</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht
+</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>13</ID>
+          <Text>Müssen Sie tagsüber im Bett 
+liegen oder in einem Sessel 
+sitzen?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht</AntwortText>
+              <Next>18</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig</AntwortText>
+              <Next>18</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig</AntwortText>
+              <Next>18</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+              <Next>18</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>18</ID>
+          <Text>Brauchen Sie Hilfe beim Essen, 
+Anziehen, Waschen oder 
+Benutzen der Toilette?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht</AntwortText>
+              <Next>23</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig
+</AntwortText>
+              <Next>23</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig
+</AntwortText>
+              <Next>23</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+              <Next>23</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>0</ID>
+          <Text>Waren Sie bei Ihrer Arbeit oder 
+bei anderen tagtäglichen 
+Beschäftigungen eingeschränkt?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht
+</AntwortText>
+              <Next>28</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig
+</AntwortText>
+              <Next>28</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig
+</AntwortText>
+              <Next>28</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+              <Next>28</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>28</ID>
+          <Text>Waren Sie bei Ihren Hobbys oder 
+anderen Freizeitbeschäftigungen 
+eingeschränkt?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht</AntwortText>
+              <Next>33</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig</AntwortText>
+              <Next>33</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig</AntwortText>
+              <Next>33</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+              <Next>33</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>33</ID>
+          <Text>Waren Sie kurzatmig?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht</AntwortText>
+              <Next>38</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig</AntwortText>
+              <Next />
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig</AntwortText>
+              <Next />
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+              <Next />
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>38</ID>
+          <Text>Hatten Sie schmerzen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig</AntwortText>
+              <Next>43</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>43</ID>
+          <Text>Mussten Sie sich ausruhen?</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig</AntwortText>
+              <Next>48</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>48</ID>
+          <Text>Hatten Sie Schlafstörungen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig</AntwortText>
+              <Next>53</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>53</ID>
+          <Text>Fühlten Sie sich schwach?</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht</AntwortText>
+              <Next>58</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>58</ID>
+          <Text>Hatten Sie Appetitmangel?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+              <Next>63</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>63</ID>
+          <Text>War Ihnen übel?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig</AntwortText>
+              <Next>68</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>68</ID>
+          <Text>Haben Sie erbrochen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Überhaupt nicht</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wenig</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mässig</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sehr</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Vorgeschichte</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Ich stelle Ihnen nun einige 
+Fragen bezüglich Ihrer 
+Vorgeschichte. 
+</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Haben Sie in den letzten Wochen/
+Monaten ungewollt Gewicht 
+verloren?</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>50</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>5</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>50</ID>
+          <Text>Wie viel Gewicht haben Sie 
+verloren?
+</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. mehr als 5 Kilogramm
+</AntwortText>
+              <Next>5</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. mehr als 10 Kilogramm</AntwortText>
+              <Next>5</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. mehr als 20 Kilogramm
+</AntwortText>
+              <Next>5</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>Bestehen Störungen des 
+Allgemeinbefindens?
+</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>87</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>8</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>87</ID>
+          <Text>Welche Störungen des 
+Wohlbefindens bestehen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Schlafstörungen</AntwortText>
+              <Next>87</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Erschöpfbarkeit
+</AntwortText>
+              <Next>87</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Erinnerungslücken
+</AntwortText>
+              <Next>87</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Vergesslichkeit
+</AntwortText>
+              <Next>87</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Schmerzen
+</AntwortText>
+              <Next>87</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weiteren davon
+</AntwortText>
+              <Next>8</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>8</ID>
+          <Text>Besteht eine Allergie?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>88</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>11</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>88</ID>
+          <Text>Welche Art von Allergie besteht?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Medikamente (z.B Antibiotika, 
+Metamizol, Paracetamol</AntwortText>
+              <Next>88</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Betäubungsmittel</AntwortText>
+              <Next>88</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Röntgenkontrastmittel
+</AntwortText>
+              <Next>88</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Latex
+</AntwortText>
+              <Next>88</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Desinfektionsmittel
+</AntwortText>
+              <Next>88</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Jod
+</AntwortText>
+              <Next>88</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>7. Pflaster
+</AntwortText>
+              <Next>88</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>8. Kunststoffe
+</AntwortText>
+              <Next>88</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon
+</AntwortText>
+              <Next>11</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>11</ID>
+          <Text>Besteht eine Allergie/
+Überempfindlichkeit gegenüber 
+Metallen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>89</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>89</ID>
+          <Text>Welche von Allergie/ 
+Überempfindlichkeit gegenüber 
+Metallen besteht?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Nickel</AntwortText>
+              <Next>89</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Kobalt
+</AntwortText>
+              <Next>89</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Chrom
+</AntwortText>
+              <Next>89</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Molybdän
+</AntwortText>
+              <Next>89</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weoitere davon
+</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>14</ID>
+          <Text>Besteht eine Neigung zu 
+Wundheilungsstörungen?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>17</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>17</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>17</ID>
+          <Text>Besteht derzeit/Bestand in den 
+letzten 6 Monaten eine 
+Entzündung (z.B. an einem 
+Zahn)?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja, folgende Entzündungen 
+bestehen/bestanden: XY</AntwortText>
+              <Next>20</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>20</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>20</ID>
+          <Text>Treten wiederholt Entzündungen 
+auf?
+</Text>
+          <Optional>false</Optional>
+          <Next>23</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>23</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>23</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>23</ID>
+          <Text>Bestand in den letzten 4 Wochen 
+ein Infekt ?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>90</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>26</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>90</ID>
+          <Text>Welche Art von Infekt besteht/
+bestand?
+</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Atemwegsinfekt
+</AntwortText>
+              <Next>90</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Magen- Darm
+</AntwortText>
+              <Next>90</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Harnwegsinfektion
+</AntwortText>
+              <Next>90</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon
+</AntwortText>
+              <Next>26</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>26</ID>
+          <Text>Besteht/Bestand eine 
+Infektionskrankheit?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>91</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>29</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>91</ID>
+          <Text>Welche Art von 
+Infektionskrankheit besteht?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. HIV/AIDS
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Hirnhautenzündung</AntwortText>
+              <Next>91</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Tuberkulose
+</AntwortText>
+              <Next>91</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon
+</AntwortText>
+              <Next>71</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>29</ID>
+          <Text>Bestehen Schwellungen der 
+Lymphknoten?</Text>
+          <Optional>false</Optional>
+          <Next>32</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>32</ID>
+          <Text>Neigen Sie zu Schwellungen an 
+Armen, Beinen?</Text>
+          <Optional>false</Optional>
+          <Next>35</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>35</ID>
+          <Text>Bestehen neu aufgetretene 
+Hautveränderungen?</Text>
+          <Optional>false</Optional>
+          <Next>38</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>38</ID>
+          <Text>Besteht eine körperliche 
+Beeinträchtigung (z.B. 
+Behinderung, angeborene 
+Fehlbildung)?</Text>
+          <Optional>false</Optional>
+          <Next>41</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja, es besteht folgende 
+körperliche Beeinträchtigung: XY</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>41</ID>
+          <Text>Gibt oder gab es in der 
+Blutsverwandtschaft 
+Erkrankungen oder Anzeichen 
+einer Erkrankung ?</Text>
+          <Optional>false</Optional>
+          <Next />
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>92</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>44</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>92</ID>
+          <Text>Welche Art von Anzeichen/
+Erkrankungen liegen vor?</Text>
+          <Optional>false</Optional>
+          <Next>92</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Krebs
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Stoffwechselleiden (z.B 
+Diabetes, Gicht)</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Herz-/Kreislauf-Erkrankungen 
+(z.B Schlaganfall, Herzinfarkt)
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Erbkrankheiten</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weiteren davon</AntwortText>
+              <Next>44</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>44</ID>
+          <Text>Tragen Sie ein Piercing (z.B 
+Zungenpiercing, Genitalpiercing)?
+</Text>
+          <Optional>false</Optional>
+          <Next>47</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>47</ID>
+          <Text>Sind Sie tätowiert?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel> Chronische / Akute Schmerzen
+</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Ich möchte Ihnen nun ein paar 
+Fragen bezüglich ihres 
+Schmerzleidens stellen.</Text>
+          <Optional>true</Optional>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Bestehen akute/chronische 
+Schmerzen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>5</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>43</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>Seit wann bestehen diese 
+Schmerzen?</Text>
+          <Optional>false</Optional>
+          <Next>10</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. seit ein paar Tagen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. seit ein paar Wochen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. seit ein paar Monaten
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. seit Jahren
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>10</ID>
+          <Text>An welcher Körperstelle bestehen 
+die Schmerzen?</Text>
+          <Optional>false</Optional>
+          <Next>10</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Kopf</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Bauch
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Rücken
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Arme
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Beine
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weiteren davon
+</AntwortText>
+              <Next>16</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige</AntwortText>
+              <Next>16</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>16</ID>
+          <Text>Welcher Art sind die Schmerzen?</Text>
+          <Optional>false</Optional>
+          <Next>16</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. dumpf
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. kolikartig
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. brennend
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. stechend</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. ziehend</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>22</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine davon
+</AntwortText>
+              <Next>22</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>22</ID>
+          <Text>Wie lange halten die Schmerzen 
+an?</Text>
+          <Optional>false</Optional>
+          <Next>26</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. dauerhaft
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. länger anhaltend
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. kurz
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>26</ID>
+          <Text>Wie oft treten die Schmerzen auf?
+</Text>
+          <Optional>false</Optional>
+          <Next>31</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. zeitweise
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. ständig
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. regelmäßig wiederkehrend
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. gelegentlich
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>31</ID>
+          <Text>Wie stark sind die Schmerzen?
+</Text>
+          <Optional>false</Optional>
+          <Next>36</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. leicht
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. mittel
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. stark
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. wechselnd
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>36</ID>
+          <Text>Gibt es äußere Einflüsse, welche 
+den Schmerz auslösen oder 
+verstärken?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>54</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>43</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>54</ID>
+          <Text>Welche äußere Einflüsse sind das?
+</Text>
+          <Optional>false</Optional>
+          <Next>54</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Mahlzeiten
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Tageszeiten
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. körperliche Belastung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. bestimmte Bewegungen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Wetterumschwung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Körperposition / Lage
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige</AntwortText>
+              <Next>43</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weiteren davon
+</AntwortText>
+              <Next>43</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>43</ID>
+          <Text>Leiden Sie unter Migräne?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Anamneseassessmenterwachsene
+</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Ich möchte Ihnen nun einige 
+weitere Fragen Stellen.</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Ist eine Kontaktperson 
+angegeben?</Text>
+          <Optional>false</Optional>
+          <Next>5</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>Ist / soll diese bei Veränderung / 
+Verschlechterung
+informiert werden ?
+</Text>
+          <Optional>false</Optional>
+          <Next>6</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>6</ID>
+          <Text>Wurde ein Hausarzt/Facharzt 
+angegeben?
+</Text>
+          <Optional>false</Optional>
+          <Next>9</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>9</ID>
+          <Text>Gibt es eine 
+Versorgungsvollmacht?</Text>
+          <Optional>false</Optional>
+          <Next>12</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>Gibt es eine Patientenverfügung?</Text>
+          <Optional>false</Optional>
+          <Next>15</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>15</ID>
+          <Text>Betreuung?</Text>
+          <Optional>false</Optional>
+          <Next>22</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>bestellt für Gesundheitsvorsorge
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>bestellt für Aufenthaltsbestimmung</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>22</ID>
+          <Text>Betreuer angegeben?
+</Text>
+          <Optional>false</Optional>
+          <Next>23</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>23</ID>
+          <Text>Wurde eine Bezugsperson 
+angegeben?
+</Text>
+          <Optional>false</Optional>
+          <Next>26</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>26</ID>
+          <Text>Nationalität / Sprache</Text>
+          <Optional>false</Optional>
+          <Next>29</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>XY</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>30</ID>
+          <Text>Dolmetscher erforderlich?
+</Text>
+          <Optional>false</Optional>
+          <Next>31</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>31</ID>
+          <Text>Religion/religiöse Bedürfnisse 
+angegeben?
+</Text>
+          <Optional>false</Optional>
+          <Next>35</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>34</ID>
+          <Text>Lebenssituation
+</Text>
+          <Optional>false</Optional>
+          <Next />
+          <Antworten>
+            <Antwort>
+              <AntwortText>lebt allein
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>in Gemeinschaft
+</AntwortText>
+              <Next>40</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stationäre Einrichtung
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>40</ID>
+          <Text>Wurde ein Pflegedienst/
+Pflegeheim/andere stationäre</Text>
+          <Optional>false</Optional>
+          <Next>41</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>41</ID>
+          <Text>Überleitungsbogen?
+</Text>
+          <Optional>false</Optional>
+          <Next>44</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>44</ID>
+          <Text>Pflegegrad</Text>
+          <Optional>false</Optional>
+          <Next>54</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Beantragt
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>kein Pflegegrad
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>54</ID>
+          <Text>Infektion bekannt?</Text>
+          <Optional>false</Optional>
+          <Next>57</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>57</ID>
+          <Text>Bisherige pflegerische Versorgung
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Körperpflege
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Ernährung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Ausscheidung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Mobilität
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Wunde/Verband
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Injektionen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Medikamente
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Hauswirtschaft - Reinigung der 
+Wohnung - Einkaufen</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige Besonderheiten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Barthelindex</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Ich möchte Ihnen im Folgenden 
+ein paar weitere Fragen stellen.
+</Text>
+          <Optional>false</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Essen
+</Text>
+          <Optional>false</Optional>
+          <Next>6</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Selbständig, benötigt keine Hilfe
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Braucht etwas Hilfe, z.B. beim 
+Fleisch schneiden
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Unfähig allein zu essen
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>6</ID>
+          <Text>Baden
+</Text>
+          <Optional>false</Optional>
+          <Next>9</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Selbständig, benötigt keine Hilfe
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Abhängig von fremder Hilfe</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>9</ID>
+          <Text>Waschen(Rasieren, Kämmen, 
+Zähneputzen)
+</Text>
+          <Optional>false</Optional>
+          <Next>12</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Selbständig, benötigt keine Hilfe</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Abhängig von fremder Hilfe</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>9</ID>
+          <Text>Waschen(Rasieren, Kämmen, 
+Zähneputzen)
+</Text>
+          <Optional>false</Optional>
+          <Next>12</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Selbständig, benötigt keine Hilfe
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Abhängig von fremder Hilfe</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>An- und Auskleiden(einschließlich 
+Schuhe binden
+</Text>
+          <Optional>false</Optional>
+          <Next>16</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Selbständig, benötigt keine Hilfe
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Braucht etwas Hilfe, kann aber 
+ca. 50% allein</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Unfähig sich allein an - und 
+auszuziehen</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>16</ID>
+          <Text>Stuhlkontrolle</Text>
+          <Optional>false</Optional>
+          <Next>20</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ständig kontinent</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Gelegentlich inkontinent (max. 1x 
+pro Woche)</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Häufiger / ständig inkontinent</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>20</ID>
+          <Text>Urinkontrolle
+</Text>
+          <Optional>false</Optional>
+          <Next>24</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ständig kontinent, ggf. 
+unabhängig bei</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Gelegentlich inkontinent (max. 1x 
+pro Woche)</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Häufiger / ständig inkontinent</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>24</ID>
+          <Text>Toilettenbenutzung
+</Text>
+          <Optional>false</Optional>
+          <Next>28</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Selbständig, benötigt keine Hilfe 
+(inklusive
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Benötigt Hilfe wg. fehlenden 
+Gleichgewichts oder</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Abhängig von fremder Hilfe</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>28</ID>
+          <Text>Bett/Transfer</Text>
+          <Optional>false</Optional>
+          <Next>33</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Selbständig, benötigt keine Hilfe
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Geringe physische bzw. verbale 
+Hilfe oder
+Beaufsichtigung erforderlich
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Erhebliche physische Hilfe beim 
+Transfer
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Abhängig von fremder Hilfe, 
+fehlende Sitzbalance</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>33</ID>
+          <Text>Gehen auf Flurebene bzw. 
+Rollstuhlfahren</Text>
+          <Optional>false</Optional>
+          <Next>38</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Selbständiges Gehen möglich 
+(Hilfsmittel erlaubt), Strecke &gt; 50 
+m</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Unterstütztes Gehen möglich, 
+Strecke &gt; 50 m</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Unabhängig mit Rollstuhl, incl. 
+Ecken, Strecke &gt;50 m
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Immobil bzw. Strecke &lt; 50 m
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>38</ID>
+          <Text>Treppensteigen</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Selbständiges Treppensteigen 
+möglich</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Benötigt Hilfe oder Überwachung 
+beim Treppensteigen</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Unfähig allein zu Treppen zu 
+steigen</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Fragen für Frauen</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Ich möchte Ihnen nun einige 
+geschlechtsspezifische Fragen 
+stellen. </Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Hatten Sie schon einmal eine 
+Entbindung/ Geburt?</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja am dd:mm:yyyy
+</AntwortText>
+              <Next>5</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>Traten während oder nach der 
+Geburt Komplikationen auf?</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>46</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>10</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>46</ID>
+          <Text>Welche Art von Komplikationen 
+traten auf?</Text>
+          <Optional>false</Optional>
+          <Next>46</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. verstärkte Blutungen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Notkaiserschnitt
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Nachblutungen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>10</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weiteren davon
+</AntwortText>
+              <Next>10</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>10</ID>
+          <Text>Hatten Sie schon einmal eine 
+Fehlgeburt?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>22</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>13</ID>
+          <Text>Waren Sie schon einmal 
+Schwanger?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>15</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>16</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>14</ID>
+          <Text>Gab es innerhalb der 
+Schwangerschaft Besonderheiten?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>47</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>22</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>47</ID>
+          <Text>Welche Besonderheiten gab es?</Text>
+          <Optional>false</Optional>
+          <Next>47</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Gelbsucht
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Juckreiz
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Ausschlag
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Präeklampsie
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>22</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weiteren davon
+</AntwortText>
+              <Next>22</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>22</ID>
+          <Text>Wann war der 1. Tag der letzten 
+Regelblutung?
+</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Am dd:mm:yyyy
+</AntwortText>
+              <Next>24</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>24</ID>
+          <Text>Kommt es zu verstärkter, ggf. 
+schmerzhafter Regelblutung?</Text>
+          <Optional>false</Optional>
+          <Next>27</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>27</ID>
+          <Text>Dauern Ihre Regelblutungen 
+länger als 7 Tage?
+</Text>
+          <Optional>false</Optional>
+          <Next>30</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>30</ID>
+          <Text>Könnten Sie schwanger sein?
+</Text>
+          <Optional>false</Optional>
+          <Next>33</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>33</ID>
+          <Text>Stillen Sie?
+</Text>
+          <Optional>false</Optional>
+          <Next>36</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>36</ID>
+          <Text>Verwenden Sie Verhütungsmittel?
+</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Antibabypille
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Hormonspirale
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Kupferspirale
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Fragen für Männer</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Es folgen nun 
+geschlechtsspezifische Fragen.
+</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Besteht/Bestand eine 
+Prostataerkrankung?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>16</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>16</ID>
+          <Text>Welche Erkrankung bestand/
+besteht?</Text>
+          <Optional>false</Optional>
+          <Next>16</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Prostatavergrößerung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Prostataentzündung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Prostatakrebs
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon
+</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>7</ID>
+          <Text>Leiden Sie unter Störungen der 
+Sexualfunktion?</Text>
+          <Optional>false</Optional>
+          <Next />
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>17</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>17</ID>
+          <Text>Unter welcher Störung der 
+Sexualfunktion leiden Sie?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. mangelnde Gliedsteife 
+[Erektionsstörung]
+</AntwortText>
+              <Next>17</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Störungen des Samenergusses</AntwortText>
+              <Next>17</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Sinnesorgane</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Ich stelle Ihnen nun einige 
+Fragen zu Ihren Sinnesorganen.</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Leiden Sie unter Schwerhörigkeit?
+</Text>
+          <Optional>false</Optional>
+          <Next>5</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>Tragen Sie ein Hörgerät</Text>
+          <Optional>false</Optional>
+          <Next>8</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>8</ID>
+          <Text>Bestehen 
+Gleichgewichtsstörungen oder ein 
+häufiges Schwindelgefühl?</Text>
+          <Optional>false</Optional>
+          <Next>11</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>11</ID>
+          <Text>Besteht eine Augenerkrankung 
+(z.B Grauer Star, Grüner Star)</Text>
+          <Optional>false</Optional>
+          <Next>14</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>14</ID>
+          <Text>Tragen Sie Kontaktlinsen?</Text>
+          <Optional>false</Optional>
+          <Next>17</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>17</ID>
+          <Text>Bestehen Störungen des 
+Geschmackssinns?</Text>
+          <Optional>false</Optional>
+          <Next>20</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>20</ID>
+          <Text>Bestehen Störungen beim 
+Riechen?</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Blut und Immunsystem</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Nun folgen einige Fragen 
+bezüglich ihres Blutes und 
+Immunsystems</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Besteht eine erhöhte 
+Blutungsneigung wie z.B häufiges 
+Nasen -/Zahnfleischbluten, blaue 
+Flecken, längeres bluten nach 
+Verletzungen?</Text>
+          <Optional>false</Optional>
+          <Next>5</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>Besteht in der 
+Blutsverwandtschaft eine erhöhte 
+Blutungsneigung?</Text>
+          <Optional>false</Optional>
+          <Next>8</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>8</ID>
+          <Text>Besteht eine 
+Blutgerinnungsstörung?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>49</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>49</ID>
+          <Text>Welche Blutgerinnungsstörung 
+besteht?</Text>
+          <Optional>false</Optional>
+          <Next>49</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Hämophilie</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Thrombozytopenie
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Von-Willebrand -JürgensSyndrom</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Faktorenmange</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>13</ID>
+          <Text>Besteht/Bestand eine 
+Bluterkrankung?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>50</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>17</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>50</ID>
+          <Text>Welche Bluterkrankung besteht/
+bestand?</Text>
+          <Optional>false</Optional>
+          <Next>50</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Anämie</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Leukämie</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Multiples Myelom</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige</AntwortText>
+              <Next>17</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon</AntwortText>
+              <Next>17</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>17</ID>
+          <Text>Besteht eine Erkrankung des 
+Immunsystems? 
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>51</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>25</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>51</ID>
+          <Text>Welche Erkrankung besteht?</Text>
+          <Optional>false</Optional>
+          <Next>51</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Colitis uclerosa
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Morbus Chrohn
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Multiples Sklerose
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Rheuma
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Sklerodermie
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Lupus erythematodes
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>7. Immunschwäche
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>25</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon
+</AntwortText>
+              <Next>25</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>25</ID>
+          <Text>Besteht/Bestand eine 
+Krebserkrankung?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>52</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next />
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>52</ID>
+          <Text>Welche Krebserkrankung besteht?
+</Text>
+          <Optional>false</Optional>
+          <Next>52</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Darmkrebs
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Brustkrebs
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Hautkrebs</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Gebärmutterkrebs
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Prostatakrebs</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Lungenkrebs</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>7. Leberkrebs
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>8. Bauchspeicheldrüsenkrebs</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>9. Sonstige</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Kein/ keine weitere davon</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel> Nervensystem und Psyche</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Es folgen nun Fragen bezüglich 
+Ihres Nervensystems und Ihrer 
+Psyche.</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Besteht/Bestand eine Erkrankung 
+des Nervensystems?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>30</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>9</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>30</ID>
+          <Text>Welche Art einer Erkrankung des 
+Nervensystems besteht/bestand?
+</Text>
+          <Optional>false</Optional>
+          <Next>30</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Gehstörungen/Lähmungen</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Krampfleiden [Epilepsie]</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Parkinson</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Gefühlsstörungen</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Polyneuropathie
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Schmerzen</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige</AntwortText>
+              <Next>9</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weitere davon</AntwortText>
+              <Next>9</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>9</ID>
+          <Text>Hatten Sie schon einmal einen 
+Schlaganfall?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>15</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>Sind Einschränkungen durch den 
+Schlaganfall zurückgeblieben?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>32</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>15</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>32</ID>
+          <Text>Welche Einschränkungen sind 
+zurückgeblieben?</Text>
+          <Optional>false</Optional>
+          <Next>32</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Gehstörungen/Lähmungen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Sprachstörungen</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige</AntwortText>
+              <Next>15</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weitere davon</AntwortText>
+              <Next>15</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>15</ID>
+          <Text>Leiden Sie an einer psychischen 
+Erkrankung?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>34</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>34</ID>
+          <Text>Welcher Art ist die psychische 
+Erkrankung?</Text>
+          <Optional>false</Optional>
+          <Next />
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Depression
+</AntwortText>
+              <Next>34</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Burn-out</AntwortText>
+              <Next>34</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Schizophrenie</AntwortText>
+              <Next>34</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Borderline Syndrom</AntwortText>
+              <Next>34</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Angststörungen</AntwortText>
+              <Next>34</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next />
+            </Antwort>
+            <Antwort>
+              <AntwortText>kein/ keine weitere davon</AntwortText>
+              <Next />
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Gefäßerkrankungen, Herz und Kreislauf</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Es folgen nun Fragen bezüglich 
+Ihrer Gefäße und des 
+Herzkreislaufsystems.
+</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Kam es schon einmal zu einem 
+Gefäßverschluss durch 
+Blutgerinnsel(Thrombose/
+Embolie)?</Text>
+          <Optional>false</Optional>
+          <Next>5</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>Besteht/Bestand eine (weitere) 
+Gefäßerkrankung?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>31</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>31</ID>
+          <Text>Welche Art von Gefäßerkrankung 
+besteht/bestand?</Text>
+          <Optional>false</Optional>
+          <Next>31</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Arteriosklerose</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Krampfadern</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Erkrankung der 
+Herzkranzgefäße
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Druchblutungsstörung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Aneurysma</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Verengung der Halsschlagader</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weitere davon</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>Besteht/Bestand eine (weitere) 
+Herz-/Kreislauf-Erkrankung?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>33</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>20</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>33</ID>
+          <Text>Welche Art von 
+Gefäßerkrankungen besteht/
+bestand?
+</Text>
+          <Optional>false</Optional>
+          <Next>33</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. koronare Herzkrankheit</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Bluthochdruck
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Rhythmusstörungen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Schlaganfall
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Herzinfarkt
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Herzmuskelentzündung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>7. Klappenfehler
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>20</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weitere davon
+</AntwortText>
+              <Next>20</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>20</ID>
+          <Text>Tritt Atemnot beim 
+Treppensteigen auf?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>23</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>24</ID>
+          <Text>Nach wie vielen Treppenstufen 
+müssen Sie stehen bleiben?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Nach X Treppenstufen
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Lunge und Atemwege
+</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Es folgen nun Fragen bezüglich 
+Ihrer Lunge und Ihren 
+Atemwegen.</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Besteht/Bestand eine Atemwegs -/
+Lungenerkrankung?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>9</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>14</ID>
+          <Text>Welche Art von Erkrankung 
+besteht/bestand?</Text>
+          <Optional>false</Optional>
+          <Next>14</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. chronische Bronchitis</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Lungenentzündung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Asthma bronchiale
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Lungenblähung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. angeborene Fehlbildung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstiges
+</AntwortText>
+              <Next>9</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weitere davon
+</AntwortText>
+              <Next>9</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>9</ID>
+          <Text>Treten nächtliche Atemstörungen 
+auf? (z.B starkes Schnarchen, 
+Schlafapnoe)</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Fragen zur Haut
+</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Es folgen nun Fragen zu Ihrer 
+Haut</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Besteht eine Hauterkrankung?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>Welche Art bon Hauterkrankung 
+besteht?</Text>
+          <Optional>false</Optional>
+          <Next>12</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Ausschlag
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Schuppenflechte
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Tumor
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weitere davon
+</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>7</ID>
+          <Text>Kam es schon einmal zu einer 
+Narbenwucherung wie z.B Keloid?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Fragen zu Muskeln und Skelett
+</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Es folgen nun Fragen zur Ihren 
+Muskeln und dem Skelett.</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Besteht/Bestand eine Muskeloder Skeletterkrankung?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>34</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>8</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>34</ID>
+          <Text>Welche Art von Muskel - oder 
+Skeletterkrankung besteht/
+bestand?</Text>
+          <Optional>false</Optional>
+          <Next>34</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Muskelschwäche
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Gelenkerkrankung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Osteoporose
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Osteomalzie
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige</AntwortText>
+              <Next>8</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weitreen davon
+</AntwortText>
+              <Next>8</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>8</ID>
+          <Text>Besteht eine Schädigung der 
+Wirbelsäule?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>28</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>36</ID>
+          <Text>Welche Beschädigung der 
+Wirbelsäule besteht?</Text>
+          <Optional>false</Optional>
+          <Next>36</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Bandscheibenschaden</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Enge des Wirbelkanals 
+[Spinalkanalstenose}
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weiteren davon</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>Bestehen Gelenkbeschwerden?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>38</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>21</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>38</ID>
+          <Text>Welche Art von Gelenkschmerzen 
+bestehen?</Text>
+          <Optional>false</Optional>
+          <Next>38</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Hüfte
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Schulter
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Knie
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Zehen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Zehen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Ellenbogen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>7. Sprunggelenk
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weiteren davon
+</AntwortText>
+              <Next>21</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>21</ID>
+          <Text>Besteht eine Schwäche der 
+Bauchwand?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>40</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>40</ID>
+          <Text>Welche Art der Schwäche 
+besteht?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Bauchwandbruch
+</AntwortText>
+              <Next>40</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Leistenbruch
+</AntwortText>
+              <Next>40</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Narbenbruch
+</AntwortText>
+              <Next>40</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weiteren davon
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Frage zu den Zähnen
+</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Es folgt nun eine Frage bezüglich 
+Ihrer Zähne.</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Gibt es Besonderheiten beim 
+Zustand der Zähne?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>14</ID>
+          <Text>Welche Besonderheiten 
+bestehen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. lockere Zähne
+</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Zahnspange
+</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Prothese
+</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Brücke
+</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Krone
+</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Implantat
+</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>7. Retainer
+</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>8. Parodontose
+</AntwortText>
+              <Next>14</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weiteren davon
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Fragen zur Verdauung</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Es folgen nun Fragen zu Ihrer 
+Verdauung.</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Besteht/Bestand eine Erkrankung 
+des Verdauungssystems?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>35</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>35</ID>
+          <Text>Welche Art von Erkrankung 
+besteht/bestand?</Text>
+          <Optional>false</Optional>
+          <Next>35</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Speiseröhre
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Magen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Darm
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weitere davon
+</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>7</ID>
+          <Text>Bestehen derzeit Beschwerden bei 
+der Nahrungsaufnahme?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>37</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>37</ID>
+          <Text>Welche Art von Beschwerden 
+bestehen?
+</Text>
+          <Optional>false</Optional>
+          <Next>37</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Appetitlosigkeite
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Schluckstörungen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Schmerzen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weiteren davon
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>Bestehen derzeit Beschwerden bei 
+der Verdauung?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>39</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>20</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>39</ID>
+          <Text>Welche Art von Beschwerden 
+bestehen?</Text>
+          <Optional>false</Optional>
+          <Next>39</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Verstopfung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Durchfälle
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Blähungen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Schmerzen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Beimengungen im Stuhlgang
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Stuhlhalteschwäche
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>20</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weiteren davon
+</AntwortText>
+              <Next>20</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>20</ID>
+          <Text>Tritt häufiger Sodbrennen auf?
+</Text>
+          <Optional>false</Optional>
+          <Next>23</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>23</ID>
+          <Text>Besteht eine Refluxkrankheit?
+</Text>
+          <Optional>false</Optional>
+          <Next>26</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>26</ID>
+          <Text>Besteht ein Zwerchfellbruch?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Frage zu den Oberbauchorganen
+</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Es folgt nun eine Frage bezüglich 
+Ihrer Oberbauchorgane.
+</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Bestand eine Erkrankung der 
+Oberbauchorgane?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>Welche Art von Erkrankung 
+besteht/ bestand?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Leberentzündung/Hepatitis
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Fettleber
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Zirrhose
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Gallenkoliken/-steine
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Gelbsucht
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Pankreatitis
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weitere davon
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Fragen zu den Nieren/ableitenden Harnorganen</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Es folgen nun Fragen zu Ihren 
+Nieren und ableitenden 
+Harnorganen.</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Besteht/Bestand eine Erkrankung 
+oder Fehlbildung der Nieren bzw. 
+Harnorgane?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>10</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>Welche Art von Erkrankung 
+besteht/ bestand?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Nierenfunktionsstörung
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Nierensteine
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. chronischer Harnwegsinfekt
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Nierenentzündung
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. angeborene Fehlbidlung [z.B 
+Doppelniere]
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Blasenentleerungsstörung/ 
+verzögerte Blasenentleerung</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weitere davon
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Fragen zum endokrinen System
+</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Es folgen nun Fragen zum 
+endokrinen System.</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Besteht/Bestand eine 
+Schilddrüsenerkrankung?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>28</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>8</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>28</ID>
+          <Text>Welceh Art von 
+Schilddrüsenerkrankung besteht?</Text>
+          <Optional>false</Optional>
+          <Next>28</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Überfunktion</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Unterfunktion
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Kropf
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Hashimoto
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige</AntwortText>
+              <Next>8</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weitere davon
+</AntwortText>
+              <Next>8</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>8</ID>
+          <Text>Besteht eine 
+Stoffwechselerkrankung?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>30</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>30</ID>
+          <Text>Welche Stoffwechselerkrankung 
+besteht?</Text>
+          <Optional>false</Optional>
+          <Next>30</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Zuckerkrankheit
+</AntwortText>
+              <Next>null</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Gicht
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon
+</AntwortText>
+              <Next>12</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>12</ID>
+          <Text>Sind weitere endokrine 
+Erkrankungen bekannt?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>31</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>17</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>31</ID>
+          <Text>Welche weiteren Erkrankungen 
+sind bekannt?</Text>
+          <Optional>false</Optional>
+          <Next>31</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Über/Unterfunktion der 
+Nebenschilddrüse</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Morbus Cushing
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Hypophysenerkrankung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>17</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weiteren davon
+</AntwortText>
+              <Next>17</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>0</ID>
+          <Text>Bestehen weitere Erankungen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Vorbehandlungen/Voruntersuchungen
+</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Es folgen nun Fragen bezüglich 
+Vorbehandlungen und 
+Voruntersuchungen.
+</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Ist in den letzten Wochen eine 
+andere ärztliche Behandlung 
+erfolgt?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>5</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>7</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>5</ID>
+          <Text>Weswegen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Grund XY
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>7</ID>
+          <Text>Werden Medikamente 
+eingenommen?
+</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>15</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>16</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>15</ID>
+          <Text>Welche der folgenden 
+Medikamente werden 
+eingenommen?
+</Text>
+          <Optional>false</Optional>
+          <Next>15</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. gerinnungshemmende Mittel 
+[Marcumar, Aspirin]</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Schmerzmittel
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Antidiabetika [vor allem 
+metforminhaltige]</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Herz-/Kreislauf-Medikamente</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Hormonpräparate</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Schlaf- oder Beruhigungsmittel</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>7. blutdrucksenkende Mittel</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine davon
+</AntwortText>
+              <Next>16</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>16</ID>
+          <Text>Werden Medikamente 
+eingenommen, die das 
+Immunsystem und dadurch die 
+Abwehrkraft des Körpers 
+hemmen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>127</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>21</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>127</ID>
+          <Text>Welche der folgenden 
+Medikamente werden 
+eingenommen?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Kortison
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Rheumamittel
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Immunrepressiva
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine davon
+</AntwortText>
+              <Next>21</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>21</ID>
+          <Text>Werden pflanzliche Mittel/
+Ergänzungspräparate 
+eingenommen?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>128</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>26</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>128</ID>
+          <Text>Welche der folgenden Präparate/ 
+pflanzlichen Mitteln werden 
+eingenommen?
+</Text>
+          <Optional>false</Optional>
+          <Next>128</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Johanniskraut
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Ginkgo
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Vitamine
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine davon
+</AntwortText>
+              <Next>26</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>26</ID>
+          <Text>Wurden schon einmal 
+Operationen durchgeführt?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>29</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>36</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>29</ID>
+          <Text>Welche Operationen wurden 
+durchgeführt?</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Operation XY
+</AntwortText>
+              <Next>31</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>31</ID>
+          <Text>Traten Komplikationen auf?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>32</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>33</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>34</ID>
+          <Text>Welche Komplikationen traten 
+auf?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Komplikation XY
+</AntwortText>
+              <Next>36</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>36</ID>
+          <Text>Wurde schon einmal eine 
+Betäubung durchgeführt?</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>129</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>47</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>129</ID>
+          <Text>Welche Betäubung/en wurde 
+durchgeführt?</Text>
+          <Optional>false</Optional>
+          <Next>129</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Narkose
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Regionalanästhesie
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. örtliche Betäubung [z.B beim 
+Zahnarzt]</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Sedierung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weitere davon
+</AntwortText>
+              <Next>42</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>42</ID>
+          <Text>Gab es Komplikationen?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>45</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>47</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>45</ID>
+          <Text>Welche Komplikationen traten 
+auf?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Komplikation XY
+</AntwortText>
+              <Next>47</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>47</ID>
+          <Text>Besteht eine Veranlagung zu 
+hohem Fieber bei/nach einer 
+Narkose? (maligne Hyperthermie)
+</Text>
+          <Optional>false</Optional>
+          <Next>50</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>null</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>50</ID>
+          <Text>Trat bei Blutsverwandten bei/
+nach einer Narkose eine maligne 
+Hyperthermie auf?</Text>
+          <Optional>false</Optional>
+          <Next>53</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>53</ID>
+          <Text>Ist schon einmal eine 
+Übertragung von Blut/
+Blutbestandteilen (Transfusion) 
+erfolgt?</Text>
+          <Optional>false</Optional>
+          <Next>56</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>56</ID>
+          <Text>Wurden in den letzen 10 Jahren 
+bildgebende Verfahren 
+durchgeführt?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>130</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>69</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>130</ID>
+          <Text>Welche der folgenden 
+bildgebenden Verfahren wurde 
+angewandt?</Text>
+          <Optional>false</Optional>
+          <Next>130</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Röntgenuntersuchung
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Computertomografie
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Kernspintomografie
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon
+</AntwortText>
+              <Next>61</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>61</ID>
+          <Text>In welchem Körperberiech 
+wurden die bildgebenden 
+Verfahren duchgeführt?</Text>
+          <Optional>false</Optional>
+          <Next>61</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Oberkörper
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Bauch
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Wirbelsäule
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Kopf
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Extremitäten
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon
+</AntwortText>
+              <Next>67</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>67</ID>
+          <Text>In welcher Klinik/Praxis wurden 
+bildgebenden Verfahren 
+durchgeführt?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Klinik/Praxis XY
+</AntwortText>
+              <Next>67</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>69</ID>
+          <Text>Wurden bereits Untersuchungen 
+mit Kontrastmittel durchgeführt</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>72</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>77</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>72</ID>
+          <Text>Traten dabei Komplikationen auf?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>131</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>77</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>131</ID>
+          <Text>Welche Art von Komplikationen 
+traten auf?
+</Text>
+          <Optional>false</Optional>
+          <Next>131</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Hautausschlag
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Kreislaufreaktionen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Schock
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon
+</AntwortText>
+              <Next>77</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>77</ID>
+          <Text>Hatten Sie schon einmal eine 
+Strahlenbehandlung?</Text>
+          <Optional>false</Optional>
+          <Next>80</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>80</ID>
+          <Text>Wurde schon einmal eine 
+Chemotherapie durchgeführt?</Text>
+          <Optional>false</Optional>
+          <Next>83</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>83</ID>
+          <Text>Wurde schon einmal eine 
+endoskopische Untersuchung/
+Behandlung durchgeführt?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>134</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>97</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>134</ID>
+          <Text>Welche endoskopische 
+Untersuchung/ Behandlung wurde 
+durchgeführt?</Text>
+          <Optional>false</Optional>
+          <Next>134</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Magen
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Darm
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Speiseröhre
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Bauchhöhle
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Gelenke
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Atemwege
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>7. Kehlkopf
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>8. Harnröhre
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>9. Harnblase
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon
+</AntwortText>
+              <Next>94</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>94</ID>
+          <Text>Gab es dabei Komplikationen?
+</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja, Komplikation XY</AntwortText>
+              <Next>136</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>97</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>97</ID>
+          <Text>Wurde in den letzten 2 Wochen 
+eine Impfung durchgeführt?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja, Impfung XY
+</AntwortText>
+              <Next>100</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>100</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>100</ID>
+          <Text>Befinden sich Implantate im 
+Körper?</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>135</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>135</ID>
+          <Text>Welche Implantate befindensich 
+im Körper?</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Schrittmacher
+</AntwortText>
+              <Next>135</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Defibrillator
+</AntwortText>
+              <Next>135</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Herzklappe
+</AntwortText>
+              <Next>135</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Stent
+</AntwortText>
+              <Next>135</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. künstliches Gelenk
+</AntwortText>
+              <Next>135</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Silikon
+</AntwortText>
+              <Next>135</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>7. Hydrogel
+</AntwortText>
+              <Next>135</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>8. Zähne
+</AntwortText>
+              <Next>135</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>9. Metall
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Keine/ keine weitere davon
+</AntwortText>
+              <Next>null</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Fragen zu wichtigen Unterlagen
+</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Ich stelle Ihnen nun Fragen zu 
+wichtigen Unterlagen</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Liegen medizinische Ausweise/
+Pässe vor?
+</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>21</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>25</ID>
+          <Text>Welche Unterlagen liegen vor?
+</Text>
+          <Optional>false</Optional>
+          <Next>25</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Keine
+</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Allergieausweis
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Anästhesieausweis
+</AntwortText>
+              <Next>null</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>4. Röntgenpass
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>5. Implantatausweis (z.B 
+Herzschrittmacher)</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>6. Notfallausweis
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>7. Blutspendenausweis
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>8. Diabetikerausweis
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>9. Marcumarausweis
+</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>10. Andere: XY
+</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weiteren davon
+</AntwortText>
+              <Next>13</Next>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>13</ID>
+          <Text>Liegen frühere Befunde/
+Röntgenbilder vor?</Text>
+          <Optional>false</Optional>
+          <Next>16</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>16</ID>
+          <Text>Haben Sie Vorsorgeregelungen 
+getroffen?
+</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>Ja</AntwortText>
+              <Next>27</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Nein</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>27</ID>
+          <Text>Welche Vorsorgeregelungen 
+haben Sie getroffen?</Text>
+          <Optional>false</Optional>
+          <Next>null</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>1. Patientenverfügung
+</AntwortText>
+              <Next>27</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>2. Betreuungsverfügung
+</AntwortText>
+              <Next>27</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>3. Vorsorgevollmacht
+</AntwortText>
+              <Next>27</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>Sonstige
+</AntwortText>
+              <Next>27</Next>
+            </Antwort>
+            <Antwort>
+              <AntwortText>keine/ keine weiteren davon
+</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Fragen zur Patient:innenzufriedenheit</Titel>
+      <Fragen>
+        <Frage>
+          <ID>1</ID>
+          <Text>Bewerten Sie die folgenden 
+Aussagen bitte auf einer Skala 
+von: 
+stimme zu 
+stimme eher zu
+stimme eher nicht zu stimme 
+nicht zu 
+ich kann/möchte diese Frage 
+nicht beantworten</Text>
+          <Optional>true</Optional>
+          <Next>2</Next>
+          <Antworten />
+        </Frage>
+        <Frage>
+          <ID>2</ID>
+          <Text>Im Großen und Ganzen gesehen 
+verlief die heutige Aufnahme sehr 
+gut.</Text>
+          <Optional>false</Optional>
+          <Next>8</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>8</ID>
+          <Text>Ich habe einiges an dem 
+Aufnahmeprozess auszusetzen</Text>
+          <Optional>false</Optional>
+          <Next>9</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>9</ID>
+          <Text>Es wurden alle notwendigen 
+Untersuchungen durchgeführt 
+und Fragen gestellt, um zur 
+Diagnose zu kommen.</Text>
+          <Optional>false</Optional>
+          <Next>15</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>15</ID>
+          <Text>Ich hätte gerne noch weitere 
+Informationen gegeben.</Text>
+          <Optional>false</Optional>
+          <Next>21</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>21</ID>
+          <Text>Der Arzt/die Ärztin war 
+kompetent.</Text>
+          <Optional>false</Optional>
+          <Next>27</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>27</ID>
+          <Text>Ich habe Zweifel an der Qualität 
+meiner ärztlichen Betreuung.</Text>
+          <Optional>false</Optional>
+          <Next>33</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>33</ID>
+          <Text>Ich wurde beim Aufnahmeprozess 
+als Patient:in ernst genommen.</Text>
+          <Optional>false</Optional>
+          <Next>39</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>39</ID>
+          <Text>Der Aufnahmeprozess lief 
+unpersönlich ab.</Text>
+          <Optional>false</Optional>
+          <Next>45</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>45</ID>
+          <Text>Die Fragen, die bei der Aufnahme 
+gestellt wurden, waren schwer 
+verständlich.</Text>
+          <Optional>false</Optional>
+          <Next>51</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>51</ID>
+          <Text>Die verschiedenen Schritte der 
+Aufnahme wurden gut erklärt.</Text>
+          <Optional>false</Optional>
+          <Next>57</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>57</ID>
+          <Text>Das Personal wirkte gestresst.</Text>
+          <Optional>false</Optional>
+          <Next>63</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>63</ID>
+          <Text>Bei meiner Aufnahme wurde sich 
+die nötige Zeit genommen.</Text>
+          <Optional>false</Optional>
+          <Next>69</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>69</ID>
+          <Text>Alle Informationen wurden 
+sorgfältig dokumentiert.</Text>
+          <Optional>false</Optional>
+          <Next>75</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>75</ID>
+          <Text>Einige meiner Aussagen wurden 
+vom Arzt/von der Ärztin ignoriert.</Text>
+          <Optional>false</Optional>
+          <Next>81</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>81</ID>
+          <Text>Ich habe die gleichen Fragen an 
+mehreren Stationen beantworten 
+müssen.</Text>
+          <Optional>false</Optional>
+          <Next>87</Next>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+        <Frage>
+          <ID>87</ID>
+          <Text>Meine Erwartung an den 
+Aufnahmeprozess wurde: 
+übertroffen – erfüllt – enttäuscht</Text>
+          <Optional>false</Optional>
+          <Antworten>
+            <Antwort>
+              <AntwortText>stimme zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme eher nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>stimme nicht zu</AntwortText>
+            </Antwort>
+            <Antwort>
+              <AntwortText>ich kann/möchte diese Frage nicht beantworten</AntwortText>
+            </Antwort>
+          </Antworten>
+        </Frage>
+      </Fragen>
+    </Thema>
+    <Thema>
+      <Titel>Neues Thema</Titel>
+      <Fragen />
+    </Thema>
+  </Themen>
+</Dialog>
