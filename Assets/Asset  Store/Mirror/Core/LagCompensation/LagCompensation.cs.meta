@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13cc40c0eeb753aaf0aad35f1ea334c22f9b50bd43d7217980991c1d22244dc9
-size 483
+fileFormatVersion: 2
+guid: ad53cc7d12144d0ba3a8b0a4515e5d17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 7453abfe9e8b2c04a8a47eb536fe21eb, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Core/LagCompensation/LagCompensation.cs
+  uploadId: 648641

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4bd8ff08f08d9764f7cda73163be2eb724e62f1f0faa3a350574fb0ea55076bd
-size 370
+fileFormatVersion: 2
+guid: 1585faff4c0ab4a6182a0a6846f1c7a5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/RigidbodyBenchmark/Scenes/MirrorRigidbodyBenchmark.unity
+  uploadId: 648641

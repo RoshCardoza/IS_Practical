@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:345bd1c0256c77a867e4fb32994d76f21a8e0477482959f607ec32b8ab566fe8
-size 267
+fileFormatVersion: 2
+guid: f470f284e61694f03b862ce57768786d
+timeCreated: 1678260514
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkIdle/Readme.txt
+  uploadId: 648641

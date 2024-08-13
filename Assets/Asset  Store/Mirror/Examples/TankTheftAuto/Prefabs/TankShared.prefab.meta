@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:430d564cd09e50c09193cba82abf2e9e449a114c24be946d798c3b62b840ab3b
-size 352
+fileFormatVersion: 2
+guid: d502982feecd043d8bfc6a5c64cd09f9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/TankTheftAuto/Prefabs/TankShared.prefab
+  uploadId: 648641

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7527ed432a936c2077203d12ad408c3a026bc1b7fd395066ed66e3037531388
-size 352
+fileFormatVersion: 2
+guid: 7db50a51601fe4b3c8c929f6868bffbc
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Snapshot Interpolation/_DISABLE VSYNC_
+  uploadId: 648641

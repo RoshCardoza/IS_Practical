@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0958fb685702dfb1d80d553da3eb10da21dddf210410179b0218ff6b26352c23
-size 1005
+namespace kcp2k
+{
+    // header for messages processed by kcp.
+    // this is NOT for the raw receive messages(!) because handshake/disconnect
+    // need to be sent reliably. it's not enough to have those in rawreceive
+    // because those messages might get lost without being resent!
+    public enum KcpHeaderReliable : byte
+    {
+        // don't react on 0x00. might help to filter out random noise.
+        Hello      = 1,
+        // ping goes over reliable & KcpHeader for now. could go over unreliable
+        // too. there is no real difference except that this is easier because
+        // we already have a KcpHeader for reliable messages.
+        // ping is only used to keep it alive, so latency doesn't matter.
+        Ping       = 2,
+        Data       = 3,
+    }
+
+    public enum KcpHeaderUnreliable : byte
+    {
+        // users may send unreliable messages
+        Data = 4,
+        // disconnect always goes through rapid fire unreliable (glenn fielder)
+        Disconnect = 5,
+    }
+}

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:37009dc1c5a1ccba8b1d8370209ca1995d9650839a6d6726451adb7fa097dcfc
-size 425
+fileFormatVersion: 2
+guid: 7a77ca56c9d91af4b81b73a9907d6112
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Chat/Scripts/LoginUI.cs
+  uploadId: 648641

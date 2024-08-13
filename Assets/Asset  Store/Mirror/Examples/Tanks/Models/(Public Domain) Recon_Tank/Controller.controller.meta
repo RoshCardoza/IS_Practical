@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:146a3731bca6f38ed8afdf9f3441193609a85aecba1cf1a82593a01915efed94
-size 408
+fileFormatVersion: 2
+guid: a7211483bbd794b6d85ed88576e7d85c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Controller.controller
+  uploadId: 648641

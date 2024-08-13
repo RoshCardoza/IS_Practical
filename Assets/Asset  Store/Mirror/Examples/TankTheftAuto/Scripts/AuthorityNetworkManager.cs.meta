@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6920cb7630867804ecddb8b656a2f94ea635656590ce48e99361f4c7d8f6105
-size 450
+fileFormatVersion: 2
+guid: 428012adc920d443cb0663d2dcb7ce02
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/TankTheftAuto/Scripts/AuthorityNetworkManager.cs
+  uploadId: 648641

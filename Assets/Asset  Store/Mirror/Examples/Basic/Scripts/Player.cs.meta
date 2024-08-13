@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0db3f782e9bfc576addbeae16cab19c00eeec036ac4637653fd9848bf0b7da68
-size 425
+fileFormatVersion: 2
+guid: a472ac3ae1701d149861871cf416a46d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Basic/Scripts/Player.cs
+  uploadId: 648641

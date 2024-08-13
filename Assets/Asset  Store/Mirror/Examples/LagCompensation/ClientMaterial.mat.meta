@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a21e08bc2c2b0d23e8d38fa4dd681f2f86b17f1967f71e46e063c22553cf2c3f
-size 381
+fileFormatVersion: 2
+guid: e402de56ca981421cbbd922919787c15
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/LagCompensation/ClientMaterial.mat
+  uploadId: 648641

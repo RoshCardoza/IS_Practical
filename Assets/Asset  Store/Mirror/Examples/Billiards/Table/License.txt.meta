@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:91cf579bb03fac78ddbc226cfeb51f4c05a7e66029d84b300af2ea3e2f647de1
-size 270
+fileFormatVersion: 2
+guid: 82438f205fdb428db4672ec64657fb8a
+timeCreated: 1691690257
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Billiards/Table/License.txt
+  uploadId: 648641

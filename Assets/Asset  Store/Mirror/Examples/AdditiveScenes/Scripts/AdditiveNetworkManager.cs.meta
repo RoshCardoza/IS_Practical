@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f8d81d1369cfed2b870b5e0bebb2f69f2805e43195b58906a915194a1784b406
-size 450
+fileFormatVersion: 2
+guid: 34d1daf9e7dbcb64aa647cb332054ea6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Scripts/AdditiveNetworkManager.cs
+  uploadId: 648641

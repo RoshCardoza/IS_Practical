@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92cf00ead72849f03f7baef61ebba2092a990e9df46f11817b17dd7be3e03bb9
-size 425
+fileFormatVersion: 2
+guid: 0bf5c082d04f7ea459fcd30e60b5bd70
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Room/Scripts/Spawner.cs
+  uploadId: 648641

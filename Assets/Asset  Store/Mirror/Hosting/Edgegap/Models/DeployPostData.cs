@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ece1b2f4dd1d0249b535d25d40ceb22a30be9d3748f2fd65bb089e3e8bc1714f
-size 597
+using Newtonsoft.Json;
+using System.Collections.Generic;
+
+namespace Edgegap
+{
+    public struct DeployPostData
+    {
+        [JsonProperty("app_name")]
+        public string AppName { get; set; }
+
+        [JsonProperty("version_name")]
+        public string AppVersionName { get; set; }
+
+        [JsonProperty("ip_list")]
+        public IList<string> IpList { get; set; }
+
+        public DeployPostData(string appName, string appVersionName, IList<string> ipList)
+        {
+            AppName = appName;
+            AppVersionName = appVersionName;
+            IpList = ipList;
+        }
+    }
+}

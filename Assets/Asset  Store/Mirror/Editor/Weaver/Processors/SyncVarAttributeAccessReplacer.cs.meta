@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c3a50f50ef362073f9a233dc649d6f774d264a685203981f4c18e7f7c85289cc
-size 451
+fileFormatVersion: 2
+guid: d48f1ab125e9940a995603796bccc59e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/Processors/SyncVarAttributeAccessReplacer.cs
+  uploadId: 648641

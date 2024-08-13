@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:58fe9048104d9028d74d4a64a2d62deef4f2eccedd03c2800dce9f494905b337
-size 423
+fileFormatVersion: 2
+guid: 519712eb07f7a44039df57664811c2c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/NetworkManagerEditor.cs
+  uploadId: 648641

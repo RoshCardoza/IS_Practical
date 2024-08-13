@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6721c8db407302ec6f90ed649e7493cea3289cdc45fdd7df6c4586280965741
-size 425
+fileFormatVersion: 2
+guid: 27821afc81c4d064d8348fbeb00c0ce8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/SyncVarAttributeDrawer.cs
+  uploadId: 648641

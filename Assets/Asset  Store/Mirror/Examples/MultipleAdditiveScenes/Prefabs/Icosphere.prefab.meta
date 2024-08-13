@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:802ed80e7f2237599056cd6e5795a1cc68f7ddd67d1094ddd88f0c68b5481d3a
-size 360
+fileFormatVersion: 2
+guid: a104de86221e66a48832c222471d4f1e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleAdditiveScenes/Prefabs/Icosphere.prefab
+  uploadId: 648641

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e7dc7b8aefd5c5083238aad24c7f851f4ef89e8748cd9fbe6bb5da13ee77f10
-size 438
+fileFormatVersion: 2
+guid: c4c676ae6dcca0e458c6a8f06571f8fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Editor/EdgegapScriptEditor.cs
+  uploadId: 648641

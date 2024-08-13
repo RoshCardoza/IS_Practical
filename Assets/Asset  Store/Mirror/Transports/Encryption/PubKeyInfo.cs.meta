@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:68a4bdd4b943a1d15c88a078581beb667a0851c97a099a527b7021bfc33a2b92
-size 269
+fileFormatVersion: 2
+guid: e1e3744418024c02acf39f44c1d1bd20
+timeCreated: 1708874062
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/Encryption/PubKeyInfo.cs
+  uploadId: 648641

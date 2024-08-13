@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bf34837ed2634486f59e1538a22d0ed49ddafb4673043f194936580e294d62db
-size 386
+fileFormatVersion: 2
+guid: ec3b6ac9651c31248bcfbf695e6f597a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveLevels/Materials/StartPoint.mat
+  uploadId: 648641

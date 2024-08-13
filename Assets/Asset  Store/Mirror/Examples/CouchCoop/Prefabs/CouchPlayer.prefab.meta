@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c98d7b11a86635958f41deb498aac3e22ed49aeda12c86b7cd62df37ea9d5052
-size 355
+fileFormatVersion: 2
+guid: c5eb745ce31f9439f9bb3fe7c091ad27
+PrefabImporter:
+  externalObjects: {}
+  userData: ''
+  assetBundleName: ''
+  assetBundleVariant: ''
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CouchCoop/Prefabs/CouchPlayer.prefab
+  uploadId: 648641

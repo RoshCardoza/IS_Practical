@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e571665bf6b85f8feb6aa17d82676033a3dd06352f91343d6eaba3c05a38a7f2
-size 347
+fileFormatVersion: 2
+guid: 5d94495d573e34a16bff9b52dd3ad7e5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Billiards/Table/BilliardTable.mtl
+  uploadId: 648641

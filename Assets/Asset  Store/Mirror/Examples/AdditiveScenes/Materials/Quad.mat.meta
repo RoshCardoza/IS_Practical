@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b5df85957741b1e1b65da78851d42b3b739660255fbe45e1acb6f94d4e3921b
-size 380
+fileFormatVersion: 2
+guid: 6eb3f3ba66756364d8b94e662e7e8af5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Materials/Quad.mat
+  uploadId: 648641

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:56b6d862f67a4f8903879ce5900d50c1e811c2c24bb7bf1c40fd2c5d86f289b8
-size 417
+fileFormatVersion: 2
+guid: be40277098a024539bf63d0205cae824
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/Readers.cs
+  uploadId: 648641

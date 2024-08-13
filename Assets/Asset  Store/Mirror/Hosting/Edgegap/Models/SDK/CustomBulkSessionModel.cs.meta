@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b892f9046dfd33b6099a2ad85467e9eccf0030d0e0462932c3fbbf1767625ca0
-size 445
+fileFormatVersion: 2
+guid: 5749cb98bffa9524381bd3552b7960bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Models/SDK/CustomBulkSessionModel.cs
+  uploadId: 648641

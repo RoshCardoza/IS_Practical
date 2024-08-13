@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88627e526991d8b36c162510b43f96a5bb35b0da7436379129eafd75bc372cf3
-size 366
+fileFormatVersion: 2
+guid: 7a0eee2f518e9dc4fb628d96dc452faf
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Scenes/MirrorAdditiveScenesMain.unity
+  uploadId: 648641

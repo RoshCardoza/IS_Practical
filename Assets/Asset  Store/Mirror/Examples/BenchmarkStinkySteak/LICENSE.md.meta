@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd1e76b51a4a79e63e422dd7b72633cea72576c6981396a20e770d6105646088
-size 348
+fileFormatVersion: 2
+guid: 47c281457363740d58cafc331b207e35
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/LICENSE.md
+  uploadId: 648641

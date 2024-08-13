@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ab2b9fcc6cc534758b28169b0d888fbc72384c1b62941c23574fc5d71b8679ec
-size 930
+using UnityEngine;
+using UnityEngine.UI;
+namespace Mirror.Examples.CouchCoop
+{
+    public class CanvasScript : MonoBehaviour
+    {
+        public CouchPlayerManager couchPlayerManager; // Sets itself
+        public Button buttonAddPlayer, buttonRemovePlayer; // Make sure to attach these Buttons in the Inspector
+
+        private void Start()
+        {
+            buttonAddPlayer.onClick.AddListener(ButtonAddPlayer);
+            buttonRemovePlayer.onClick.AddListener(ButtonRemovePlayer);
+        }
+
+        private void ButtonAddPlayer()
+        {
+            if (couchPlayerManager == null)
+            { Debug.Log("Start game first."); return; }
+
+            couchPlayerManager.CmdAddPlayer();
+        }
+
+        private void ButtonRemovePlayer()
+        {
+            if (couchPlayerManager == null)
+            { Debug.Log("Start game first."); return; }
+
+            couchPlayerManager.CmdRemovePlayer();
+        }
+    }
+}

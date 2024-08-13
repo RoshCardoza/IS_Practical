@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0dad2c1ac2ff09890398288f1e9555852c3c12c097f21b938692df48a36b57ad
-size 562
+// Prediction moves out the Rigidbody & Collider into a separate object.
+// this component simply points back to the owner component.
+// in case Raycasts hit it and need to know the owner, etc.
+using UnityEngine;
+
+namespace Mirror
+{
+    public class PredictedRigidbodyPhysicsGhost : MonoBehaviour
+    {
+        // this is performance critical, so store target's .Transform instead of
+        // PredictedRigidbody, this way we don't need to call the .transform getter.
+        [Tooltip("The predicted rigidbody owner.")]
+        public Transform target;
+    }
+}

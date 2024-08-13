@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e01ba3a7253a632ee599cd3daa7f687df9b7f5ea695f56fb12d52473931ac00c
-size 393
+fileFormatVersion: 2
+guid: 5d4646112e9b746a9b531366427f3218
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Materials/MaterialFloor.mat
+  uploadId: 648641

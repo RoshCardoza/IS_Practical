@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2214e1be4cabc2574151b716ba9f4b845914da1743b65acb98f8e91c9ebfefa8
-size 358
+using UnityEngine;
+
+namespace Mirror.Examples.Billiards
+{
+    public class RedBall : NetworkBehaviour
+    {
+        // destroy when entering a pocket.
+        // there's only one trigger in the scene (the pocket).
+        [ServerCallback]
+        void OnTriggerEnter(Collider other)
+        {
+            NetworkServer.Destroy(gameObject);
+        }
+    }
+}

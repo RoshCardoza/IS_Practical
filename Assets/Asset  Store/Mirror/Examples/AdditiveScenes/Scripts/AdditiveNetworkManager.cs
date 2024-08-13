@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3118e532a03b99b156dcd3433e2fd930e46e93557051b8176ec030d92276e61e
-size 1614
+using System.Collections;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+namespace Mirror.Examples.AdditiveScenes
+{
+    [AddComponentMenu("")]
+    public class AdditiveNetworkManager : NetworkManager
+    {
+        [Tooltip("Trigger Zone Prefab")]
+        public GameObject Zone;
+
+        [Scene]
+        [Tooltip("Add all sub-scenes to this list")]
+        public string[] subScenes;
+
+        public override void OnStartServer()
+        {
+            base.OnStartServer();
+
+            // load all subscenes on the server only
+            StartCoroutine(LoadSubScenes());
+
+            // Instantiate Zone Handler on server only
+            Instantiate(Zone);
+        }
+
+        public override void OnStopServer()
+        {
+            StartCoroutine(UnloadScenes());
+        }
+
+        public override void OnStopClient()
+        {
+            if (mode == NetworkManagerMode.Offline)
+                StartCoroutine(UnloadScenes());
+        }
+
+        IEnumerator LoadSubScenes()
+        {
+            Debug.Log("Loading Scenes");
+
+            foreach (string sceneName in subScenes)
+                yield return SceneManager.LoadSceneAsync(sceneName, LoadSceneMode.Additive);
+        }
+
+        IEnumerator UnloadScenes()
+        {
+            Debug.Log("Unloading Subscenes");
+
+            foreach (string sceneName in subScenes)
+                if (SceneManager.GetSceneByName(sceneName).IsValid() || SceneManager.GetSceneByPath(sceneName).IsValid())
+                    yield return SceneManager.UnloadSceneAsync(sceneName);
+
+            yield return Resources.UnloadUnusedAssets();
+        }
+    }
+}

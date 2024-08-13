@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:980bf4992ec2620791055db08fe49635dd977c4a3d991bc80389ad3bf8dc9c26
-size 432
+fileFormatVersion: 2
+guid: 3a30e09acf02a5749becec55ff0c8c63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Models/SDK/Paginator.cs
+  uploadId: 648641

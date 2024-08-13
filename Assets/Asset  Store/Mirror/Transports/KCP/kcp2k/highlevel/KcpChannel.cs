@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0cd495c0213133f5748816d59718cb988ddba08a82b09d763e66ed11b133391
-size 231
+namespace kcp2k
+{
+    // channel type and header for raw messages
+    public enum KcpChannel : byte
+    {
+        // don't react on 0x00. might help to filter out random noise.
+        Reliable   = 1,
+        Unreliable = 2
+    }
+}

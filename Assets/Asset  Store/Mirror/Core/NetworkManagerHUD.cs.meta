@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a0ca8ece88b6f7828140f8f622ce4b69bacadfe40df91a5c7debebe7cd644aec
-size 469
+fileFormatVersion: 2
+guid: 6442dc8070ceb41f094e44de0bf87274
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 7453abfe9e8b2c04a8a47eb536fe21eb, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Core/NetworkManagerHUD.cs
+  uploadId: 648641

@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8e429d61dc39b96a6c3569e2629aee931f98e20717d324dcde259c7afc4091a7
-size 1387
+﻿using UnityEngine;
+using UnityEngine.UI;
+
+namespace Mirror.Examples.MultipleMatch
+{
+    public class RoomGUI : MonoBehaviour
+    {
+        public GameObject playerList;
+        public GameObject playerPrefab;
+        public GameObject cancelButton;
+        public GameObject leaveButton;
+        public Button startButton;
+        public bool owner;
+
+        [ClientCallback]
+        public void RefreshRoomPlayers(PlayerInfo[] playerInfos)
+        {
+            foreach (Transform child in playerList.transform)
+                Destroy(child.gameObject);
+
+            startButton.interactable = false;
+            bool everyoneReady = true;
+
+            foreach (PlayerInfo playerInfo in playerInfos)
+            {
+                GameObject newPlayer = Instantiate(playerPrefab, Vector3.zero, Quaternion.identity);
+                newPlayer.transform.SetParent(playerList.transform, false);
+                newPlayer.GetComponent<PlayerGUI>().SetPlayerInfo(playerInfo);
+
+                if (!playerInfo.ready)
+                    everyoneReady = false;
+            }
+
+            startButton.interactable = everyoneReady && owner && (playerInfos.Length > 1);
+        }
+
+        [ClientCallback]
+        public void SetOwner(bool owner)
+        {
+            this.owner = owner;
+            cancelButton.SetActive(owner);
+            leaveButton.SetActive(!owner);
+        }
+    }
+}

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4b1826405afbc1104dda5596bf78bbaa89998029852ad835385138eef2cab05
-size 363
+fileFormatVersion: 2
+guid: 89a84548859e3b643b4fb27984dc2b0d
+timeCreated: 1426587410
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Pong/Scenes/MirrorPong.unity
+  uploadId: 648641

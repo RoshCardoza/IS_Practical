@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6a71ac85165343bfb1019b2735830d23299784aa8b85fb72c491eb497034a4b
-size 444
+fileFormatVersion: 2
+guid: 94ae50f3ec35667469b861b12cd72f92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/SimpleWeb/SimpleWeb/Common/BufferPool.cs
+  uploadId: 648641

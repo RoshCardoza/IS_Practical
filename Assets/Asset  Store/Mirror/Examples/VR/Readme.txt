@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:338e047e42c1161073a2b6533285b28aaac04c74414c2ae4f9ea7caa57b72b4e
-size 189
+Mirror VR samples can be found here:
+https://github.com/MirrorNetworking/ExamplesVR
+
+The VR samples need a few extra dependencies,
+so they aren't stored in the main Mirror repository here.

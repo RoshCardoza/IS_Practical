@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d690649645d3bdbc9269869eea5809c9a7567489e5f993216c080e7e76c1de82
-size 349
+fileFormatVersion: 2
+guid: f6d08eb9a8e35d84fa30a7e3ae64181a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Prefabs/Sphere.prefab
+  uploadId: 648641

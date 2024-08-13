@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c01e863a6318ddab24245e328370f96d2125dc003f31913758919c2a1dc20cad
-size 442
+fileFormatVersion: 2
+guid: 3bfc1d7bd4d52f7479b2bbb1ade4138f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Models/SDK/NetworkMetricsModel.cs
+  uploadId: 648641

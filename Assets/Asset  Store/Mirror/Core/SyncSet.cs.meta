@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b50cfd71e50f6f5c6cfd2222f97cb7558c15bbd25d0f54b2a8423548ef97a95
-size 459
+fileFormatVersion: 2
+guid: 8a31599d9f9dd4ef9999f7b9707c832c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 7453abfe9e8b2c04a8a47eb536fe21eb, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Core/SyncSet.cs
+  uploadId: 648641

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af6d00424cd3c9e3e49705814c1e0422ee74990673dbd8d81cf2b4acf05a2640
-size 344
+fileFormatVersion: 2
+guid: 83f9d2fb76f5742448c6e51f258327a2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Tanks/Scenes/MirrorTanks.unity
+  uploadId: 648641

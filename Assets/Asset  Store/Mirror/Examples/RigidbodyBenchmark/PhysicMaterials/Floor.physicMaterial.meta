@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a4521e68ecba968565e1ae56de191509b94fdbd3b2e26a48dbddc1d93ff77b90
-size 403
+fileFormatVersion: 2
+guid: f5079c2dafd704093a8f8c67707e13db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/RigidbodyBenchmark/PhysicMaterials/Floor.physicMaterial
+  uploadId: 648641

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4172f7ffc6952958b44c311dd5b7821118e83a40f12ea83ae0a5a79f9dd82f9f
-size 347
+fileFormatVersion: 2
+guid: 4ff300cf6bb3c6342a9552c4f18788c8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Prefabs/Cube.prefab
+  uploadId: 648641

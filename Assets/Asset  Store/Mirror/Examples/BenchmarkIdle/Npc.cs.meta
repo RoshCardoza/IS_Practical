@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5af8bcae4cb4079c569142494cd49928c0a207570a7c01523617efe6aa6b924
-size 422
+fileFormatVersion: 2
+guid: 112eda4d75f3840238a75926c4d465bf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkIdle/Npc.cs
+  uploadId: 648641

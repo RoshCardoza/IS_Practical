@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bf80454ab3b1b435b4e81ac6530c6eb5d3c2a529eeeca277b455fc2512cadf7f
-size 431
+fileFormatVersion: 2
+guid: eb17f7222317f4b889bb4e80f69df3f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/LagCompensation/ServerCube.cs
+  uploadId: 648641

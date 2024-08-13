@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ad2b97f6c82f3ba7117ea32c5bb8e320dd1f6a6d30639a4ec2ef8acdb63737f0
-size 382
+fileFormatVersion: 2
+guid: 3500dce637708024da2f2e45e4f71cd3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveLevels/Materials/Portal.mat
+  uploadId: 648641

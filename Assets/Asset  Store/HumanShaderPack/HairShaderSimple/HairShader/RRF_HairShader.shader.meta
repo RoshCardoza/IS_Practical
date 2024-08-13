@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:beab84336e21decae9e21c5b429360609736eed05351403e6d162bf1d62ef9f5
-size 299
+fileFormatVersion: 2
+guid: 29d8963b0e55f284ebbc1d08be7d254b
+timeCreated: 1525025277
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _AlphaClip: {fileID: 2800000, guid: 9a79aa322f67842448907ade5c0439ed, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

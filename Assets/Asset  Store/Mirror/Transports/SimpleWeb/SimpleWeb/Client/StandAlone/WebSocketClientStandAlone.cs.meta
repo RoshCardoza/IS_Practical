@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:791c765f8cc1eb35708e17107fdf2e26c7fba12672b7a869744d8d2b38edf17a
-size 470
+fileFormatVersion: 2
+guid: 05a9c87dea309e241a9185e5aa0d72ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/SimpleWeb/SimpleWeb/Client/StandAlone/WebSocketClientStandAlone.cs
+  uploadId: 648641

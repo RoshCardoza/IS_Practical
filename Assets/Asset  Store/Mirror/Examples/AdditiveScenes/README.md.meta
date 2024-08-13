@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b5d90bc54381108576e77ef2a4c097b09dd8733f6a0f91822041362e5e506e62
-size 341
+fileFormatVersion: 2
+guid: 0a023e0d7315ac74094703ab69348733
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/README.md
+  uploadId: 648641

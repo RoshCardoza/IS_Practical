@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ea66a88def58114c8171614c5a91eeb8ceb1018d2de7a051c4f3a9dc9f189710
-size 397
+fileFormatVersion: 2
+guid: b4814d6b577aa424991905946c0fe6dc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Materials/MaterialGreenDark.mat
+  uploadId: 648641

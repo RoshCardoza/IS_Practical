@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:93e43e3e59d710d91dad2e58f57c82ed671a57771b62fbdbbd71e157df7f5b77
-size 410
+fileFormatVersion: 2
+guid: 7e6bf26596c6f564097734c7cc319e15
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleAdditiveScenes/Models/Icosphere/Materials/Icosphere.mat
+  uploadId: 648641

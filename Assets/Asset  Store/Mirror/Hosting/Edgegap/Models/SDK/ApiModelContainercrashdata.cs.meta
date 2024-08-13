@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba22cccee59b725e4a819f5d949eff5ea4d15e6dbc358d67364d20d8ca08fa36
-size 449
+fileFormatVersion: 2
+guid: b888d877048876b40a346a5c2874b740
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Models/SDK/ApiModelContainercrashdata.cs
+  uploadId: 648641

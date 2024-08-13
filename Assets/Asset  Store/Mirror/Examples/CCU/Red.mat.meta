@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9cdabc94d2ebf5862b258a8feb828aceb6b2fa3a3aca39f03020e027b0995b7
-size 358
+fileFormatVersion: 2
+guid: 7b742246ea1d249358a8a8e039bd4b17
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CCU/Red.mat
+  uploadId: 648641

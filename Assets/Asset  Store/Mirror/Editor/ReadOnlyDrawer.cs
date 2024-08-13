@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:483d4613c21c53d7441fbacd7f66ed576384caa4533c4659f6c95e83a48cdf18
-size 546
+using UnityEngine;
+using UnityEditor;
+
+namespace Mirror
+{
+    [CustomPropertyDrawer(typeof(ReadOnlyAttribute))]
+    public class ReadOnlyDrawer : PropertyDrawer
+    {
+        public override void OnGUI(Rect position, SerializedProperty property, GUIContent label)
+        {
+            // Cache the current GUI enabled state
+            bool prevGuiEnabledState = GUI.enabled;
+
+            GUI.enabled = false;
+            EditorGUI.PropertyField(position, property, label, true);
+            GUI.enabled = prevGuiEnabledState;
+        }
+    }
+}

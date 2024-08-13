@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97c13a2a8df3b3721e1be1acf5329e2336ef5feccc92b61e8a8a43521f1aae52
-size 353
+fileFormatVersion: 2
+guid: 504f86497324bc040be44f6f88b6cc73
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleMatches/Prefabs/PlayerGUI.prefab
+  uploadId: 648641

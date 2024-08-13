@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce9a953753ec2416002569d49c0396cea50f4f2b6b624430c33f1f54aa93363d
-size 443
+fileFormatVersion: 2
+guid: ef22691ec32ce4b5f8dd75e8330b07ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Scripts/PlayerEmpty.cs
+  uploadId: 648641

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5dbe5e0b9e62fe49330cd7d5e7e51696dd000f4e780f6bc358ac579cdcdf8a9a
-size 443
+fileFormatVersion: 2
+guid: 35c16722912b64af894e4f6668f2e54c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/Processors/MonoBehaviourProcessor.cs
+  uploadId: 648641

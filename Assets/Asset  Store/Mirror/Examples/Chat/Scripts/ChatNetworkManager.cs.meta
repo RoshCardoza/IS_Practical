@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a2e4e319d11f552752823ac9e89c5df2330b36b3737cd31a01ed2aa255f4791e
-size 436
+fileFormatVersion: 2
+guid: d0cd72391a563461f88eb3ddf120efef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Chat/Scripts/ChatNetworkManager.cs
+  uploadId: 648641

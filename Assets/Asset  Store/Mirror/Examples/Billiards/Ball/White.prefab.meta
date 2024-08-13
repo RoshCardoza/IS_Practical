@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eda1ca31acf7d292fb470196233826435b227b96671b8bb8b07d71694c3d5b8e
-size 340
+fileFormatVersion: 2
+guid: 0100f0c90700741b496ccbc2fe54c196
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Billiards/Ball/White.prefab
+  uploadId: 648641

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db2636f4a467b0ed31097c5d4802b54eebe9479ee8ae53898020f6346a84ca9a
-size 436
+fileFormatVersion: 2
+guid: d49ffc8fe921fbe4bbae2e694a7d83c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Models/SDK/SessionDelete.cs
+  uploadId: 648641

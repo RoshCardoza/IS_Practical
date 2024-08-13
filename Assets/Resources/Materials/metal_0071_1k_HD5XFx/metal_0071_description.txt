@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c3869f682809a50db8aab4c6c1375b75c8fc381de8e92ee1fb0ba968e73dcafe
-size 213
+Name:
+Scratched Aluminium Metal Sheet (Metal 0071)
+
+Description:
+It is an aluminium sheet, but highly scratched. It is a gorgeous texture for machinery parts and metallic cases.
+
+Author:
+https://www.texturecan.com

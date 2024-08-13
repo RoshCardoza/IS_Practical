@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0102c520bcbee341135a63348fab4ddb36e321bbfbd6e926c68d281534725d84
-size 371
+fileFormatVersion: 2
+guid: e88ccd07dc10d443b808d53676994410
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Billiards/Ball/White.mat
+  uploadId: 648641

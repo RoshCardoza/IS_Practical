@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89acfe0a9f1a46f82dc69991f0242e8e35fd78e0510ba5595f537d972302422d
-size 442
+fileFormatVersion: 2
+guid: a98b377d8481e52449b996e45a015b8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleMatches/Scripts/MatchMessages.cs
+  uploadId: 648641

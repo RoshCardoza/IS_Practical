@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a2e61f2a94e5369fbbb820704d12b7a31014ec9a884c28a033bf7eee2d449462
-size 501
+fileFormatVersion: 2
+guid: a553cb17010b2403e8523b558bffbc14
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 7453abfe9e8b2c04a8a47eb536fe21eb, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Components/NetworkTransform/NetworkTransformUnreliable.cs
+  uploadId: 648641

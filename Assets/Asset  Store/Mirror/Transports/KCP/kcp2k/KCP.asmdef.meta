@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:63a04400730d909929445a74eaf479de8621ab18bbe1c84406ebc1b6a8c54ad6
-size 347
+fileFormatVersion: 2
+guid: 6806a62c384838046a3c66c44f06d75f
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/KCP/kcp2k/KCP.asmdef
+  uploadId: 648641

@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1378f4292eb03cb705cc02b16256d4c96ec5e0f359cd2fc7547b8b067320b469
-size 1695
+using UnityEngine;
+
+namespace Mirror.Examples.MultipleAdditiveScenes
+{
+    [RequireComponent(typeof(Common.RandomColor))]
+    public class Reward : NetworkBehaviour
+    {
+        public bool available = true;
+        public Common.RandomColor randomColor;
+
+        protected override void OnValidate()
+        {
+            base.OnValidate();
+
+            if (randomColor == null)
+                randomColor = GetComponent<Common.RandomColor>();
+        }
+
+        [ServerCallback]
+        void OnTriggerEnter(Collider other)
+        {
+            if (other.gameObject.CompareTag("Player"))
+                ClaimPrize(other.gameObject);
+        }
+
+        [ServerCallback]
+        void ClaimPrize(GameObject player)
+        {
+            if (available)
+            {
+                // This is a fast switch to prevent two players claiming the prize in a bang-bang close contest for it.
+                // First hit turns it off, pending the object being destroyed a few frames later.
+                available = false;
+
+                Color32 color = randomColor.color;
+
+                // calculate the points from the color ... lighter scores higher as the average approaches 255
+                // UnityEngine.Color RGB values are float fractions of 255
+                uint points = (uint)(((color.r) + (color.g) + (color.b)) / 3);
+
+                // award the points via SyncVar on the PlayerController
+                player.GetComponent<PlayerScore>().score += points;
+
+                // spawn a replacement
+                Spawner.SpawnReward(gameObject.scene);
+
+                // destroy this one
+                NetworkServer.Destroy(gameObject);
+            }
+        }
+    }
+}

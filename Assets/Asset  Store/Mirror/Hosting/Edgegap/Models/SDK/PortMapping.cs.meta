@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:24700fb0bd53c286cd2519bc5b6d96fca4c90fb3d85eb956ccff71a3a8b45071
-size 434
+fileFormatVersion: 2
+guid: 239e4c2b2f7b05444bf1622202e9bd71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Models/SDK/PortMapping.cs
+  uploadId: 648641

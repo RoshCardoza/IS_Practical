@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d869b357c02b0821f016c63583556b511b705b4a44eaeb049f0277405649329e
-size 382
+fileFormatVersion: 2
+guid: 792117fe9a386a8489e8010bec746339
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Materials/Player.mat
+  uploadId: 648641

@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:549602b7391b6fbd23838b65dc526fb934e8be640ecae3182dcea267eb8ac99b
-size 294
+fileFormatVersion: 2
+guid: 871580d2094a46139279d651cec92b5d
+timeCreated: 1708794004
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/Encryption/Editor/EncryptionTransportInspector.cs
+  uploadId: 648641

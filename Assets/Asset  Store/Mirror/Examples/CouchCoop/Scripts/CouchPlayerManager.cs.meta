@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2bd9dc0416c50e5071e7028ba9c74fbfbed2357eb4ea6a54d275aa5113cb8e96
-size 441
+fileFormatVersion: 2
+guid: 32f263c662d1e4d33870c9411461bbd0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CouchCoop/Scripts/CouchPlayerManager.cs
+  uploadId: 648641

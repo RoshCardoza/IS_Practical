@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:32a32b310d7a0ebdc80d78ff6e26cdde7c5f163db7c3a6ab38e62e74559b4666
-size 657
+﻿// Shows either a welcome message, only once per session.
+#if UNITY_EDITOR
+using UnityEditor;
+using UnityEngine;
+
+namespace Mirror
+{
+    static class Welcome
+    {
+        [InitializeOnLoadMethod]
+        static void OnInitializeOnLoad()
+        {
+            // InitializeOnLoad is called on start and after each rebuild,
+            // but we only want to show this once per editor session.
+            if (!SessionState.GetBool("MIRROR_WELCOME", false))
+            {
+                SessionState.SetBool("MIRROR_WELCOME", true);
+                Debug.Log("Mirror | mirror-networking.com | discord.gg/N9QVxbM");
+            }
+        }
+    }
+}
+#endif

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b8ce1bbb27306655518610d78721c7ea22c1c118f5d472d024eac79520f86357
-size 361
+fileFormatVersion: 2
+guid: 325984b52e4128546bc7558552f8b1d2
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/CompilerSymbols/Mirror.CompilerSymbols.asmdef
+  uploadId: 648641

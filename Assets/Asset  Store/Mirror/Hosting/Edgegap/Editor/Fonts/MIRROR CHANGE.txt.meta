@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:310a9b7eccd250116e2950707ec3468fe7e7c4729afcbc923528c5cf416439c6
-size 354
+fileFormatVersion: 2
+guid: 57002d60dd8ce46b081a0a0a25e5b52b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Editor/Fonts/MIRROR CHANGE.txt
+  uploadId: 648641

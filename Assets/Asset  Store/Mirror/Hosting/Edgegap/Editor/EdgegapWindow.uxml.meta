@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f41fc26296189c1fe3e0d5b648398c0b43089c94215c51fb61f62bea520ea689
-size 473
+fileFormatVersion: 2
+guid: 8f6d8a95cd8228e468ad40dbec5ca478
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 13804, guid: 0000000000000000e000000000000000, type: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Editor/EdgegapWindow.uxml
+  uploadId: 648641

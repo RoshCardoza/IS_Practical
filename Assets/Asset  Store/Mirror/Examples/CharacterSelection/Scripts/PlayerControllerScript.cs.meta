@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c23d1a49b3abb748138feb699be8a992cf1e471f7ac7d87fcd749d8d3d1996b9
-size 454
+fileFormatVersion: 2
+guid: 2a507efeb4218499aaa7cd74f326f5de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Scripts/PlayerControllerScript.cs
+  uploadId: 648641

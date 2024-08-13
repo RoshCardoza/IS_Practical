@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0b9607098c194fbc44dfc351548b929b4eb3c32cc84d526699d7dc9fe99d7e7
-size 345
+fileFormatVersion: 2
+guid: 8a02664e59ea04082ba401785fdf2a3f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/LagCompensation/_DISABLE VSYNC_
+  uploadId: 648641

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:883f4355a756309e8168b9b188bb597236f6b420156f758a0a3dba5b795ab513
-size 199
+Name:
+Burnished Metal with Polished Lines (Metal 0062)
+
+Description:
+It is a burnished iron having a lot of polished marks. A simple but useful and common texture.
+
+Author:
+https://www.texturecan.com

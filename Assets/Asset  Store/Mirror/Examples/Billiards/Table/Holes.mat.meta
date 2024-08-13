@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:298b3087dc5b91c016e129b6027e6c18a174192bc8401f60e0344eaaf1915d38
-size 372
+fileFormatVersion: 2
+guid: 963c1008ac3af4b1db863a7f7a858eac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Billiards/Table/Holes.mat
+  uploadId: 648641

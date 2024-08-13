@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e61aedae9bf548e002bde0913cbf6af2e7d2f028002449ad8e48d0116044ec22
-size 434
+fileFormatVersion: 2
+guid: 0e680878006965146a8f9d85834c4d1c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveLevels/Scripts/Portal.cs
+  uploadId: 648641

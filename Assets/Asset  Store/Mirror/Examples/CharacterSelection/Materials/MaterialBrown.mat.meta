@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2b331aa6e48adccb345044ed43b23e8ed363419f4a3e54e381663dded39ed0a
-size 393
+fileFormatVersion: 2
+guid: b976126dcdf3a407b86a1488c2f05b98
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Materials/MaterialBrown.mat
+  uploadId: 648641

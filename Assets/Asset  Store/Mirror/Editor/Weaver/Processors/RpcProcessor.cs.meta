@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8508434b4c0c7e834e20db6a663f017b7e92c64af53034c1557f9f7f29a600f2
-size 433
+fileFormatVersion: 2
+guid: a3cb7051ff41947e59bba58bdd2b73fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/Processors/RpcProcessor.cs
+  uploadId: 648641

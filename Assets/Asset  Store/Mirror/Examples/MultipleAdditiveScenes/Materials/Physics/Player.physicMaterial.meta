@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4fd7cd18bfeb438baf764182ea6ab5b2c02b7442c385619e3cf94c737a99a028
-size 410
+fileFormatVersion: 2
+guid: 2debad4ac21a6644faf4fc93bd5b5869
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Physics/Player.physicMaterial
+  uploadId: 648641

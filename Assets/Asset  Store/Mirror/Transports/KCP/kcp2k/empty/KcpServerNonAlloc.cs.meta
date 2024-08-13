@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:443f360f6e758958bc5dc6c319f7502241d67249df2980d02d4d8f96abb0dc5a
-size 284
+﻿fileFormatVersion: 2
+guid: 54b8398dcd544c8a93bcad846214cc40
+timeCreated: 1626432191
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/KCP/kcp2k/empty/KcpServerNonAlloc.cs
+  uploadId: 648641

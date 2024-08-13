@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e239df04d3752decdfb0e381df015405de44e87c55d2e3b7a95d2314f381865a
-size 442
+fileFormatVersion: 2
+guid: d01598bf851164dc48a24c26913460b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/Telepathy/Telepathy/ThreadFunctions.cs
+  uploadId: 648641

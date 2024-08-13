@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ffd47a2dbf899ebfe1e2b0a23d585ebaeaa4972757a1a143c3d74846f7caeb85
-size 377
+using Newtonsoft.Json;
+
+namespace Edgegap.Editor.Api.Models.Results
+{
+    /// <summary>Edgegap error, generally just containing `message`</summary>
+    public class EdgegapErrorResult 
+    {
+        /// <summary>Friendly, UI-facing error message from Edgegap; can be lengthy.</summary>
+        [JsonProperty("message")]
+        public string ErrorMessage { get; set; }
+    }
+}

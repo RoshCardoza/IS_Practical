@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:903dbaaf82c40646012f98f75361e758a3c85bc13619e87f93322d0148db3dc0
-size 439
+fileFormatVersion: 2
+guid: e7d8650c751710349bb9546d1697b9cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Room/Scripts/NetworkRoomManagerExt.cs
+  uploadId: 648641

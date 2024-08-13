@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b9c0ae56f83af8d6c2a50ddb34790977f5c9768dd17c7f884b49a13d261ba39
-size 447
+fileFormatVersion: 2
+guid: c242b19f23fce03459abad5816ec5370
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Models/SDK/ContainerLogStorageModel.cs
+  uploadId: 648641

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d579595b67de4994aab898bc1ee286a1f107a6b17cbc15bb933e3b09905deed8
-size 56
+Removed font files to avoid all kinds of runtime errors.

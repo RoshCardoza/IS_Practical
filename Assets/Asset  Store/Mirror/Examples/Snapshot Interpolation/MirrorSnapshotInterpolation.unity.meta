@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f7eb1d9cd147fae9aeb6efa76c8ee7ba6990c4ebaa3fc4590392b3f5c822eef
-size 370
+fileFormatVersion: 2
+guid: 612a705077c16479db7b167ab1599ae8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Snapshot Interpolation/MirrorSnapshotInterpolation.unity
+  uploadId: 648641

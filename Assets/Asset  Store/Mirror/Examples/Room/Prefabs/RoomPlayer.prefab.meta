@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:90a9145d0bfa4dd347e89931f64ef555368091296bd13562c1283810b2d697d2
-size 379
+fileFormatVersion: 2
+guid: deae2134a1d77704b9c595efe69767dd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Room/Prefabs/RoomPlayer.prefab
+  uploadId: 648641

@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e59422085b1a01b9546c246842229e11fc2c44814d60a2b3e4d4186f1aea963d
-size 986
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Mirror.SimpleWeb
+{
+    /// <summary>
+    /// Represents a client's request to the Websockets server, which is the first message from the client.
+    /// </summary>
+    public class Request
+    {
+        static readonly char[] lineSplitChars = new char[] { '\r', '\n' };
+        static readonly char[] headerSplitChars = new char[] { ':' };
+        public string RequestLine;
+        public Dictionary<string, string> Headers = new Dictionary<string, string>();
+
+        public Request(string message)
+        {
+            string[] all = message.Split(lineSplitChars, StringSplitOptions.RemoveEmptyEntries);
+            RequestLine = all.First();
+            Headers = all.Skip(1)
+                         .Select(header => header.Split(headerSplitChars, 2, StringSplitOptions.RemoveEmptyEntries))
+                         .ToDictionary(split => split[0].Trim(), split => split[1].Trim());
+        }
+    }
+}

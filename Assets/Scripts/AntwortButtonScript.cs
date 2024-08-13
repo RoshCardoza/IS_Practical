@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dfa6a9f67b223d7419ea9de40e64a49b28a3e5f0abdb59e6309a692854ab609f
-size 358
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class AntwortButtonScript : MonoBehaviour
+{
+    [SerializeField] public Text buttonText;
+    public string Antwort;
+
+    public void setAntwort(string antwort) //ref?
+    {
+        Antwort = antwort;
+        buttonText.text = Antwort.Trim();
+    }
+}

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c3294802548bfd5a341e419a0b5c621582457739446d15991526dbe8b82d19a
-size 437
+fileFormatVersion: 2
+guid: 73f6c9cdbb9e54f65b3a0a35cc8e55c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/Processors/CommandProcessor.cs
+  uploadId: 648641

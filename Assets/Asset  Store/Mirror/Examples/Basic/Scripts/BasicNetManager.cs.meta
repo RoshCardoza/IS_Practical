@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce8f53e6a736a857369d68a6ddc14ea7a278c6219a7efe5c7869e06390e8eaab
-size 434
+fileFormatVersion: 2
+guid: 20460c43f0320ed4baf8c1dcf953eafa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Basic/Scripts/BasicNetManager.cs
+  uploadId: 648641

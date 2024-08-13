@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a11fd1dae1316ebf6d02488579bc64b36a106d32976058d75607581e76825fd
-size 360
+fileFormatVersion: 2
+guid: 6acf49d76d0eb47c08e908da71d52859
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Prefabs/CharacterData.prefab
+  uploadId: 648641

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd2b49d35c578b733c3d038d1d6f4312219fc8e1537a93e7b8e46f535050aabb
-size 348
+fileFormatVersion: 2
+guid: 4fdcc4aa5c669b348a5954a92f5e8e89
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveLevels/Prefabs/Plane.prefab
+  uploadId: 648641

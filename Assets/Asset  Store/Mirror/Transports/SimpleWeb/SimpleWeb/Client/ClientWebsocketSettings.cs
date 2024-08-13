@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4fece2bb4ccd47097baadb9af236394d2d5d9063a66e48faf5ce51d7e4362e69
-size 339
+using System;
+
+namespace Mirror.SimpleWeb
+{
+    [Serializable]
+    public struct ClientWebsocketSettings
+    {
+        public WebsocketPortOption ClientPortOption;
+        public ushort CustomClientPort;
+    }
+    public enum WebsocketPortOption
+    {
+        DefaultSameAsServer,
+        MatchWebpageProtocol,
+        SpecifyPort
+    }
+}

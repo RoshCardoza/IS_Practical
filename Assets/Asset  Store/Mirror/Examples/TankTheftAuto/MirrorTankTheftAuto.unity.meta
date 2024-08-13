@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b6d2358b9b793fcb409f125bb69766b586becc1c4848c2ffc45fb938fc65c48b
-size 353
+fileFormatVersion: 2
+guid: cb81e0eb61ead421bbccb78028641643
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/TankTheftAuto/MirrorTankTheftAuto.unity
+  uploadId: 648641

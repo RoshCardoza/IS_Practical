@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c1a9a2f971d8630af5c057e8464a8e7af6d9860680829f6711fcfd0948241b4
-size 384
+fileFormatVersion: 2
+guid: cba1b63a0bccc4b12ac25f05d0ae2dd1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Tanks/Textures/ProjectileMaterial.mat
+  uploadId: 648641

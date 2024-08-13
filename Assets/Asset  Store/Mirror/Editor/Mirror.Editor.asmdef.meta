@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:513accc190de5287c521f97964f32877b5f2da66da873ee2b61dd921a4f27ba5
-size 343
+fileFormatVersion: 2
+guid: 1c7c33eb5480dd24c9e29a8250c1a775
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Mirror.Editor.asmdef
+  uploadId: 648641

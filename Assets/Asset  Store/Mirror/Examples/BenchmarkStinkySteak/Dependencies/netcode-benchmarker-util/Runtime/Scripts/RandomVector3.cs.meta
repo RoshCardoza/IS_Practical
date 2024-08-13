@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98cf7a4e6934d061d4aa25e0bad9e84b01c16a84a48b3211a686025cc8f98c84
-size 493
+fileFormatVersion: 2
+guid: 17d9458a0ed386d4281f9c5085b42118
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Dependencies/netcode-benchmarker-util/Runtime/Scripts/RandomVector3.cs
+  uploadId: 648641

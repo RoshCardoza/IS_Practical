@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b69edac115f1da1769a2703b35a9c3677b924119c06583e505e3a8498148d838
-size 353
+fileFormatVersion: 2
+guid: 23a7fdebddb0e4caabec9f7777f799f0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkIdle/MirrorBenchmarkIdle.unity
+  uploadId: 648641

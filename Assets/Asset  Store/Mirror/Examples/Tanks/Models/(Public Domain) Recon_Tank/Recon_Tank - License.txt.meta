@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:960989aff2aeb7bb3ab55c5b66441d1fc696a69a77bda9d3aaf4cd69f5f59405
-size 385
+fileFormatVersion: 2
+guid: 6e745106dbbc3412bbe43eaf25dabd4f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Recon_Tank
+    - License.txt
+  uploadId: 648641

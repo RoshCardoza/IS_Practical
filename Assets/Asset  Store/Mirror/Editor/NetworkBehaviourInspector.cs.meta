@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a99f5e7a45cc3821590a9afed526698417f4845b373fa24d3d630d1e80376fb7
-size 428
+fileFormatVersion: 2
+guid: f02853db46b6346e4866594a96c3b0e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/NetworkBehaviourInspector.cs
+  uploadId: 648641

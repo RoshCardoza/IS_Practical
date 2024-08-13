@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d82700e564f5a8fff9065f1b9cc392a63a77039a5c072920d0b1523ad237f61
-size 506
+fileFormatVersion: 2
+guid: b979f26c95d34324ba005bfacfa9c4fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 7453abfe9e8b2c04a8a47eb536fe21eb, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Components/InterestManagement/Scene/SceneInterestManagement.cs
+  uploadId: 648641

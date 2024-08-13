@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf072a27a7fadf09664d8f19e68ae777a74c8761ff08ea8bef99351c598d528f
-size 443
+fileFormatVersion: 2
+guid: 81ac8d35f28fab14b9edda5cd9d4fc86
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/SimpleWeb/SimpleWeb/Common/TcpConfig.cs
+  uploadId: 648641

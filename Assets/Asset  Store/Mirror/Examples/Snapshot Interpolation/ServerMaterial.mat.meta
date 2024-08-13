@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ca53b2ebf3889ea036b71eb92a69034a10a8f70666918114f38d1fd75d57c35
-size 388
+fileFormatVersion: 2
+guid: 163b909ba60cc435a95bb35396edda15
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Snapshot Interpolation/ServerMaterial.mat
+  uploadId: 648641

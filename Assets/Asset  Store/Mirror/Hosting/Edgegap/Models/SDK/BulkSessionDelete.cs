@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3fa070b1ff16441e05853377064f8ed0a1ebca8e8784fbe3f1831a2b3eed8300
-size 1522
+using System;
+using System.Text;
+using System.Collections;
+using System.Collections.Generic;
+using System.Runtime.Serialization;
+using Newtonsoft.Json;
+
+namespace IO.Swagger.Model {
+
+  /// <summary>
+  /// 
+  /// </summary>
+  [DataContract]
+  public class BulkSessionDelete {
+    /// <summary>
+    /// List of Delete
+    /// </summary>
+    /// <value>List of Delete</value>
+    [DataMember(Name="sessions", EmitDefaultValue=false)]
+    [JsonProperty(PropertyName = "sessions")]
+    public List<SessionDelete> Sessions { get; set; }
+
+    /// <summary>
+    /// List of Delete Errors
+    /// </summary>
+    /// <value>List of Delete Errors</value>
+    [DataMember(Name="errors", EmitDefaultValue=false)]
+    [JsonProperty(PropertyName = "errors")]
+    public List<string> Errors { get; set; }
+
+
+    /// <summary>
+    /// Get the string presentation of the object
+    /// </summary>
+    /// <returns>String presentation of the object</returns>
+    public override string ToString()  {
+      StringBuilder sb = new StringBuilder();
+      sb.Append("class BulkSessionDelete {\n");
+      sb.Append("  Sessions: ").Append(Sessions).Append("\n");
+      sb.Append("  Errors: ").Append(Errors).Append("\n");
+      sb.Append("}\n");
+      return sb.ToString();
+    }
+
+    /// <summary>
+    /// Get the JSON string presentation of the object
+    /// </summary>
+    /// <returns>JSON string presentation of the object</returns>
+    public string ToJson() {
+      return JsonConvert.SerializeObject(this, Formatting.Indented);
+    }
+
+}
+}

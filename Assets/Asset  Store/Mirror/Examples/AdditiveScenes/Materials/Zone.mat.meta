@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a0aaa6a3427e0673509d162abd26f9664ffd0e39e20b88e68e5b3f868ee52f6
-size 380
+fileFormatVersion: 2
+guid: a7c679cf124f7ae46a0291ea35848554
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Materials/Zone.mat
+  uploadId: 648641

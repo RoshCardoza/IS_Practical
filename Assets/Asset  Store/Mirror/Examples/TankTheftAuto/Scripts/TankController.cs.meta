@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fa3f806d9c2dc53daa34e244ecf409c1b95483cefcc1c921648e2d1e24e4aaf1
-size 441
+fileFormatVersion: 2
+guid: 015c43bd22cae4d79946c0e37c1bb8b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/TankTheftAuto/Scripts/TankController.cs
+  uploadId: 648641

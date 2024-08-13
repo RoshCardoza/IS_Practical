@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:72eee8e7565650b8c5fffa8bcec0663d7742a9d9d17ebef493f5c871d923c42d
-size 371
+fileFormatVersion: 2
+guid: 7cfca2b6fd3df4580a0f098abfaf0c64
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Billiards/Table/Edge.mat
+  uploadId: 648641

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0d24c93e66cd0e148286d385206847a3c39b7da038f4f18c8434f6e92dc9c12
-size 431
+fileFormatVersion: 2
+guid: f963d64ffcf32ba4bba54fe1cd70b5a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Editor/ButtonShaker.cs
+  uploadId: 648641

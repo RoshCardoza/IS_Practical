@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97b548dfd8048be6aeed84ca295f7fcbf2398287712e33477ade232f49cc60b1
-size 247
+Name:
+Diamond Shaped Leather Cushion Texture  (Fabrics 0074)
+
+Description:
+This leather fabric has diagonal stitched lines forming diamond shaped cushions. This texture is brilliant for sofas and elegant chairs.
+
+Author:
+https://www.texturecan.com

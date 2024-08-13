@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c178631cc645bf1c9f1fa4030d5f729ec0845816d77941c40002c5977ff2068
-size 442
+fileFormatVersion: 2
+guid: 57eed0dbd556e074c992cf6599a1f6bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Editor/Api/Models/LocationData.cs
+  uploadId: 648641

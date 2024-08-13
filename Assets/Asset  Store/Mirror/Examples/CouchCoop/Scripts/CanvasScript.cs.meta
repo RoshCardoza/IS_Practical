@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba5d1087c5f8de98b616e72e7f3ac553b2e57e41cceb4af36247afc89e5a9fa1
-size 435
+fileFormatVersion: 2
+guid: 8b76e63e8ad5c42d59aa6ccdda8cddbf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CouchCoop/Scripts/CanvasScript.cs
+  uploadId: 648641

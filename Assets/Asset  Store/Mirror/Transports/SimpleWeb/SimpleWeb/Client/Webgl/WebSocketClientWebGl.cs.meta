@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc1adf8dcfda9a76234687db41880283983f19ed9a2bfe5d21338ee2c9434b6e
-size 460
+fileFormatVersion: 2
+guid: 015c5b1915fd1a64cbe36444d16b2f7d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/SimpleWeb/SimpleWeb/Client/Webgl/WebSocketClientWebGl.cs
+  uploadId: 648641

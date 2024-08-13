@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3dce1d46973788f57cc98cc02a8783b5338b701322da13b91b10380f01be67c6
-size 430
+fileFormatVersion: 2
+guid: 880f675359f40d24e99109ad46894688
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Enums/ServerStatus.cs
+  uploadId: 648641

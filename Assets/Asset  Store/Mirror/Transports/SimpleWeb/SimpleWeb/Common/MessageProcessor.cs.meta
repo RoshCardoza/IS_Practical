@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a41d5fc960b2bd173383ae1dcca83bb3cf1e2e2d4f31ffa628d4ecf006a03dd4
-size 450
+fileFormatVersion: 2
+guid: 4c1f218a2b16ca846aaf23260078e549
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/SimpleWeb/SimpleWeb/Common/MessageProcessor.cs
+  uploadId: 648641

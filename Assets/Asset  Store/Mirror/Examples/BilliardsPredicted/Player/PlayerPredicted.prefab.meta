@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dfebbebb5c4bd5709df5c82992f50c7035471e1d103d30fd7af6e209315711d9
-size 361
+fileFormatVersion: 2
+guid: ffab5af8b8b354f8ca8eb7aeaf89dfac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BilliardsPredicted/Player/PlayerPredicted.prefab
+  uploadId: 648641

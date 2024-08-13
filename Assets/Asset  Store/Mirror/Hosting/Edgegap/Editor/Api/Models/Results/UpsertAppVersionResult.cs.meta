@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d3f24ce8c3410ddbb9423917c4c1a859f77c538747b257837b50114d7d7f8bf
-size 460
+fileFormatVersion: 2
+guid: a7dde7d59c66d8c44b86af35e853f9f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Editor/Api/Models/Results/UpsertAppVersionResult.cs
+  uploadId: 648641

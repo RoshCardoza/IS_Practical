@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:895b331d7938d0c20946afcaf5f8f90add7ed5ba2aae70dd1bdc6b94c5caaf74
-size 426
+fileFormatVersion: 2
+guid: 8aaaf6193bad7424492677f8e81f1b30
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/WeaverExceptions.cs
+  uploadId: 648641

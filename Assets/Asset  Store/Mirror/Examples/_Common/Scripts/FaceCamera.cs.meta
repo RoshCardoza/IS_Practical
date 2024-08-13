@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a20d97b3910f23417b051dc7fbb3ea8fbfada349a96b6b8bdc1cec88940e0032
-size 275
+﻿fileFormatVersion: 2
+guid: afa2d590c474413d9fc183551385ed85
+timeCreated: 1632052051
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/_Common/Scripts/FaceCamera.cs
+  uploadId: 648641

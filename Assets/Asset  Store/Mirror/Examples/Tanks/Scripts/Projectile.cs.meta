@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9a6a59925d58c0fab3980bf44a6ad2a0898f5d46ee0e0c9cf3399a451f6d1a7
-size 429
+fileFormatVersion: 2
+guid: 8f49b83f111a64bc7a5275af4f6f930b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Tanks/Scripts/Projectile.cs
+  uploadId: 648641

@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0a083fc7494bcd77c98962927fea329f16d63c28e0fec6d144a833ae3443959
-size 281
+fileFormatVersion: 2
+guid: 9163d963b36b4e389318f312bfd8e488
+timeCreated: 1691485295
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Core/Threading/ConcurrentNetworkWriterPooled.cs
+  uploadId: 648641

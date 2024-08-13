@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:827ea200c3c1bcc6781be5527c333c983781f037b183565b61829f5bfb80a248
-size 363
+fileFormatVersion: 2
+guid: 9619a16fe963d4deb9b5821f4475c606
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/MirrorCharacterSelection.unity
+  uploadId: 648641

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e267749edeff99ef9f28a2f01bc262e5428bb1357007375915d05b4f43ba8cf
-size 360
+fileFormatVersion: 2
+guid: 296e7798207e69a40a871087348da0c3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Prefabs/SphereMoveY.prefab
+  uploadId: 648641

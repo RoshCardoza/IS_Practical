@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ffa9bdccb3acfa232e3b06a0dde8ae1d81807d027f83677e4c765b7a63b03cdc
-size 366
+fileFormatVersion: 2
+guid: a7278693f35741148b381178a112e24d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Prefabs/SphereMoveAllAxis.prefab
+  uploadId: 648641

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8761058404e6632c05b466bcecc9c8166ae2e92c42ae8e2dca7377698c4cc00
-size 351
+fileFormatVersion: 2
+guid: 12a4c14e672c00b4b840f937d824b890
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Prefabs/Cylinder.prefab
+  uploadId: 648641

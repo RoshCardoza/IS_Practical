@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbc8505922c248e3549af1e8587aa59d0eb01269d7cf723384bc0e81accfb892
-size 1096
+﻿using UnityEngine;
+
+namespace Mirror.Examples.Common
+{
+    public class PhysicsSimulator : MonoBehaviour
+    {
+        PhysicsScene physicsScene;
+        PhysicsScene2D physicsScene2D;
+
+        bool simulatePhysicsScene;
+        bool simulatePhysicsScene2D;
+
+        void Awake()
+        {
+            if (NetworkServer.active)
+            {
+                physicsScene = gameObject.scene.GetPhysicsScene();
+                simulatePhysicsScene = physicsScene.IsValid() && physicsScene != Physics.defaultPhysicsScene;
+
+                physicsScene2D = gameObject.scene.GetPhysicsScene2D();
+                simulatePhysicsScene2D = physicsScene2D.IsValid() && physicsScene2D != Physics2D.defaultPhysicsScene;
+            }
+            else
+            {
+                enabled = false;
+            }
+        }
+
+        [ServerCallback]
+        void FixedUpdate()
+        {
+            if (simulatePhysicsScene)
+                physicsScene.Simulate(Time.fixedDeltaTime);
+
+            if (simulatePhysicsScene2D)
+                physicsScene2D.Simulate(Time.fixedDeltaTime);
+        }
+    }
+}

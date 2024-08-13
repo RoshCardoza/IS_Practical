@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89bcbf47541a6a0a0191ec085edf00785aaca7455fb6e6b678e5edbf2af28e66
-size 1240
+using System;
+using System.Text;
+using System.Collections;
+using System.Collections.Generic;
+using System.Runtime.Serialization;
+using Newtonsoft.Json;
+
+namespace IO.Swagger.Model {
+
+  /// <summary>
+  /// 
+  /// </summary>
+  [DataContract]
+  public class CustomSessionDeleteModel {
+    /// <summary>
+    /// List of Custom IDs to Delete
+    /// </summary>
+    /// <value>List of Custom IDs to Delete</value>
+    [DataMember(Name="sessions", EmitDefaultValue=false)]
+    [JsonProperty(PropertyName = "sessions")]
+    public List<string> Sessions { get; set; }
+
+
+    /// <summary>
+    /// Get the string presentation of the object
+    /// </summary>
+    /// <returns>String presentation of the object</returns>
+    public override string ToString()  {
+      StringBuilder sb = new StringBuilder();
+      sb.Append("class CustomSessionDeleteModel {\n");
+      sb.Append("  Sessions: ").Append(Sessions).Append("\n");
+      sb.Append("}\n");
+      return sb.ToString();
+    }
+
+    /// <summary>
+    /// Get the JSON string presentation of the object
+    /// </summary>
+    /// <returns>JSON string presentation of the object</returns>
+    public string ToJson() {
+      return JsonConvert.SerializeObject(this, Formatting.Indented);
+    }
+
+}
+}

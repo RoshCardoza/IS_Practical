@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:822bf013ba0d9fa682c149cc6ba166f69bed77350ac2136ad480a002d549b823
-size 433
+{
+    "name": "EncryptionTransportEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:627104647b9c04b4ebb8978a92ecac63"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92cc725976d745e99fd56c2900fe562ece7d37643dc88964e97444c48784ae5b
-size 343
+fileFormatVersion: 2
+guid: d942af06608be434dbeeaa58207d20bd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/Telepathy/Telepathy/VERSION
+  uploadId: 648641

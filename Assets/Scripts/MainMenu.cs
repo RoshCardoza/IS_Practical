@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e8b70ab304ff8ce7eaca7a28a0262e2297217769cd52d6074ff4575b4a080777
-size 640
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+//Script für das Hauptmenu das eigentlich nur einen neuen Server startet
+public class MainMenu : MonoBehaviour
+{
+    [SerializeField] private NetworkManagerLobby networkManager = null; //Verknüpfung zum NetworkManager
+
+    [Header("UI")]
+    [SerializeField] private GameObject landingPagePanel = null;        //Verknüpfung zur Menu, ob man selbst Hosten will
+
+    public void HostLobby()                 //Nutzer startet einen neuen Server
+    {
+        networkManager.StartHost();
+        landingPagePanel.SetActive(false);  //Menu wird geschlosssen
+    }
+}

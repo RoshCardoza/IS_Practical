@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c86873cc9165534ba70f87eb3d4e5ecd3e933476e852f84425187aceb8f6cd40
-size 356
+fileFormatVersion: 2
+guid: ecbb35e2a01c0427ebb0b4b6ed146c70
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BilliardsPredicted/Ball/RedPredicted.prefab
+  uploadId: 648641

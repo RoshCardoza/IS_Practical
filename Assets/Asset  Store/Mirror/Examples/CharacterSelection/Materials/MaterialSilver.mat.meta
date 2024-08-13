@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:788ba615982871023b81619abcc8b71c00a524583f9ba87d90a3ee4dc01e889c
-size 394
+fileFormatVersion: 2
+guid: 6a1d409bf7eea44168084517c7ee81cf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Materials/MaterialSilver.mat
+  uploadId: 648641

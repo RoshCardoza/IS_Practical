@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46f093d615f868b72df7db2159e12bad2194208e07f93e3699958dbeeedcd30a
-size 674
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+
+//behälfsmäßiges Script zur Verwaltung von Objekten, mit denen man interagieren kann
+public class Interactable : MonoBehaviour
+{
+    public UnityEvent onInteract;       //Event, welches durch das Interagieren ausgelöst wird
+    public Sprite interactIcon;         //Icon, zu dem der Kurser wechselt, wenn das Object betrachtet wird
+    public int ID;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        ID = Random.Range(0, 999999);   //TODO: Theoretisch unpracktisch für viele Interactables, Chance für Probleme extrem gering 
+    }
+}

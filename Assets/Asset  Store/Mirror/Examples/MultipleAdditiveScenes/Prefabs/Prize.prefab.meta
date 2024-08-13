@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3545f4c7637131c765fa2bf002ffd4c0f621cbf1da0cdbd13d2f7f40b9e2d772
-size 392
+fileFormatVersion: 2
+guid: 8cec47ed46e0eff45966a5173d3aa0d3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleAdditiveScenes/Prefabs/Prize.prefab
+  uploadId: 648641

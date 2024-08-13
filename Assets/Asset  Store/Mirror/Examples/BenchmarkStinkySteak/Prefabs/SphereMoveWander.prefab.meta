@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:224c54effabc0d9ca60765ae76a24c3da3316d1b096a89032450f384000a1dfd
-size 365
+fileFormatVersion: 2
+guid: 9925ea7d66c38ac48a88a572a9236cbe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Prefabs/SphereMoveWander.prefab
+  uploadId: 648641

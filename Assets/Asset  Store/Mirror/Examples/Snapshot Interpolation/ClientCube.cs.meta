@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e6c75e34c1fad930a96ffc83354f21300f931c381d559e5bd036dff677c4233
-size 279
+fileFormatVersion: 2
+guid: 51b244c3535d474aaf0a7a679f86185f
+timeCreated: 1654065994
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Snapshot Interpolation/ClientCube.cs
+  uploadId: 648641

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4bb551b7896d6bb9eb10bb147f997933d51e6b06454fbea2590b3401911a5d9c
-size 371
+fileFormatVersion: 2
+guid: a5c5ac95f6b544173994adfaae202203
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Billiards/Table/Lamp.mat
+  uploadId: 648641

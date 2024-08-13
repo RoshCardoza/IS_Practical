@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:05db6a4ae4624302ea739a024c868feddc7bcda371f381675e0c11318ec60f7e
-size 614
+using Mirror;
+using StinkySteak.NetcodeBenchmark;
+using UnityEngine;
+
+namespace StinkySteak.MirrorBenchmark
+{ 
+    public class WanderMoveBehaviour : NetworkBehaviour
+    {
+        [SerializeField] private BehaviourConfig _config;
+        private WanderMoveWrapper _wrapper;
+
+        public override void OnStartServer()
+        {
+            if (isClient) return;
+
+            _config.ApplyConfig(ref _wrapper);
+            _wrapper.NetworkStart(transform);
+        }
+
+        private void FixedUpdate()
+        {
+            if (isClient) return;
+
+            _wrapper.NetworkUpdate(transform);
+        }
+    }
+}

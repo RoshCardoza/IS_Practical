@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8df95792feea1b9df263181f0c78312fb399db05150e3217c68c2c5b437270d5
-size 379
+fileFormatVersion: 2
+guid: 21daf89214c6ee443ad6875b73083c60
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Room/Prefabs/GamePlayer.prefab
+  uploadId: 648641

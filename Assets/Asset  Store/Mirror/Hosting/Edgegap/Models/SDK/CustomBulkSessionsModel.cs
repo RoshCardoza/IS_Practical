@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0980248df02458318215419bab046f97edbbf25ad6b50a7585493a0e3b2b673e
-size 1195
+using System;
+using System.Text;
+using System.Collections;
+using System.Collections.Generic;
+using System.Runtime.Serialization;
+using Newtonsoft.Json;
+
+namespace IO.Swagger.Model {
+
+  /// <summary>
+  /// 
+  /// </summary>
+  [DataContract]
+  public class CustomBulkSessionsModel {
+    /// <summary>
+    /// Gets or Sets Sessions
+    /// </summary>
+    [DataMember(Name="sessions", EmitDefaultValue=false)]
+    [JsonProperty(PropertyName = "sessions")]
+    public List<CustomBulkSessionModel> Sessions { get; set; }
+
+
+    /// <summary>
+    /// Get the string presentation of the object
+    /// </summary>
+    /// <returns>String presentation of the object</returns>
+    public override string ToString()  {
+      StringBuilder sb = new StringBuilder();
+      sb.Append("class CustomBulkSessionsModel {\n");
+      sb.Append("  Sessions: ").Append(Sessions).Append("\n");
+      sb.Append("}\n");
+      return sb.ToString();
+    }
+
+    /// <summary>
+    /// Get the JSON string presentation of the object
+    /// </summary>
+    /// <returns>JSON string presentation of the object</returns>
+    public string ToJson() {
+      return JsonConvert.SerializeObject(this, Formatting.Indented);
+    }
+
+}
+}

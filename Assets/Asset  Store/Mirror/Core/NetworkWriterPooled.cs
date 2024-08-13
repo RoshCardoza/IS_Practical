@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2b468c20afb935396bc7b9ba4d6ca42b5f3bc4ab62994846b9f57a999108f380
-size 477
+// "NetworkWriterPooled" instead of "PooledNetworkWriter" to group files, for
+// easier IDE workflow and more elegant code.
+using System;
+
+namespace Mirror
+{
+    /// <summary>Pooled NetworkWriter, automatically returned to pool when using 'using'</summary>
+    // TODO make sealed again after removing obsolete NetworkWriterPooled!
+    public class NetworkWriterPooled : NetworkWriter, IDisposable
+    {
+        public void Dispose() => NetworkWriterPool.Return(this);
+    }
+}

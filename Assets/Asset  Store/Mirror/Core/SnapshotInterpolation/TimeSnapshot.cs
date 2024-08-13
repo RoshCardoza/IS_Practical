@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:93d749ee987a6e7cd1e164ac818b9c7083c3f21a73f375324ad9f260959051a5
-size 413
+namespace Mirror
+{
+    // empty snapshot that is only used to progress client's local timeline.
+    public struct TimeSnapshot : Snapshot
+    {
+        public double remoteTime { get; set; }
+        public double localTime { get; set; }
+
+        public TimeSnapshot(double remoteTime, double localTime)
+        {
+            this.remoteTime = remoteTime;
+            this.localTime = localTime;
+        }
+    }
+}

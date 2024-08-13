@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be543d163a62c23c8a590282ca67814af3c7ac8f7d68a753a6cd5b926bc75246
-size 441
+using System;
+
+namespace Mirror
+{
+    /// <summary>Pooled (not threadsafe) NetworkWriter used from Concurrent pool (thread safe). Automatically returned to concurrent pool when using 'using'</summary>
+    // TODO make sealed again after removing obsolete NetworkWriterPooled!
+    public class ConcurrentNetworkWriterPooled : NetworkWriter, IDisposable
+    {
+        public void Dispose() => ConcurrentNetworkWriterPool.Return(this);
+    }
+}

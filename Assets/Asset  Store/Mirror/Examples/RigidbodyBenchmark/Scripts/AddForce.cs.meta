@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13d2635d90a30c8f64420dc3753df9f96d38523710ae348c8d64b844214419d8
-size 440
+fileFormatVersion: 2
+guid: a0e44d14fc08546319793f1932832d13
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/RigidbodyBenchmark/Scripts/AddForce.cs
+  uploadId: 648641

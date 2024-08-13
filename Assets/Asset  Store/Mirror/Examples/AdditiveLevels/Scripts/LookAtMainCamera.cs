@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c2e072ac6ab4570db6ac9eee11953e901cd78aaedb69cd56985d8e5d4da3fc08
-size 553
+﻿using UnityEngine;
+
+namespace Mirror.Examples.AdditiveLevels
+{
+    // This script is attached to portal labels to keep them facing the camera
+    public class LookAtMainCamera : MonoBehaviour
+    {
+        // This will be enabled by Portal script in OnStartClient
+        void OnValidate()
+        {
+            this.enabled = false;
+        }
+
+        // LateUpdate so that all camera updates are finished.
+        [ClientCallback]
+        void LateUpdate()
+        {
+            transform.forward = Camera.main.transform.forward;
+        }
+    }
+}

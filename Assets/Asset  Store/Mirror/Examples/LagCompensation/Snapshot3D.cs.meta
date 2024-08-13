@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fafb7946a8d4b3903cbe80c097686b9a6cee800fb0055c62ebeb5c532170d0d5
-size 431
+fileFormatVersion: 2
+guid: 78563da1b871d45b3a9f763a2a469b76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/LagCompensation/Snapshot3D.cs
+  uploadId: 648641

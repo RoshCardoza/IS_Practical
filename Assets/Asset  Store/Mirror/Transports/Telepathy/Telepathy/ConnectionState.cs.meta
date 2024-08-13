@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba226b8c8c60483c23a73986cdab9113c4e354f9b4f1db68e2ace3a5ee5f488b
-size 442
+fileFormatVersion: 2
+guid: af95e2b6f6343411aa8bdf871abd7b1b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/Telepathy/Telepathy/ConnectionState.cs
+  uploadId: 648641

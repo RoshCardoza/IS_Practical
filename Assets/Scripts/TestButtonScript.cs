@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81513b2fdabdb41785d00451d1cc4c3fb4873b371a5b034c02748746cadadcee
-size 436
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+
+public class TestButtonScript : MonoBehaviour
+{
+    //[SerializeField] WindowsVoice theVoice = null;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+    public void Say(string text)
+    {
+        //WindowsVoice.speak(text);
+    }
+}

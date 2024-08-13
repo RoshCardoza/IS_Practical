@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17b280e4069655fc9b0c0fd77d23acd47ada8201d27e1b4996242d73a037f486
-size 448
+fileFormatVersion: 2
+guid: 0f36e96df6ff2459992432717c975c84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Scripts/ScriptAnimations.cs
+  uploadId: 648641

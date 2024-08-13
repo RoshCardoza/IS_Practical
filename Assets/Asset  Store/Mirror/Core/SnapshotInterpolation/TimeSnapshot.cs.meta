@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:814d9ee2a80e64ff68b828d4663ee6dffd9bf053529578f10e9dbc2b0e902877
-size 486
+fileFormatVersion: 2
+guid: afe2b5ed49634971a2aec720ad74e5cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 7453abfe9e8b2c04a8a47eb536fe21eb, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Core/SnapshotInterpolation/TimeSnapshot.cs
+  uploadId: 648641

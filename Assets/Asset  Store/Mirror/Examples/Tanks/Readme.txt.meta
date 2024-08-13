@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:49c36a23e5ba02c2d79d58fdd345c1f54dc83dfe27822e13ecf98be9e2064a6f
-size 259
+fileFormatVersion: 2
+guid: 0f246189ee014e60a4f1b95f02d50888
+timeCreated: 1684039107
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Tanks/Readme.txt
+  uploadId: 648641

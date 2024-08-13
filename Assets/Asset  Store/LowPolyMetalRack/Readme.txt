@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f04a4660063c777d76b2c8cbd1da4a0bf1bc89aa038b215fab8874f274ad0ae0
-size 864
+//----------------------------------------------------
+// Low poly Metal Rack
+// @ 2022 DigitalHakka
+// Version 1.0
+//----------------------------------------------------
+
+Metal rack assets including combinable parts.
+There are wire shelves, board shelves and pillars, each in two different sizes.
+Metal and wood materials are included.
+Textures are not included.
+
+[Models]
+MetalRack_Shelf_Wire
+ 2316 Tris.
+ Use 1 material.
+MetalRack_Shelf_Wire_Half
+ 1652 Tris.
+ Use 1 material.
+MetalRack_Shelf_Board
+ 316 Tris.
+ Use 2 materials.
+MetalRack_Shelf_Board_Half
+ 316 Tris.
+ Use 2 Materials.
+MetalRack_Pillar
+ 32 Tris.
+ Use 1 material.
+MetalRack_Pillar_Half
+ 32 Tris.
+ Use 1 material.
+MetalRack_Sidebar
+ 764 Tris.
+ Use 1 material.
+MetalRack_Sidebar_Half
+ 444 Tris.
+ Use 1 material.
+
+[Version History]
+1.0.1
+ - UV fix for MetalRack_Shelf_Board_Half.
+1.0
+ - First release.

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1eeb773cc986feffaf61d5d76f7671076bcfe42558799f4cf2d0c6e29192fff1
-size 415
+fileFormatVersion: 2
+guid: 2c936c3d1cc664f15a92190fc35fd7dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CCU/Player.cs
+  uploadId: 648641

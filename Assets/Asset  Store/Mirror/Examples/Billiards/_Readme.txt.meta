@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af2b2ead41c1da89587691e1e817a0dc9bbdc19e39310c8d158b377f27de380a
-size 264
+fileFormatVersion: 2
+guid: 36025784d9cce45349813205c53f1153
+timeCreated: 1684039107
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Billiards/_Readme.txt
+  uploadId: 648641

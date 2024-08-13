@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:937dd59b93b87a6af7c2cd9185b091ed329e4abe9b82b7185e70b3089a3a6cad
-size 731
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using TMPro;
+/*
+//Script für die einzelnen vorgefertigten Fragen
+public class FragenScript : MonoBehaviour
+{
+    [HideInInspector] public int Index;                             //Index oder ID der Frage
+    [HideInInspector] public ArztFragenScript QuestionController;   //Verknüpfung zum eigentlichen ArztFragenScript
+
+    [SerializeField] public TMP_Text QuestionText;                  //Text der Frage (für UI)
+
+
+
+    public void OnQuestionButtonClick()     //Frage wird gestellt, wenn auf den Fragen Button geklickt wird
+    {
+        QuestionController.askQuestion(Index);                      //Frage wird im ArztFragenScript gestellt
+    }
+
+}
+*/

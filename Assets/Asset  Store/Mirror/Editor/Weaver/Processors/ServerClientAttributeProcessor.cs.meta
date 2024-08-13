@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e3351b7ab094fd66645aa7df42172e36a9ab85375ac9cc2b247ddb264402b1a8
-size 451
+fileFormatVersion: 2
+guid: 024f251bf693bb345b90b9177892d534
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/Processors/ServerClientAttributeProcessor.cs
+  uploadId: 648641

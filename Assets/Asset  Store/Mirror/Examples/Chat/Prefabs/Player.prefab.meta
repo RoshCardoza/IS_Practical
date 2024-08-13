@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5cfe6cc639e96f5289f9e6a7edafa2935b3ac31a24f8193528c17303a17ff66c
-size 339
+fileFormatVersion: 2
+guid: e5905ffa27de84009b346b49d518ba03
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Chat/Prefabs/Player.prefab
+  uploadId: 648641

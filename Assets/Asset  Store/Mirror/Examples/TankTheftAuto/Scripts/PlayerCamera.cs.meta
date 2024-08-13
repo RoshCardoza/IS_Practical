@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bf31d051901567a20b9c2a4f1789cd4bd85b4e52335a3e277e5b2101224641e3
-size 439
+fileFormatVersion: 2
+guid: 63e14aef4c7ed463f9d4f8ef03d98cf9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/TankTheftAuto/Scripts/PlayerCamera.cs
+  uploadId: 648641

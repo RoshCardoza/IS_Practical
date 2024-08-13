@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:819067ba6d9c9a7e1f094d353f9cb5906871d64fbc9584f6cfaaefe0a305331a
-size 374
+fileFormatVersion: 2
+guid: f574d1625ad4549bba64a6edf31b4d10
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Prefabs/Characters/CharacterAssault.prefab
+  uploadId: 648641

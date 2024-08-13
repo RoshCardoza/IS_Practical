@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46b69ce19ad121bfc7573dc7e291a7a103f6ec4d38081661654f6b55f891a99c
-size 561
+﻿using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Edgegap
+{
+    //[Obsolete("Use UpdateAppVersionRequest")] // MIRROR CHANGE: commented this out to avoid import warnings
+    public struct AppVersionUpdatePatchData
+    {
+
+        [JsonProperty("docker_repository")]
+        public string DockerRegistry;
+
+        [JsonProperty("docker_image")]
+        public string DockerImage;
+
+        [JsonProperty("docker_tag")]
+        public string DockerTag;
+
+    }
+}

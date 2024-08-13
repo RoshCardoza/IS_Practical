@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c1167ac7728607648e9c0522efc53cf23a524da8e99452c0331ca189ea056fe
-size 425
+fileFormatVersion: 2
+guid: 35c07818fc4784bb4ba472c8e5029002
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/KCP/kcp2k/kcp/Pool.cs
+  uploadId: 648641

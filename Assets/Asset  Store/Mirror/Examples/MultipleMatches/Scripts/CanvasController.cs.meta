@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:64caba6a964bdbe125a95b2fdd1a98f406d26c78afd3f789b141d0762a154627
-size 445
+fileFormatVersion: 2
+guid: c12d7cb6cdb799041927819f22a2c931
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleMatches/Scripts/CanvasController.cs
+  uploadId: 648641

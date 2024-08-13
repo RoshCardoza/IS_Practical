@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6aa1d028a4f55229697511cacc0db3f81630ea1a715ff58b898bdf7b2208e65f
-size 282
+﻿fileFormatVersion: 2
+guid: b73d0f106ba84aa983baa5142b08a0a9
+timeCreated: 1628851346
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/EntryPoint/EnterPlayModeHook.cs
+  uploadId: 648641

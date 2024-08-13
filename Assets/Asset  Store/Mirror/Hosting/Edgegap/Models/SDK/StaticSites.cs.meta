@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7f5abe5fc3620017fca54d0af461b0c794551b22f1b050028a8ccdd247d49060
-size 434
+fileFormatVersion: 2
+guid: e75be496dcaa516468e69cc1a0ebd1ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Models/SDK/StaticSites.cs
+  uploadId: 648641

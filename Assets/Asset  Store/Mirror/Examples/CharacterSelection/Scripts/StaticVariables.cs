@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7d2b0b63f388f222d55ce31e369b4b869de33e1698f462d1b4b082eec85b07ec
-size 382
+using UnityEngine;
+
+namespace Mirror.Examples.CharacterSelection
+{
+    // we will use static variables to pass data between scenes
+    // this could also be done using other methods
+    public class StaticVariables : MonoBehaviour
+    {
+        public static string playerName = "";
+        public static int characterNumber = 0;
+        public static Color characterColour;
+    }
+}

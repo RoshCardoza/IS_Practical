@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ecc85c02edd1beed863f679fb5fffff94a1253b1816092421c5b1ec7572a8cc
-size 552
+using Newtonsoft.Json;
+
+namespace Edgegap.Editor.Api.Models.Results
+{
+    /// <summary>
+    /// Result model for `GET v1/wizard/registry-credentials`.
+    /// </summary>
+    public class GetRegistryCredentialsResult
+    {
+        [JsonProperty("registry_url")]
+        public string RegistryUrl { get; set; }
+
+        [JsonProperty("project")]
+        public string Project { get; set; }
+
+        [JsonProperty("username")]
+        public string Username { get; set; }
+
+        [JsonProperty("token")]
+        public string Token { get; set; }
+    }
+}

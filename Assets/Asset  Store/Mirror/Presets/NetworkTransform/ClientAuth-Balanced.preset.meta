@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ecea4d93d25bafe84645fb8aeeb926ebe41d3a5d0fb142dc46c04ff0f05162d
-size 401
+fileFormatVersion: 2
+guid: e60045a6c41184f7a97cfa46762adb24
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Presets/NetworkTransform/ClientAuth-Balanced.preset
+  uploadId: 648641

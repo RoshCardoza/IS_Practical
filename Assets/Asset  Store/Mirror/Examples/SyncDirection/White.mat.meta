@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6854589a2083acfed506297795ef3b4dfeb4701127fa4508c45253b11ab2b17
-size 370
+fileFormatVersion: 2
+guid: 2dd029e0943dc488ea1435fa13429182
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/SyncDirection/White.mat
+  uploadId: 648641

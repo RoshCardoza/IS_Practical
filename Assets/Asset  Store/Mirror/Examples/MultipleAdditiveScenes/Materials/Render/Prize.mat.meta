@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:959d2b8dc5adeff1709798a300f4f673c180538376e0ec18bdbb91ac7332c5fb
-size 396
+fileFormatVersion: 2
+guid: 2becd2014627a774e9e8f668f281f1d2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Render/Prize.mat
+  uploadId: 648641

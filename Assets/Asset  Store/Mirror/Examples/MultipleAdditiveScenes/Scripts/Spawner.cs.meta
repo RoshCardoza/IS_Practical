@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0b4e95d2ed3a628f8b58ef2b2452c3162d5ffdaa2c377529d4043aa47767166b
-size 443
+fileFormatVersion: 2
+guid: f522bf510b49da44caa9f3ca0ac17f3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/Spawner.cs
+  uploadId: 648641

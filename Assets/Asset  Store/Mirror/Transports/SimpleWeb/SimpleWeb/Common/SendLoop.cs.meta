@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:142561ed5b8f769a1bae2baf926adb92a4f4063ad6c63fcdf32ae11f082a3107
-size 442
+fileFormatVersion: 2
+guid: f87dd81736d9c824db67f808ac71841d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/SimpleWeb/SimpleWeb/Common/SendLoop.cs
+  uploadId: 648641

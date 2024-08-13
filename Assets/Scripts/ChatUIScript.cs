@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f2310a9307d4da51534af3b35c74a63b4ae4471e8d7c8775b78fdc18fd4e23bf
-size 680
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class ChatUIScript : MonoBehaviour
+{
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            addText("Du hast space gedrückt");
+            Debug.Log("Du hast space gedrückt");
+        }
+    }
+
+
+    [SerializeField] private Transform ChatViewContent;
+    [SerializeField] private GameObject Chat_Line_Pref;
+    [SerializeField] private Scrollbar scrollbar;
+
+    public void addText(string text)
+    {
+        GameObject textLine = Instantiate(Chat_Line_Pref, ChatViewContent);
+        textLine.GetComponent<Text>().text = text;
+    }
+}

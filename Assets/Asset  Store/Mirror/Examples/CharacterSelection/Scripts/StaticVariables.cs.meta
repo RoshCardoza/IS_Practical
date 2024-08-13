@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf7faeb61ce55dba90abdccde34e578131cbbdd6cac4e466722ba58aec56ecb4
-size 447
+fileFormatVersion: 2
+guid: 1d335b50444484132bf9affd60327c5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Scripts/StaticVariables.cs
+  uploadId: 648641

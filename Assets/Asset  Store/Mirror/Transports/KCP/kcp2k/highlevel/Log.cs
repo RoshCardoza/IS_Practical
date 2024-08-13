@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac56407b5d37105212ab981d1b2141268a8e8023892144c8367602673dd78e02
-size 459
+﻿// A simple logger class that uses Console.WriteLine by default.
+// Can also do Logger.LogMethod = Debug.Log for Unity etc.
+// (this way we don't have to depend on UnityEngine)
+using System;
+
+namespace kcp2k
+{
+    public static class Log
+    {
+        public static Action<string> Info    = Console.WriteLine;
+        public static Action<string> Warning = Console.WriteLine;
+        public static Action<string> Error   = Console.Error.WriteLine;
+    }
+}

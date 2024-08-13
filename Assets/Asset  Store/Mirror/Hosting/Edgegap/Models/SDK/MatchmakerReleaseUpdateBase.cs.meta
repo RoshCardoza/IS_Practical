@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bdf2888dee5f7094ba30d9474337f53db5839a90be2a82a87e2750e22a837a74
-size 450
+fileFormatVersion: 2
+guid: b90fb9b8c6d982b45b2cdf3b2c042cfb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Models/SDK/MatchmakerReleaseUpdateBase.cs
+  uploadId: 648641

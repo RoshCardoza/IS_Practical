@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:36b9fec7795a0a4b2c533fad2a5ee83318151c83257b4c602f0eb5c8dcdc578c
-size 415
+fileFormatVersion: 2
+guid: dba787f167ff29c4288532af1ec3584c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/EditorHelper.cs
+  uploadId: 648641

@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8b7a3db7ed269d8b24400d0e50e49da44a59d095dc2e028550ecc4b94a9468f
-size 298
+fileFormatVersion: 2
+guid: 20ed869c5ba54a56b750ac9e82be069f
+timeCreated: 1700425326
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/SimpleWeb/SimpleWeb/Client/ClientWebsocketSettings.cs
+  uploadId: 648641

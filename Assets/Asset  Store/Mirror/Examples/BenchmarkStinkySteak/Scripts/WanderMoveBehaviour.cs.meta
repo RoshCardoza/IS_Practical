@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eba17c5fba24c501059de0034d532728e19fadad9b008797be37cd9c60c52db3
-size 453
+fileFormatVersion: 2
+guid: c98d55e9b7394a94d97efd119d590ecf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Scripts/WanderMoveBehaviour.cs
+  uploadId: 648641

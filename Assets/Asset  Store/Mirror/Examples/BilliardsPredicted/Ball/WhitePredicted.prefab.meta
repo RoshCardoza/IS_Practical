@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:39c4099b9541595a44296f97cfac503c009b3fc1d0865f24c883fb980a14d752
-size 358
+fileFormatVersion: 2
+guid: 8b8303075efb94c0e9478abfb2e558df
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BilliardsPredicted/Ball/WhitePredicted.prefab
+  uploadId: 648641

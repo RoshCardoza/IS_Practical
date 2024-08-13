@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5e8fdea53b87a45e4d292bc678bff0502e838200bb0ce5eb564fcde55b67cf6
-size 403
+fileFormatVersion: 2
+guid: 6c70320295478407885dc307baa7091a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Presets/NetworkTransform/ClientAuth-VeryCasual.preset
+  uploadId: 648641

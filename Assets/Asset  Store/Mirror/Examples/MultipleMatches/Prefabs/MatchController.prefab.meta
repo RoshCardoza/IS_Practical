@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b5bca03a21385eb00450b7627907c51d2b42e9c581146e1501a548bb30499f8
-size 359
+fileFormatVersion: 2
+guid: e101d385946c91b4c81f318efc723a88
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleMatches/Prefabs/MatchController.prefab
+  uploadId: 648641

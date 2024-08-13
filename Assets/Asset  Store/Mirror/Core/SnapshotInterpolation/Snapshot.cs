@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8271cb7dd11e22da69e04e86b9b39b4e991c32993fa692ed75df964acce21d3e
-size 665
+// Snapshot interface so we can reuse it for all kinds of systems.
+// for example, NetworkTransform, NetworkRigidbody, CharacterController etc.
+// NOTE: we use '<T>' and 'where T : Snapshot' to avoid boxing.
+//       List<Snapshot> would cause allocations through boxing.
+namespace Mirror
+{
+    public interface Snapshot
+    {
+        // the remote timestamp (when it was sent by the remote)
+        double remoteTime { get; set; }
+
+        // the local timestamp (when it was received on our end)
+        // technically not needed for basic snapshot interpolation.
+        // only for dynamic buffer time adjustment.
+        double localTime { get; set; }
+    }
+}

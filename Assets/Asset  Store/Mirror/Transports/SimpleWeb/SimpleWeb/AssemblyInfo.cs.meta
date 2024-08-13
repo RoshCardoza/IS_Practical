@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1099c7d86cc9367ba4f9bff0fb268ce5ac49fd1b03c332ea0d0969e50743ef1d
-size 439
+fileFormatVersion: 2
+guid: ee9e76201f7665244bd6ab8ea343a83f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/SimpleWeb/SimpleWeb/AssemblyInfo.cs
+  uploadId: 648641

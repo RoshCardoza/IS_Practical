@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:27b03d0908ece193cfa4b188af0dfb5be71635bebd71aa980616c45f940ef620
-size 371
+fileFormatVersion: 2
+guid: 7d4f83306961f4c03ab43038a1801ab2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/MirrorCharacterSelectionPreScene.unity
+  uploadId: 648641

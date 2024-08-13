@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:18830ede42101690c8a14e130bcaa893bf5625c2e11920c52475c7cce3431a43
-size 350
+fileFormatVersion: 2
+guid: dc0a91834ded843aba24753233b8c029
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Billiards/Table/Billiard Table.prefab
+  uploadId: 648641

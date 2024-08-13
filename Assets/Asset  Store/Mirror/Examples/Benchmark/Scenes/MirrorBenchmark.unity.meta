@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c71723a83ce1c2a13ef31eaa49a947f94072c44fec18564633829642f6d2876
-size 352
+fileFormatVersion: 2
+guid: 3b956c7d68b6144dd8e6c36636e25b52
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Benchmark/Scenes/MirrorBenchmark.unity
+  uploadId: 648641

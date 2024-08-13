@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f10e0f826ce4bc2c1e593fbb0cf36989b26e5ff8f54b55ca02739fba1aa7e4d9
-size 449
+fileFormatVersion: 2
+guid: 6268509ac4fb48141b9944c03295da11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/SimpleWeb/SimpleWeb/Server/ServerHandshake.cs
+  uploadId: 648641

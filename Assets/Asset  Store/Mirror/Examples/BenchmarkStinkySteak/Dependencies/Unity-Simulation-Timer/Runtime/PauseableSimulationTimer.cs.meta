@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c462fc93681b31ffa50ad21750864cc9e35956e0c61df76919a81eb66d3cf172
-size 494
+fileFormatVersion: 2
+guid: b1ad3772cd6fb4848a960ac3a397aaa0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Dependencies/Unity-Simulation-Timer/Runtime/PauseableSimulationTimer.cs
+  uploadId: 648641

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7feaf99d6591bc8eeecec3924577d75a1089b8eacfd4900931b63372d0591fae
-size 358
+fileFormatVersion: 2
+guid: d61a7422206054cc8974b0d32ffebef5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/RigidbodyBenchmark/Prefabs/Server Ball.prefab
+  uploadId: 648641

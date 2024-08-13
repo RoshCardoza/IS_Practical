@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a59e7594a85b505dd31f31970267b34569955d99d9dea4af40d1cc2a47692115
-size 997
+using Newtonsoft.Json;
+
+namespace Edgegap.Editor.Api.Models.Results
+{
+    /// <summary>
+    /// Result model for `[GET | POST] v1/app`.
+    /// POST API Doc | https://docs.edgegap.com/api/#tag/Applications/operation/application-post
+    /// GET API Doc | https://docs.edgegap.com/api/#tag/Applications/operation/application-get
+    /// </summary>
+    public class GetCreateAppResult
+    {
+        [JsonProperty("name")]
+        public string AppName { get; set; }
+        
+        [JsonProperty("is_active")]
+        public bool IsActive { get; set; }
+        
+        /// <summary>Optional</summary>
+        [JsonProperty("is_telemetry_agent_active")]
+        public bool IsTelemetryAgentActive { get; set; }
+        
+        [JsonProperty("image")]
+        public string Image { get; set; }
+        
+        [JsonProperty("create_time")]
+        public string CreateTimeStr { get; set; }
+        
+        [JsonProperty("last_updated")]
+        public string LastUpdatedStr { get; set; }
+    }
+}

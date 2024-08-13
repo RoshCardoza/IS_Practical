@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74163d92d2957942cf7a8a863dc00931656e2d69ca544e710fb97179e3f6991c
-size 304
+﻿fileFormatVersion: 2
+guid: 9009d1db4ed44f6694a92bf8ad7738e9
+timeCreated: 1630129423
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/EntryPointILPostProcessor/CompiledAssemblyFromFile.cs
+  uploadId: 648641

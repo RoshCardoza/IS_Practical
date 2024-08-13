@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6678d4df1baab05fe02d431b61ce6574a40cb91820413a7ac8882110883d83b
-size 278
+fileFormatVersion: 2
+guid: 28f3ac4ff1d346a895d0b4ff714fb57b
+timeCreated: 1708111337
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/Encryption/EncryptedConnection.cs
+  uploadId: 648641

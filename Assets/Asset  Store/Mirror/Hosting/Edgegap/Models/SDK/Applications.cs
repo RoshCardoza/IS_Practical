@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:613e9a27c3b199d00a518c941eca73422e43d1f307d1cbee4d2b71a50db649f0
-size 1190
+using System;
+using System.Text;
+using System.Collections;
+using System.Collections.Generic;
+using System.Runtime.Serialization;
+using Newtonsoft.Json;
+
+namespace IO.Swagger.Model {
+
+  /// <summary>
+  /// 
+  /// </summary>
+  [DataContract]
+  public class Applications {
+    /// <summary>
+    /// Gets or Sets _Applications
+    /// </summary>
+    [DataMember(Name="applications", EmitDefaultValue=false)]
+    [JsonProperty(PropertyName = "applications")]
+    public List<Application> _Applications { get; set; }
+
+
+    /// <summary>
+    /// Get the string presentation of the object
+    /// </summary>
+    /// <returns>String presentation of the object</returns>
+    public override string ToString()  {
+      StringBuilder sb = new StringBuilder();
+      sb.Append("class Applications {\n");
+      sb.Append("  _Applications: ").Append(_Applications).Append("\n");
+      sb.Append("}\n");
+      return sb.ToString();
+    }
+
+    /// <summary>
+    /// Get the JSON string presentation of the object
+    /// </summary>
+    /// <returns>JSON string presentation of the object</returns>
+    public string ToJson() {
+      return JsonConvert.SerializeObject(this, Formatting.Indented);
+    }
+
+}
+}

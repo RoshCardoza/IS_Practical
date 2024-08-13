@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3da1d2bf10aac90fc5e84e3cd33b39b35051cc114b1a60a697dbd40f0392682d
-size 347
+fileFormatVersion: 2
+guid: ab222ed73ada1ac4ba2f61e843d7627c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Prefabs/Tank.prefab
+  uploadId: 648641

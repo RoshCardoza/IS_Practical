@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff7b0bd8eb7e58f1cfb14ec9ffb2ad79f007ffdd0b15b4d9b5ad03b94e218cb7
-size 464
+fileFormatVersion: 2
+guid: b21e2d778c62d40e69f03e5c9624ddf1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/RigidbodyBenchmark/Scripts/RigidbodyBenchmarkNetworkManager.cs
+  uploadId: 648641

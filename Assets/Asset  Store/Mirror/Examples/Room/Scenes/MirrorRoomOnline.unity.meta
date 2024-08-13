@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:663998a5573e5dd9b0bba06e82b373bd129dfabdb7586c62d098686dcc0e7fb0
-size 348
+fileFormatVersion: 2
+guid: d7a6763559b31854586c9e49916273ef
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Room/Scenes/MirrorRoomOnline.unity
+  uploadId: 648641

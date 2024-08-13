@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e45e249db6ce4aa909911119cf02a497c3f38e9ca8865d0d497b1596b2a3be9
-size 437
+fileFormatVersion: 2
+guid: e875a237ce12c3145b20f17222f10b68
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleMatches/Scripts/MatchGUI.cs
+  uploadId: 648641

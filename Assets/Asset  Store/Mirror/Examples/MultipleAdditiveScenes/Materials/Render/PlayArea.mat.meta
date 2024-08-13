@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2feca36f6c8c674cb6a4278148d3995324f7ed7c42cd98a49940a7172b1fcb2
-size 399
+fileFormatVersion: 2
+guid: 42fe0bcfbb65da3429ae2c289686e024
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Render/PlayArea.mat
+  uploadId: 648641

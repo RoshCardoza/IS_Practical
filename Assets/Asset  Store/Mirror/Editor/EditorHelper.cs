@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:38c35c3f2abe30f841b4ddd17926382dac9043e35def77370261994721a049e0
-size 1161
+using System.Collections.Generic;
+using System.IO;
+using UnityEditor;
+using UnityEngine;
+
+namespace Mirror
+{
+    public static class EditorHelper
+    {
+        public static string FindPath<T>()
+        {
+            string typeName = typeof(T).Name;
+
+            string[] guidsFound = AssetDatabase.FindAssets($"t:Script {typeName}");
+            if (guidsFound.Length >= 1 && !string.IsNullOrWhiteSpace(guidsFound[0]))
+            {
+                if (guidsFound.Length > 1)
+                {
+                    Debug.LogWarning($"Found more than one{typeName}");
+                }
+
+                string path = AssetDatabase.GUIDToAssetPath(guidsFound[0]);
+                return Path.GetDirectoryName(path);
+            }
+            else
+            {
+                Debug.LogError($"Could not find path of {typeName}");
+                return string.Empty;
+            }
+        }
+
+
+        public static IEnumerable<string> IterateOverProject(string filter)
+        {
+            foreach (string guid in AssetDatabase.FindAssets(filter))
+            {
+                yield return AssetDatabase.GUIDToAssetPath(guid);
+            }
+        }
+    }
+}

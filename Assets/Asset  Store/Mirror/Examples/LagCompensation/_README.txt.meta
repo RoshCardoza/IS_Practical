@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:914eb659c11ebd4df629fcf01c3dca20aa1eb01aba85bc04af2eab7d7a2022e5
-size 341
+fileFormatVersion: 2
+guid: b607c436b68734cb99de2663169c5b44
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/LagCompensation/_README.txt
+  uploadId: 648641

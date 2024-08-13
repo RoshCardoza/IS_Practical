@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:91b7bc253620f4a37fa22cd7708ce4d85ec4dae94aa218ccdc7691431d72760f
-size 368
+This folder contains convenient integrations to host your Mirror games.
+All integration(s) are required to be open source C# code with a free tier.
+While Mirror is free open source, hosting infrastructure isn't so expect paid tiers for production games.
+
+All integration(s) are completely optional, feel free to delete this folder if you don't need it in your project.

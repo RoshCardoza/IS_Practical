@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:770a0ed9c8d7c17b23873cbdec83f64459106c60da3d75e8aee91d035bcf7ec1
-size 278
+fileFormatVersion: 2
+guid: c0649195e5ba4fcf8e0e1231fee7d5f6
+timeCreated: 1641701011
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/KCP/kcp2k/highlevel/Extensions.cs
+  uploadId: 648641

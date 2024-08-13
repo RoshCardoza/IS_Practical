@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ed45d4aa607152bc79363e7e23056d107f8cb130b40c650e01e43a6a88f0f76
-size 347
+fileFormatVersion: 2
+guid: de939020b5e2aa5489ebcc4002d75d54
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Prefabs/Zone.prefab
+  uploadId: 648641

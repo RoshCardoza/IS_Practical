@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2b665387d6136c54827ae08854f1079c11b646aaf43f13b73636afa4837594f5
-size 417
+fileFormatVersion: 2
+guid: 422e9f56a29ae488e836a23d1e0f21d0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Tanks/Textures/(Public Domain) Dirt Hand Painted
+    Texture/Dirt Hand Painted Texture - License.txt
+  uploadId: 648641

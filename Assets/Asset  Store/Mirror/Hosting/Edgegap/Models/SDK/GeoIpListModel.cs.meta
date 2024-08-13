@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:64fe309acb560dca894d25854ea54e227648ab973e4d548197a0b208eb3228e9
-size 437
+fileFormatVersion: 2
+guid: eca41b83179014a4b885b95165095575
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Models/SDK/GeoIpListModel.cs
+  uploadId: 648641

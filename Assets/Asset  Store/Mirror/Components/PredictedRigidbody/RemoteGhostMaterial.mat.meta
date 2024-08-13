@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b30370d9ac1f1ab5eb8fef78f2673c42204ec8f929d0a3611fba6924b538823e
-size 391
+fileFormatVersion: 2
+guid: 04f0b2088c857414393bab3b80356776
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Components/PredictedRigidbody/RemoteGhostMaterial.mat
+  uploadId: 648641

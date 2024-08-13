@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99aa75d69ba4be467c039822f6ce8920f7a243af0a0c16505e761d8da36a345c
-size 457
+fileFormatVersion: 2
+guid: 1a33ff1aaf3c582459143cebb4ab7cf9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Scripts/SineMoveRandomBehaviour.cs
+  uploadId: 648641

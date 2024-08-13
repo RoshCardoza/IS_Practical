@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:72be155f33b14500d63cc97b577160a661c1bab1081fdcaf812451dd66e6b34a
-size 355
+fileFormatVersion: 2
+guid: 11d2414f1e120a14c98cba6866e5348f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleMatches/Prefabs/MatchPlayer.prefab
+  uploadId: 648641

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f9984f9c13d653ea3d67b0039038787c36fc7d2dd7701b9ae87553c3ceed21ec
-size 444
+fileFormatVersion: 2
+guid: de2aeb2e8068f421a9a1febe408f7051
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/EntryPoint/CompilationFinishedHook.cs
+  uploadId: 648641

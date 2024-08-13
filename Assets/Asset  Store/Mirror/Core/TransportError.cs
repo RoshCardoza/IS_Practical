@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0f0a3c6e3de131631de155e2ec6e17f050b36b756f5582dc61d9b6b3912e7dab
-size 809
+// Mirror transport error code enum.
+// most transport implementations should use a subset of this,
+// and then translate the transport error codes to mirror error codes.
+namespace Mirror
+{
+    public enum TransportError : byte
+    {
+        DnsResolve,       // failed to resolve a host name
+        Refused,          // connection refused by other end. server full etc.
+        Timeout,          // ping timeout or dead link
+        Congestion,       // more messages than transport / network can process
+        InvalidReceive,   // recv invalid packet (possibly intentional attack)
+        InvalidSend,      // user tried to send invalid data
+        ConnectionClosed, // connection closed voluntarily or lost involuntarily
+        Unexpected        // unexpected error / exception, requires fix.
+    }
+}

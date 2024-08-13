@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3701e25eeb94735b682d81ee53a607b91842d0d16894827fc1b24eedf5aa9ad4
-size 383
+fileFormatVersion: 2
+guid: 3ec90781e3720544da7fc86055e6cbe6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Materials/Capsule.mat
+  uploadId: 648641

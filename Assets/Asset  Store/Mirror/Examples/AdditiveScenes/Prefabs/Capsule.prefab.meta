@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe595873a32af18cbe181ad9a17b1c4297b310b754aa0f253775c6a29b13a873
-size 350
+fileFormatVersion: 2
+guid: e1971f4a8c7661546bc509b44bd91b80
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Prefabs/Capsule.prefab
+  uploadId: 648641

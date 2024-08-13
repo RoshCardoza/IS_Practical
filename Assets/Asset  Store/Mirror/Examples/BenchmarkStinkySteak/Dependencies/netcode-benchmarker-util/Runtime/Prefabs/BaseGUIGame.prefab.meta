@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d7d8fc7849f6530d4ba2007518695d38ca2ff421932a62a1080eef84a1764bed
-size 406
+fileFormatVersion: 2
+guid: 6e6b75e5db829b54ba9287ce8d21b551
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Dependencies/netcode-benchmarker-util/Runtime/Prefabs/BaseGUIGame.prefab
+  uploadId: 648641

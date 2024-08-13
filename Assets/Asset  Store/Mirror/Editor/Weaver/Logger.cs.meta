@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23e255cc38144052346a324e991ff9021418b18b92fb634891dcc3dd1fb68295
-size 416
+fileFormatVersion: 2
+guid: 2a21c60c40a4c4d679c2b71a7c40882e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/Logger.cs
+  uploadId: 648641

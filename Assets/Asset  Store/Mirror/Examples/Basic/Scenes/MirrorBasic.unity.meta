@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf49c84ce7cfe8bb93d97324aa959e4377d54127068813346556844451906307
-size 344
+fileFormatVersion: 2
+guid: b30904751905d3f4dacde62ac85ec7c2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Basic/Scenes/MirrorBasic.unity
+  uploadId: 648641

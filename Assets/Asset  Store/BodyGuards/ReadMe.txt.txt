@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5392c82ba1e84a32938a2ff86e80bb424cb3593bc15d9983f6e0883dc8a5143
-size 640
+Bodyguards 1.0
+
+Package contains three unique characters, fourth is added as a bonus. These are skined, game ready characters. You can use them as agents, bodyguards, policemans, mafiosos etc. Each character have 2k diffuse, normal, specular,Ao maps connected to PBS material. It is perfect for any type of game and for prototyping games. Polycount for characters is: 7970, 8508, 9043 and 7792 triangles.
+
+-Release 1.2
+Characters are now skined to a new rig. The same rig that user "Kubold" is using in his animations packages. These characters are now fully compatible with Kubold's animations, without any retargeting and adjusting guns.

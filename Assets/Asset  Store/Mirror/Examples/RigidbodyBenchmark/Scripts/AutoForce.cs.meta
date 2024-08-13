@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:25363477cf76f5cd4e35657f2eda11e3985af2acc34bb502e66c8c2a736accbf
-size 441
+fileFormatVersion: 2
+guid: e7cfbc91b3df3449dba2d6585082228e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/RigidbodyBenchmark/Scripts/AutoForce.cs
+  uploadId: 648641

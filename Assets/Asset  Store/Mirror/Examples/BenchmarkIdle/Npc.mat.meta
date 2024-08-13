@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e87688c58dc2eb349ffc081c814e4257ad2258e3c5638cc2145f1c6db0945d44
-size 368
+fileFormatVersion: 2
+guid: 3ec830ed62de74cfe8c71892397c32ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkIdle/Npc.mat
+  uploadId: 648641

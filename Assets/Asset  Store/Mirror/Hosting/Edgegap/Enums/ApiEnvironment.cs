@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0479f8f25f1466860abe19d320fdb8a69de89472a523a0fd7316e9578cd99a75
-size 1897
+namespace Edgegap
+{
+    public enum ApiEnvironment
+    {
+        Staging,
+        Console,
+    }
+
+    public static class ApiEnvironmentsExtensions
+    {
+        public static string GetApiUrl(this ApiEnvironment apiEnvironment)
+        {
+            string apiUrl;
+
+            switch (apiEnvironment)
+            {
+                case ApiEnvironment.Staging:
+                    apiUrl = "https://staging-api.edgegap.com";
+                    break;
+                case ApiEnvironment.Console:
+                    apiUrl = "https://api.edgegap.com";
+                    break;
+                default:
+                    apiUrl = null;
+                    break;
+            }
+
+            return apiUrl;
+        }
+
+        public static string GetDashboardUrl(this ApiEnvironment apiEnvironment)
+        {
+            string apiUrl;
+
+            switch (apiEnvironment)
+            {
+                case ApiEnvironment.Staging:
+                    apiUrl = "https://staging-console.edgegap.com";
+                    break;
+                case ApiEnvironment.Console:
+                    apiUrl = "https://console.edgegap.com";
+                    break;
+                default:
+                    apiUrl = null;
+                    break;
+            }
+
+            return apiUrl;
+        }
+
+        public static string GetDocumentationUrl(this ApiEnvironment apiEnvironment)
+        {
+            string apiUrl;
+
+            switch (apiEnvironment)
+            {
+                case ApiEnvironment.Staging:
+                    apiUrl = "https://staging-docs.edgegap.com/docs";
+                    break;
+                case ApiEnvironment.Console:
+                    apiUrl = "https://docs.edgegap.com/docs";
+                    break;
+                default:
+                    apiUrl = null;
+                    break;
+            }
+
+            return apiUrl;
+        }
+    }
+}

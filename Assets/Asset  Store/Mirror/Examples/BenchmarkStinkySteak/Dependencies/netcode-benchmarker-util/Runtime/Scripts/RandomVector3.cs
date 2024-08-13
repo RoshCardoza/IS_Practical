@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d01599577da964346011394bd52928e2f3a2f2eabe11c7d23106053f6449833b
-size 360
+using UnityEngine;
+
+namespace StinkySteak.NetcodeBenchmark
+{
+    public static class RandomVector3
+    {
+        public static Vector3 Get(float max)
+        {
+            float x = Random.Range(-max, max);
+            float y = Random.Range(-max, max);
+            float z = Random.Range(-max, max);
+
+            return new Vector3(x, y, z);
+        }
+    }
+}

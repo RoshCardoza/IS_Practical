@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0cb17a3326168acf99a933137c24491069c9a00cbf5d16385f2bc6b929a55282
-size 361
+fileFormatVersion: 2
+guid: b42449e4a64f03a42b999b0c118df11b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/RigidbodyPhysics/Scenes/MirrorBounceScene.unity
+  uploadId: 648641

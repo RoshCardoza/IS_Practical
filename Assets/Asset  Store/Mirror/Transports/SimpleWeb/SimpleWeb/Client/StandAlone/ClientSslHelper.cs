@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c7eaa34adca8a3d70285d6e8065287eab60d9eb5afb0e7b4894eb5c23bfe1ed
-size 1428
+﻿using System;
+using System.IO;
+using System.Net.Security;
+using System.Net.Sockets;
+using System.Security.Cryptography.X509Certificates;
+
+namespace Mirror.SimpleWeb
+{
+    internal class ClientSslHelper
+    {
+        internal bool TryCreateStream(Connection conn, Uri uri)
+        {
+            NetworkStream stream = conn.client.GetStream();
+            if (uri.Scheme != "wss")
+            {
+                conn.stream = stream;
+                return true;
+            }
+
+            try
+            {
+                conn.stream = CreateStream(stream, uri);
+                return true;
+            }
+            catch (Exception e)
+            {
+                Log.Error($"[SWT-ClientSslHelper]: Create SSLStream Failed: {e.Message}\n{e.StackTrace}\n\n");
+                return false;
+            }
+        }
+
+        Stream CreateStream(NetworkStream stream, Uri uri)
+        {
+            SslStream sslStream = new SslStream(stream, true, ValidateServerCertificate);
+            sslStream.AuthenticateAsClient(uri.Host);
+            return sslStream;
+        }
+
+        static bool ValidateServerCertificate(object sender, X509Certificate certificate, X509Chain chain, SslPolicyErrors sslPolicyErrors)
+        {
+            // Do not allow this client to communicate with unauthenticated servers.
+
+            // only accept if no errors
+            return sslPolicyErrors == SslPolicyErrors.None;
+        }
+    }
+}

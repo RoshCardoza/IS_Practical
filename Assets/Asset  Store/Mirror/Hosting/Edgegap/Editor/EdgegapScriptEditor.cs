@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:970cdb51f78a756309070786987fa93946e4cce07f4bb06cabb60d476847247f
-size 642
+﻿using UnityEditor;
+using UnityEngine.UIElements;
+using Edgegap;
+
+[CustomEditor(typeof(EdgegapToolScript))]
+public class EdgegapPluginScriptEditor : Editor
+{
+    VisualElement _serverDataContainer;
+
+    private void OnEnable()
+    {
+        _serverDataContainer = EdgegapServerDataManager.GetServerDataVisualTree();
+        EdgegapServerDataManager.RegisterServerDataContainer(_serverDataContainer);
+    }
+
+    private void OnDisable()
+    {
+        EdgegapServerDataManager.DeregisterServerDataContainer(_serverDataContainer);
+    }
+
+    public override VisualElement CreateInspectorGUI()
+    {
+        return _serverDataContainer;
+    }
+}

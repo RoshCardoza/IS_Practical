@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ec46580c5e11d14c90186fc9acffa2ec7fe1df92ae66e16f15bb88b9e9ecc87
-size 448
+fileFormatVersion: 2
+guid: 6cac48dc20f866148b44d0f9b5850761
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/PlayerCamera.cs
+  uploadId: 648641

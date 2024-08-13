@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f777539e37cf16e309f0d2a372683f03f79ed08f4dfa5a162fb16437f95e1f2
-size 418
+fileFormatVersion: 2
+guid: 047c894c2a5ccc1438b7e59302f62744
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/InspectorHelper.cs
+  uploadId: 648641

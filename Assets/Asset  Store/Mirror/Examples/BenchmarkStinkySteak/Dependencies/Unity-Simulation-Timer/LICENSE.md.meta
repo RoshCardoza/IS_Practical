@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:82da7248d854a9173d68cb74dd34afc3e4d518a09e22779c7f32204f3c6f5326
-size 384
+fileFormatVersion: 2
+guid: b0c6073310113462d96a86bea89ec4ea
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Dependencies/Unity-Simulation-Timer/LICENSE.md
+  uploadId: 648641

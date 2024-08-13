@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29c312d85a325bcc1e0e7d7b41015ed16cc7d00d993f660165a720e2c9b6d4e2
-size 424
+fileFormatVersion: 2
+guid: 80cc70189403d7444bbffd185ca28462
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/AndroidManifestHelper.cs
+  uploadId: 648641

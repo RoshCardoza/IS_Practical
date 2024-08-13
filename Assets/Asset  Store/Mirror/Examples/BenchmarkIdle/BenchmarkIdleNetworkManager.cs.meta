@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c248a07c769ab9d3454534dab181a8e754a146c03bd7398acea2892cb71d7f51
-size 446
+fileFormatVersion: 2
+guid: 6f7f7192969f04e1eb1d3b30cb378a20
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkIdle/BenchmarkIdleNetworkManager.cs
+  uploadId: 648641

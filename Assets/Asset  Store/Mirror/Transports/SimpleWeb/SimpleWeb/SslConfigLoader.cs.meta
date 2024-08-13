@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0b8a40cd3c9a05258213758b5dc7eb031f7f788e279b597bb7aa189109498f7e
-size 442
+fileFormatVersion: 2
+guid: dfdb6b97a48a48b498e563e857342da1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/SimpleWeb/SimpleWeb/SslConfigLoader.cs
+  uploadId: 648641

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54178a3db369d944a5020abf9d4942e8ec30672fc20a6e1eac20f9cace41e04a
-size 431
+fileFormatVersion: 2
+guid: 55eb9eb8794946f4da7ad39788c9920b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/TypeReferenceComparer.cs
+  uploadId: 648641

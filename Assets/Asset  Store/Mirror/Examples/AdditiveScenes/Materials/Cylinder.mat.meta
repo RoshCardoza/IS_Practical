@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f664e3b838b11e44a5089e135820987261f04a4b67cf0659d1c57c8460538c3
-size 384
+fileFormatVersion: 2
+guid: 439a10ee8f8d14040be9003239449741
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveScenes/Materials/Cylinder.mat
+  uploadId: 648641

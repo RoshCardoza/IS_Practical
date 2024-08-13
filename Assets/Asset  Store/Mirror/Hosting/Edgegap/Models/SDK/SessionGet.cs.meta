@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be18774e04d1b391f02dec9808a85aa16d80b0adbb999798d15e85107bd994d0
-size 433
+fileFormatVersion: 2
+guid: f51316ca2656bc84e918d4612bd31a3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Models/SDK/SessionGet.cs
+  uploadId: 648641

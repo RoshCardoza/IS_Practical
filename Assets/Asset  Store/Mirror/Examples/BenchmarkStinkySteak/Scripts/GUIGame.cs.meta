@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:868860bda15c40f4a8c45c7201063b95a81938e71fb2be76f203a29c8a1d09e3
-size 441
+fileFormatVersion: 2
+guid: 89b59180da8577947a00064507b6f488
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Scripts/GUIGame.cs
+  uploadId: 648641

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:52525e7fdbd65526cd8d75b367e4664801e40be47faa480b4dd3ec14bd115a29
-size 432
+fileFormatVersion: 2
+guid: a91a718a70d01b347b75cb768a6f1a92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/_Common/Scripts/RandomColor.cs
+  uploadId: 648641

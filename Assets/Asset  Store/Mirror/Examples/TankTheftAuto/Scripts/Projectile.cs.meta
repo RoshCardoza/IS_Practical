@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5b6b2594a6966be8ff172bea675aa077c46ef175922849bd587a059da0c8d08
-size 437
+fileFormatVersion: 2
+guid: 9b0798e773349420dbdf4ee305445d6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/TankTheftAuto/Scripts/Projectile.cs
+  uploadId: 648641

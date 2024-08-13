@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3496b92a3d807db492964dab20a5d1138b01e43a67b07b28c1b314e4e5086cda
-size 437
+fileFormatVersion: 2
+guid: c482338c8cc6d4a3cba81934c0151972
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Benchmark/Scripts/PlayerMovement.cs
+  uploadId: 648641

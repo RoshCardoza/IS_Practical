@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4a4ef342c81a83198b8d8d94fec703eecfaa4514c358ca1856f7781b9d85b154
-size 438
+fileFormatVersion: 2
+guid: a2c9bdffb0b934b52b2c337a5c8a5698
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Snapshot Interpolation/Snapshot3D.cs
+  uploadId: 648641

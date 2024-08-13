@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d320ad950a1aabc17b8dbb728b0af6c538c917a607c338f5c29ff8ef830cda2
-size 447
+fileFormatVersion: 2
+guid: f45e025c29e20480cb3d9ab86918814a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Scripts/SceneReferencer.cs
+  uploadId: 648641

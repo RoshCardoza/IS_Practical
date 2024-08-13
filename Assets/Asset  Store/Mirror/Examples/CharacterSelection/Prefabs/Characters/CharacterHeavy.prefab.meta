@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ea7e3cc6df74b1e9b2cce0cfbc900a904c0fa45a036bc8dafbceb33af948b712
-size 372
+fileFormatVersion: 2
+guid: 59ffef73ea4ec43c09cd00a5135ca8f1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Prefabs/Characters/CharacterHeavy.prefab
+  uploadId: 648641

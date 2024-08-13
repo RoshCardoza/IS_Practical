@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:33a06a3a81370c6179f38753a6061b3c4c6a9495bcec52378f242bc741fc6950
-size 386
+fileFormatVersion: 2
+guid: 39b4637f172cd49e3859073b6bbdb7e5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/RigidbodyBenchmark/Materials/Player.mat
+  uploadId: 648641

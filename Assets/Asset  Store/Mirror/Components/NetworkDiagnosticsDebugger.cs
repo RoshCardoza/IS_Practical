@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d4706cdb36e735ed071536d9fa622f0dc50ede44d8571a3552465e2519556b1
-size 845
+using UnityEngine;
+
+namespace Mirror
+{
+    public class NetworkDiagnosticsDebugger : MonoBehaviour
+    {
+        public bool logInMessages = true;
+        public bool logOutMessages = true;
+        void OnInMessage(NetworkDiagnostics.MessageInfo msgInfo)
+        {
+            if (logInMessages)
+                Debug.Log(msgInfo);
+        }
+        void OnOutMessage(NetworkDiagnostics.MessageInfo msgInfo)
+        {
+            if (logOutMessages)
+                Debug.Log(msgInfo);
+        }
+        void OnEnable()
+        {
+            NetworkDiagnostics.InMessageEvent += OnInMessage;
+            NetworkDiagnostics.OutMessageEvent += OnOutMessage;
+        }
+        void OnDisable()
+        {
+            NetworkDiagnostics.InMessageEvent -= OnInMessage;
+            NetworkDiagnostics.OutMessageEvent -= OnOutMessage;
+        }
+    }
+}

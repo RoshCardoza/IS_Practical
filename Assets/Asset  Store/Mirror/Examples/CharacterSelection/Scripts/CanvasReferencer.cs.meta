@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:628b623d9d7e5056951a6defef06800e04fa3d1728ccde1c05857f03f13a94a3
-size 448
+fileFormatVersion: 2
+guid: faef105eb77a94bbaacfe57f48968e19
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Scripts/CanvasReferencer.cs
+  uploadId: 648641

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ac92b9d513fa65bca1763985ea8bc33650914b93b5be9d01de3e2ae5afe3c16
-size 352
+fileFormatVersion: 2
+guid: 90fddc74fa21c423599167eb28b09dd1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Discovery/Scenes/MirrorDiscovery.unity
+  uploadId: 648641

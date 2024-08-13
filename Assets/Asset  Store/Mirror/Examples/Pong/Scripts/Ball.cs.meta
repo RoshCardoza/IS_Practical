@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6fc002efa68e59cfe0d081c903519a794d0ec4ecafe0f3de20a4c49362284bd3
-size 443
+fileFormatVersion: 2
+guid: 38b5c2f743cd8034a8beeebf277c92c1
+timeCreated: 1426602353
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Pong/Scripts/Ball.cs
+  uploadId: 648641

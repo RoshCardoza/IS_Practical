@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:515bc8317257933957c9427869ed46f5c90fb4507dd6458160aefc53f755f09d
-size 450
+fileFormatVersion: 2
+guid: e04a8cb02afdc4e778925020d233d718
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CharacterSelection/Scripts/CharacterSelection.cs
+  uploadId: 648641

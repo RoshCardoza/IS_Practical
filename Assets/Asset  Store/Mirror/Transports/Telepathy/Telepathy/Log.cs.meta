@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b949a7f5b4222c3f893b1d55c4257f0d3142050bfbc71fea46c0675c30e7a8d1
-size 430
+fileFormatVersion: 2
+guid: 0a123d054bef34d059057ac2ce936605
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/Telepathy/Telepathy/Log.cs
+  uploadId: 648641

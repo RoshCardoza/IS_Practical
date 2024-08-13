@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e8b4572c06ca190e56c4068a2ae68a3b6e1e67ed884b72e90a7e8929c7115888
-size 474
+fileFormatVersion: 2
+guid: 6b8f3fffcb4754c15bc5ed4c33e2497b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 7453abfe9e8b2c04a8a47eb536fe21eb, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Core/Tools/DeltaCompression.cs
+  uploadId: 648641

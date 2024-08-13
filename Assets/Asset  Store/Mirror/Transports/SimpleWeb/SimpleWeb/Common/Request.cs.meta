@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba0ba42ea8486354f52dd4d607ac1eeb6a3e5740054fd0e49a7f64d9ed32f219
-size 441
+fileFormatVersion: 2
+guid: 50b41ad63d4956a42a073bad5158fe09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/SimpleWeb/SimpleWeb/Common/Request.cs
+  uploadId: 648641

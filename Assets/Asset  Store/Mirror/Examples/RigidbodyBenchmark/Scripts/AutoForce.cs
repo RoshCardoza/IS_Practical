@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43e81539b603b310c0acb192e865f9b2d7f098ef9f65f7f5fc2b0dcc3c1420dd
-size 831
+using UnityEngine;
+using Random = UnityEngine.Random;
+
+namespace Mirror.Examples.RigidbodyBenchmark
+{
+    [RequireComponent(typeof(Rigidbody))]
+    public class AutoForce : NetworkBehaviour
+    {
+        public Rigidbody rigidbody3d;
+        public float force = 500;
+        public float forceProbability = 0.05f;
+
+        protected override void OnValidate()
+        {
+            base.OnValidate();
+            rigidbody3d = GetComponent<Rigidbody>();
+        }
+
+        [ServerCallback]
+        void FixedUpdate()
+        {
+            // do we have authority over this?
+            if (rigidbody3d.isKinematic) return;
+
+            // time to apply force?
+            if (Random.value < forceProbability * Time.deltaTime)
+            {
+                rigidbody3d.AddForce(Vector3.up * force);
+            }
+        }
+    }
+}

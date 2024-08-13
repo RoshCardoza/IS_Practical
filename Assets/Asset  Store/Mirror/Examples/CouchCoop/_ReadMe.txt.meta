@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a57fba812a25f7dca075a78863d76c47ea8647edbdae44ba349dacdad436a1b
-size 335
+fileFormatVersion: 2
+guid: bd8cfa13483c4428facfd02c63e3dbca
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CouchCoop/_ReadMe.txt
+  uploadId: 648641

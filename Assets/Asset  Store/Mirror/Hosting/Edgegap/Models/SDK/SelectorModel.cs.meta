@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92e1f6764727478ecca08dd69f3a1e9c435063ec79e91be842b33a00bb8cede7
-size 436
+fileFormatVersion: 2
+guid: f8c6e90e8d48e4644acb39ad543db2ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Models/SDK/SelectorModel.cs
+  uploadId: 648641

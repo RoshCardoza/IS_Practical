@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6dc8949ca7bc99faa00e22a5f2e3df498c202a3ec861e561098e4387a051ecc0
-size 364
+fileFormatVersion: 2
+guid: aa1f875396fa7d348a782cebc2f75d7c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/MultipleMatches/Scenes/MirrorMultipleMatches.unity
+  uploadId: 648641

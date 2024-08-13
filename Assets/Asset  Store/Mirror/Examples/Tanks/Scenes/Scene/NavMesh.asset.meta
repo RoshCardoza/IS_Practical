@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7cc5e8952fb391f357b9bc4a90e284a6b5c30220468b848d307da045fd53faa3
-size 380
+fileFormatVersion: 2
+guid: 0bc607fa2e315482ebe98797e844e11f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Tanks/Scenes/Scene/NavMesh.asset
+  uploadId: 648641

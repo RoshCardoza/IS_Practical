@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21f6765c9150a309febc74d9dd40fbb56da4e4ffa13509390d9f7b96c57ce2b8
-size 382
+fileFormatVersion: 2
+guid: 20d755ab53045e545ab0b6e59c710ed9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/AdditiveLevels/Materials/Ground.mat
+  uploadId: 648641

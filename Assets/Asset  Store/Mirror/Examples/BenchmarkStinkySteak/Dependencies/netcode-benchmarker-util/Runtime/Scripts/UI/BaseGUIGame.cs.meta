@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9e36f81005e2f671e17d0635ef69db890e325ba0d2d1bd18e417632dcaf4638
-size 494
+fileFormatVersion: 2
+guid: 0f64aeea8d696ff4fbb80a37fad8ebd8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Dependencies/netcode-benchmarker-util/Runtime/Scripts/UI/BaseGUIGame.cs
+  uploadId: 648641

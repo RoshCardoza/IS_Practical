@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:685fda7c25ff11811d323973014ff047f6cb6349c1181e04c3e0013fc88a5289
-size 371
+fileFormatVersion: 2
+guid: d271ebc46b0f74b6fbf2eaab8586fb52
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Billiards/Table/Body.mat
+  uploadId: 648641

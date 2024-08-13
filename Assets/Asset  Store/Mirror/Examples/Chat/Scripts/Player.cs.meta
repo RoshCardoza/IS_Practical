@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b362155399121030d4962aa34eec5ded665b05772056e0afa7a7b5f66b9e9a4
-size 424
+fileFormatVersion: 2
+guid: 3addc5ad220944ed6888319897606739
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Chat/Scripts/Player.cs
+  uploadId: 648641

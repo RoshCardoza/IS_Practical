@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c860cefb65bf76244d882c8f112fa7d3a7aa33e41b81ad7aa746a447b358839
-size 380
+fileFormatVersion: 2
+guid: cc250a30997cc42318e82a6ec42171db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BilliardsPredicted/Ball/White.mat
+  uploadId: 648641

@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:663cc511f9e63001c2e12d3c056a42be2c298d7edfe964d193b96a94e485711f
-size 777
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+namespace Mirror.Examples.MultipleAdditiveScenes
+{
+    internal class Spawner
+    {
+        [ServerCallback]
+        internal static void InitialSpawn(Scene scene)
+        {
+            for (int i = 0; i < 10; i++)
+                SpawnReward(scene);
+        }
+
+        [ServerCallback]
+        internal static void SpawnReward(Scene scene)
+        {
+            Vector3 spawnPosition = new Vector3(Random.Range(-19, 20), 1, Random.Range(-19, 20));
+            GameObject reward = Object.Instantiate(((MultiSceneNetManager)NetworkManager.singleton).rewardPrefab, spawnPosition, Quaternion.identity);
+            SceneManager.MoveGameObjectToScene(reward, scene);
+            NetworkServer.Spawn(reward);
+        }
+    }
+}

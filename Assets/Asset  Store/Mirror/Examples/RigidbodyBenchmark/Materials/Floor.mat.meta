@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:214b21e6eb145e926688431f888fa48f5e98329fbac14ddf85e3d94bd4b22696
-size 385
+fileFormatVersion: 2
+guid: 85f7f8f287aab49ea8e679c9f50a195d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/RigidbodyBenchmark/Materials/Floor.mat
+  uploadId: 648641

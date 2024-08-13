@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f3fbd99d21e00b71e853d23ccf92613f83fab8ce9ef73362f9a3a01a7fa61174
-size 351
+fileFormatVersion: 2
+guid: 639ffa9af490c4a8fb41de76fd1ab4e1
+DefaultImporter:
+  externalObjects: {}
+  userData: ''
+  assetBundleName: ''
+  assetBundleVariant: ''
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CouchCoop/MirrorCouchCoop.unity
+  uploadId: 648641

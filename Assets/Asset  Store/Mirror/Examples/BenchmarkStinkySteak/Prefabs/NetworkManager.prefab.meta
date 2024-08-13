@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a59ac2e16ff55320888f324a6bf0390a168daaa74468edbb7e8a92dc550e696c
-size 363
+fileFormatVersion: 2
+guid: 62d3b9c46c08c934ea2ac02811b3028d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Prefabs/NetworkManager.prefab
+  uploadId: 648641

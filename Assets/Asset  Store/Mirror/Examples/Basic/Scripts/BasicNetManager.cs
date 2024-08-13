@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3224baa11393084d3f7865c40b74b44407e96ee48bf18a01d00bfe25a148588e
-size 1180
+using UnityEngine;
+
+namespace Mirror.Examples.Basic
+{
+    [AddComponentMenu("")]
+    public class BasicNetManager : NetworkManager
+    {
+        /// <summary>
+        /// Called on the server when a client adds a new player with NetworkClient.AddPlayer.
+        /// <para>The default implementation for this function creates a new player object from the playerPrefab.</para>
+        /// </summary>
+        /// <param name="conn">Connection from client.</param>
+        public override void OnServerAddPlayer(NetworkConnectionToClient conn)
+        {
+            base.OnServerAddPlayer(conn);
+            Player.ResetPlayerNumbers();
+        }
+
+        /// <summary>
+        /// Called on the server when a client disconnects.
+        /// <para>This is called on the Server when a Client disconnects from the Server. Use an override to decide what should happen when a disconnection is detected.</para>
+        /// </summary>
+        /// <param name="conn">Connection from client.</param>
+        public override void OnServerDisconnect(NetworkConnectionToClient conn)
+        {
+            base.OnServerDisconnect(conn);
+            Player.ResetPlayerNumbers();
+        }
+    }
+}

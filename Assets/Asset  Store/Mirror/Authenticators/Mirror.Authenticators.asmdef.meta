@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4240e4f9ad2337b4c3753c633cea689187afd49c89640faf4708e8171864906
-size 359
+fileFormatVersion: 2
+guid: e720aa64e3f58fb4880566a322584340
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Authenticators/Mirror.Authenticators.asmdef
+  uploadId: 648641

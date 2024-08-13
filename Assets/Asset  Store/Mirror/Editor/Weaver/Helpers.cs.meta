@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43d6e831d7fd8b77c557bea3c0dfe8a8f2c92a3b388b9783da73d3d335398fde
-size 417
+fileFormatVersion: 2
+guid: 6c4ed76daf48547c5abb7c58f8d20886
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Editor/Weaver/Helpers.cs
+  uploadId: 648641

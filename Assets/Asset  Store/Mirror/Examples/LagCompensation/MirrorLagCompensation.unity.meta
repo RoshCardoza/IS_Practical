@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:80b6fc178f53aaec5603c43212e758c8d0ec72d750f95006652311d6e37550ff
-size 357
+fileFormatVersion: 2
+guid: 171fa8a3c4ead4a2886e0ecd02e810c0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/LagCompensation/MirrorLagCompensation.unity
+  uploadId: 648641

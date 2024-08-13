@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c03ef7e722cb71381641438e5d064175bac1bd1910c50313c0da6b1ffc69ac5
-size 330
+fileFormatVersion: 2
+guid: 614e28b6213c14195b8661c153bf4ee4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/CCU/Player.prefab
+  uploadId: 648641

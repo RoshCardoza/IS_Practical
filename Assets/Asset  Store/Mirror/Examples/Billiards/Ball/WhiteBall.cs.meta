@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d2d57c3601f81ea72a7670f2f5ed22e13cfc29c146ba07d96e6fa2a57f5f5c4
-size 429
+fileFormatVersion: 2
+guid: 22982698a2c944cf39e961e49e9cd00c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Billiards/Ball/WhiteBall.cs
+  uploadId: 648641

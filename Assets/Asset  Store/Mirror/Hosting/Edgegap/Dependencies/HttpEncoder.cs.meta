@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9af282c13b532a90801b8c6e3035ea48d7db3b3dff659cc491dd466bf6a03dfe
-size 277
+fileFormatVersion: 2
+guid: 3c9f699c227f48e381db521abe59c2e1
+timeCreated: 1701789490
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Hosting/Edgegap/Dependencies/HttpEncoder.cs
+  uploadId: 648641

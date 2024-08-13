@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88536fc21e0d731b8c0ad459abd237fba720848c28d70ff927beed9e6d0f9dc6
-size 445
+fileFormatVersion: 2
+guid: 0748c7eda22b19845b9ce0e4d23d1021
+timeCreated: 1426597826
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Examples/Pong/Scripts/Player.cs
+  uploadId: 648641

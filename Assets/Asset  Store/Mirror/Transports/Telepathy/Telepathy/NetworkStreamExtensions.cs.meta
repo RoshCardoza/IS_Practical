@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:908b2b9ba430200b2552366b9dcd2e9de7fbb56dbafa657929f57df61e1f1738
-size 450
+fileFormatVersion: 2
+guid: 7a8076c43fa8d4d45831adae232d4d3c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 89.0.0
+  assetPath: Assets/Mirror/Transports/Telepathy/Telepathy/NetworkStreamExtensions.cs
+  uploadId: 648641

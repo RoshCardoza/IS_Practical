@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:705237f907a58da3e9d1b8f6a0c62368fcceb38a0d7789324d87a0ad5780c8b9
-size 361
+namespace Mirror
+{
+    public interface Capture
+    {
+        // server timestamp at time of capture.
+        double timestamp { get; set; }
+
+        // optional gizmo drawing for visual debugging.
+        // history is only known on the server, which usually doesn't render.
+        // showing Gizmos in the Editor is enough.
+        void DrawGizmo();
+    }
+}
